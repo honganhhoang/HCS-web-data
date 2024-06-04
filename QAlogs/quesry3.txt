@@ -1,0 +1,80 @@
+Query: What are the options of councelling servives?
+
+What specialized counselling support options are available at Health & Counselling?
+- Single Session Counselling Follow-up
+- Short-Term Counselling
+- Group-based programs
+- My SSP service
+- Community resources
+0_3_2
+https://www.sfu.ca/students/health/support-resources/counselling-services.html
+0.9106108760352372
+
+How can I access coverage for counselling services?
+You must see a provider who is registered with the Health Benefits Program to receive coverage for your counselling services
+0_3_7_2
+https://www.fnha.ca/benefits/mental-health
+0.889062131982617
+
+What types of support options are available for international students at Health & Counselling?
+- Individual support
+- Group support
+- Transition Case Manager support
+0_9_2
+https://www.sfu.ca/students/health/resources/identity/SupportForInternationalStudents.html#tcm
+0.8703096514411117
+
+What workshops and outreach opportunities are available through Health and Counselling Services?
+- View available on-demand workshops and outreach opportunities
+- Request one for your faculty, department, unit or team
+0_1_1_11_2
+https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+0.867919593284764
+
+What other support options and counselling services are available at SFU Health and Counselling Services?
+- Group counselling
+- Online self-help resources
+- MindShift Application
+- Black Counsellor, Tricia Kay Williams
+- Indigenous Clinical Counsellors
+- Elders Program Drop-in
+- Cultural Connections workshop
+- ISC counsellors
+- Doctor, nurse, or counsellor appointments through Health and Counselling services
+0_3_2_5
+https://www.sfu.ca/students/indigenous/wellness.html
+0.8675545982328761
+
+How can I book an appointment for counselling support at Health & Counselling?
+You can book appointments online or call the front desk.
+0_3_2
+https://www.sfu.ca/students/health/support-resources/counselling-services.html
+0.8665235320813092
+
+How can I access virtual appointments for counselling services?
+1. Talk to your provider about Telehealth options
+0_3_7_2
+https://www.fnha.ca/benefits/mental-health
+0.8647257499815479
+
+What group counselling options are available for CAL registrants?
+There are a number of group counselling options available for CAL registrants, facilitated by the CAL counsellor.
+0_1_4
+https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+0.8642487112965135
+
+What type of counsellors are available through Homewood Health?
+- Registered licensed counsellors
+- Counsellors with extensive experience in counselling clients within the Indigenous community
+- Counsellors identifying as experts in Inuit, Metis, First Nations, and Residential Schools
+- Counsellors identifying as experts in LGBTQ2+ and BIPOC communities
+0_1_1_11_4_6
+https://www.sfu.ca/human-resources/efap.html
+0.8639022053231696
+
+What types of counselling services are offered to SFU and FIC students?
+Health & Counselling offers free, confidential, time-limited counselling support to all registered SFU and FIC students, from any campus. The counselling team provides initial consultation and assessment, information and referral, workshops, crisis support, safety planning, and individual and group counselling to address various concerns. Counselling services are provided by Registered Clinical Counsellors, Registered Psychologists, and their professional student-trainees. There are also specialized counselling options available.
+0_3_2
+https://www.sfu.ca/students/health/support-resources/counselling-services.html
+0.8633314191064577
+

@@ -1,0 +1,16 @@
+Query: hi. i'm an international student and I want to know what services are available at SFU clinic?
+
+Index: 0
+Question: What medical services are available to SFU students?
+Answer: Health & Counselling operates two medical clinics located on the Burnaby and Vancouver campuses with services in-person or by phone/virtual for all students.
+File: 0_2
+URL: https://www.sfu.ca/students/health/see-a-doctor.html
+Similarity: 0.9244238302709866
+
+Index: 1
+Question: What medical services are available for graduate students at SFU?
+Answer: Doctors and nurses are available for a range of medical services, advice, and care. Booking with a clinic on campus is particularly helpful if you are attending SFU from another province or country, don’t have a family doctor during your time in graduate school, or commute from another location in Metro Vancouver. Medical appointments can be booked to meet in-person at Burnaby or Vancouver campus, and tele/virtual health visits are available as needed to accommodate your schedule and location.
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.9183594767435697
+

@@ -1,0 +1,76 @@
+Query: where should i go when i'm sick?
+
+What should I do in case of severe symptoms or a medical emergency related to a minor ailment?
+Seek immediate medical attention or call 9-1-1.
+0_2_6
+https://www2.gov.bc.ca/gov/content/health/accessing-health-care/pharmacy-services
+0.8595954081980207
+
+What should students do if they need to be absent for a longer period of time due to illness?
+Students should expect to need to obtain additional medical documentation. They are encouraged to connect with their care providers or reach out to Health & Counselling Services for care and consultation if they need it.
+0_2
+https://www.sfu.ca/students/health/see-a-doctor.html
+0.8442511716423878
+
+How can I find a hospital near me?
+- Call HealthLink BC at 8-1-1
+- Use the find a location search feature on the website.
+0_4_2
+https://www.vch.ca/en/health-topics/emergency-care
+0.8440949435570626
+
+When should I call 9-1-1 or go to the nearest hospital Emergency Department?
+- If you or someone requires immediate medical attention for illness, injury, or overdose
+- For crisis or suicide
+0_4_2
+https://www.vch.ca/en/health-topics/emergency-care
+0.8364514576158542
+
+How can I find a flu shot clinic?
+- Check with your individual extended health plan 
+- Visit studentcare.ca 
+- Find local immunization and travel clinic 
+- Call the respective campus phone numbers provided
+0_2_1
+https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+0.8348749805669583
+
+Where can I find local immunization and travel clinics?
+Burnaby campus: 778.782.4615
+Vancouver campus: 778.782.5200
+Surrey campus: 778.782.5200
+0_2_1
+https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+0.8295975363053028
+
+How can I get trusted health advice over the phone?
+- Call HealthLink BC at 8-1-1
+- Call your family physician or nurse practitioner
+- Speak with your pharmacist
+0_4_2
+https://www.vch.ca/en/health-topics/emergency-care
+0.821347564001737
+
+How can I see a doctor or nurse at Health & Counselling clinics?
+You can book with your own General Practitioner, Psychologist, or Psychiatrist
+You can book with a doctor at Health & Counselling clinic.
+0_1_4
+https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+0.8188648012990006
+
+What should I bring with me to an Emergency Department?
+- Photo ID
+- BC Services Card or CareCard
+- List of medications
+- Medical Orders of Scope of Treatment (MOST) forms
+- Personal belongings or valuables (minimize)
+0_4_2
+https://www.vch.ca/en/health-topics/emergency-care
+0.8175730346068779
+
+Who should be contacted in case of an emergency situation while traveling internationally?
+International SOS
+0_3_9_4
+https://www.sfu.ca/srs/risk-emergency-planning/travel-safety.html
+0.8076945378750264
+

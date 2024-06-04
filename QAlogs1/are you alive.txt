@@ -1,0 +1,9 @@
+Query: are you alive?
+
+Index: 0
+Question: How important is breathing in daily life?
+Answer: Breathing is essential for daily life as it is a constant reminder that we are alive.
+File: 0_10
+URL: https://olc.sfu.ca/program/sfu-health-and-counselling-services
+Similarity: 0.8070478440695079
+

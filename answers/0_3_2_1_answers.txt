@@ -1,0 +1,32 @@
+1.
+Contact the CAS administrators.
+
+2.
+Turn off the CAPSLOCK key.
+
+3.
+- SFU will never request users provide or confirm their Computing ID or password via email or any website
+- Ignore all messages requesting Computing ID and/or password information, no matter how authentic they may appear
+- Always check that your browser shows a closed lock icon and that the URL of the page starts with https://cas.sfu.ca 
+- Do not enter your password if you're not sure
+- Follow SFU guidelines on phishing prevention
+
+4.
+- Ignore all messages requesting Computing ID and/or password information
+- Check that your browser shows a closed lock icon and that the URL starts with https://cas.sfu.ca
+- Do not enter your password if you are not sure
+- Contact IT Services for assistance with any suspicious messages or requests
+
+5.
+- Closed lock icon
+- URL starting with https://cas.sfu.ca
+
+6.
+Strand Hall 1001
+8888 University Drive
+Burnaby, B.C.
+Canada. V5A 1S6
+
+7.
+Coast Salish peoples of the Musqueam, Squamish, and Tsleil-Waututh Nations.
+

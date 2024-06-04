@@ -1,0 +1,79 @@
+Query: and what is my ssp service?
+
+Index: 0
+Question: What is My SSP and how can SFU students access this service?
+Answer: My SSP is a service contracted by the university. SFU students can access this service by calling or chatting using the app, or arranging for short-term counselling with a My SSP counsellor by appointment.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8808453593340416
+
+Index: 1
+Question: How can I access the My SSP service for counseling support?
+Answer: Phone: 1-844-451-9700 (011-416-380-6578 from outside North America)
+Download and learn more
+File: 0_1_1_11_3
+URL: https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+Similarity: 0.876257685224652
+
+Index: 2
+Question: How can graduate students access the My SSP service for support?
+Answer: Graduate students can access the My SSP service for support by booking appointments with a counsellor, chatting for advice through the app, or calling 24/7 for crisis support.
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.8625181960680719
+
+Index: 3
+Question: Where can I find the SSP App for download?
+Answer: The SSP App can be found for download on the App Store or Google Play Store.
+File: 0_3_5_1
+URL: https://myssp.app/ca/faq
+Similarity: 0.8434986887828484
+
+Index: 4
+Question: How can I access 24/7 crisis support through My SSP?
+Answer: You can download My SSP to access 24/7 crisis support, or call or chat to schedule an appointment with a counsellor in the community (close to home).
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.83948781914405
+
+Index: 5
+Question: Is there an SSP App available for download?
+Answer: Yes
+File: 0_3_5_1
+URL: https://myssp.app/ca/faq
+Similarity: 0.8369251705645216
+
+Index: 6
+Question: How can I schedule an appointment with a counsellor in the community through My SSP?
+Answer: You can download the My SSP app to access 24/7 crisis support or call/chat to schedule an appointment with a counsellor in the community.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8344218654474755
+
+Index: 7
+Question: Are there any specific requirements for using the SSP App?
+Answer: - You need to download the SSP App
+- You can use one of the specified browsers
+File: 0_3_5_1
+URL: https://myssp.app/ca/faq
+Similarity: 0.8315686692582935
+
+Index: 8
+Question: How can students access free mental health support through My SSP?
+Answer: - By downloading the My SSP app on their phone
+- By calling 1.844.451.9700 (or 001.416.380.6578 outside North America)
+File: 0_1_1_11_2
+URL: https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+Similarity: 0.8310022889972415
+
+Index: 9
+Question: What are the different ways staff, faculty, and student leaders can assist students in accessing My SSP?
+Answer: - Promote My SSP by sharing contact information for My SSP and Health and Counselling Services
+- Download the My SSP app on your phone and encourage students do the same
+- Assist students in accessing My SSP, provided you have their consent, by doing the following:
+  - Assisted Referral: help students connect with My SSP for the first time
+  - Outreach Request: ask My SSP to call the student
+File: 0_1_1_11_2
+URL: https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+Similarity: 0.8234161945640365
+

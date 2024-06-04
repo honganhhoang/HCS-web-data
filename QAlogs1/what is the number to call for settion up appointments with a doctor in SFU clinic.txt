@@ -1,0 +1,16 @@
+Query: what is the number to call for settion up appointments with a doctor in SFU clinic?
+
+Index: 0
+Question: How can SFU students schedule health appointments?
+Answer: Appointments can be scheduled in-person, virtually, or online.
+File: 0_1
+URL: https://www.sfu.ca/students/health/contact-us.html
+Similarity: 0.9080314442914402
+
+Index: 1
+Question: How can I book an appointment with a service provider at Health and Counselling Services at SFU?
+Answer: You can call ahead to book an appointment with a service provider at Health and Counselling Services at SFU.
+File: 0_9_2_1
+URL: https://www.sfu.ca/content/dam/sfu/students/health/pdf/Grad%20Student%20Support%20Doc.pdf
+Similarity: 0.9036127673083822
+

@@ -1,0 +1,76 @@
+Query: what is the number for calling the front desk
+
+Index: 0
+Question: What is the phone number to call for booking appointments if I do not have accessibility needs?
+Answer: 778-782-4615
+File: 0_6
+URL: https://www.sfu.ca/students/health/contact-us/accessibility.html
+Similarity: 0.8567979242781617
+
+Index: 1
+Question: How can staff notify the front desk about a student in distress?
+Answer: Staff can notify the front desk about a student in distress by calling or arriving in person and informing them.
+File: 0_4
+URL: https://www.sfu.ca/students/health/emergency.html
+Similarity: 0.8449074758165335
+
+Index: 2
+Question: What is the phone number for the Centre for Accessible Learning?
+Answer: Phone: 778.782.3112
+File: 0_1_4_9
+URL: https://www.sfu.ca/students/accessible-learning/utilizing-accommodations/planning/assessment-funding.html
+Similarity: 0.842282656163644
+
+Index: 3
+Question: What is Campus Security's non-emergency number?
+Answer: 778-782-7991
+File: 0_1_1_24
+URL: https://www.sfu.ca/students/studentsupport/behaviours/disturbing.html
+Similarity: 0.8372092106781877
+
+Index: 4
+Question: What is the Campus Security Emergency number?
+Answer: The Campus Security Emergency number is not provided in the given context.
+File: 0_1_1_1
+URL: https://www.sfu.ca/students/studentsupport/behaviours/danger-threat.html
+Similarity: 0.8361618797743887
+
+Index: 5
+Question: What is the phone number for International SOS?
+Answer: +1-215-942-8478
+File: 0_3_9_4
+URL: https://www.sfu.ca/srs/risk-emergency-planning/travel-safety.html
+Similarity: 0.8297946648242613
+
+Index: 6
+Question: What is the National Suicide Crisis Helpline number?
+Answer: 9-8-8
+File: 0_4_6
+URL: https://crisiscentre.bc.ca/get-help/
+Similarity: 0.8173989085914736
+
+Index: 7
+Question: What are the emergency contact numbers provided for individuals in crisis?
+Answer: - Suicide hotline: 1-800-784-2433
+- Call BC Crisis Line: 604-310-6789
+- Kids Help Phone: 1-800-668-6868
+- KUU-US Crisis Support Line (BC Wide Indigenous Toll Free Crisis and Support Line): 1-800-588-8717
+File: 0_3_9_14
+URL: https://www.vch.ca/en/service/suicide-attempt-follow-education-research-safer#short-description--6731
+Similarity: 0.816481447052844
+
+Index: 8
+Question: What is the phone number for mental health support at the Burnaby campus?
+Answer: 778.782.4615
+File: 0_5_1_1
+URL: https://www.sfu.ca/students/health/whats-happening/hifive-sfu/meethifive.html
+Similarity: 0.8155851586628907
+
+Index: 9
+Question: How can I contact Campus Security in case of an emergency?
+Answer: - Call 911
+- Campus Security is available 24/7 for urgent assistance
+File: 0_1_1_11_3_2
+URL: https://www.sfu.ca/srs/contact.html
+Similarity: 0.8155566107720491
+

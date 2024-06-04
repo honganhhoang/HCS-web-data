@@ -1,0 +1,102 @@
+Bot>> Hello! How can I help you today?
+
+User>>hi. i'm an international student and I want to know what services are available at SFU clinic?
+
+Bot>> Hello! As an international student at SFU, you have access to medical services at the Health & Counselling clinics located on the Burnaby and Vancouver campuses. These clinics offer in-person and phone/virtual services for all students. You can book medical appointments to meet in-person at either campus, and tele/virtual health visits are available as needed to accommodate your schedule and location. These services are particularly helpful for international students who may not have a family doctor in Canada. For more information, you can visit the SFU Health & Counselling website at https://www.sfu.ca/students/health/see-a-doctor.html and https://www.sfu.ca/students/health/graduate-students.html.
+
+User>>how should I book appointments for the clinic
+
+Bot>> Based on the information provided, you can book appointments for the clinic at SFU by calling the Health & Counselling clinics on the Burnaby or Vancouver campuses, or by booking online. Appointments can be made for in-person or by phone/virtual consultations. If you have any specific questions or need further details on the booking process, please let me know. For more information, you can visit the SFU Health & Counselling website at https://www.sfu.ca/students/health/.
+
+User>>what is the address to the clinic
+
+Bot>> The address to the clinic at the Burnaby campus is not explicitly provided in the context. However, you can contact the clinic at Burnaby campus by calling 778-782-4615 for further information, including the address. If you need more specific details or assistance, please let me know. For additional resources related to health and counselling services at SFU, you can visit the SFU Health & Counselling website at https://www.sfu.ca/students/health/.
+
+User>>give me the location to the clinic
+
+Bot>> The specific location of the clinic on the Burnaby and Vancouver campuses is not provided in the context. However, you can contact the clinic at Burnaby campus by calling 778-782-4615 or the Vancouver campus at 778-782-5200 to inquire about the exact location. If you require further assistance or more detailed information, please let me know. For additional resources related to health services, you can visit the SFU Health & Counselling website at https://www.sfu.ca/students/health/.
+
+User>>how does the insurance work?
+
+Bot>> Based on the retrieved context, medical insurance is necessary for international students in Canada because the Canadian health system provides a high standard of healthcare, and care can be very expensive if not insured. Without insurance, individuals could pay thousands of dollars per day for a hospital stay or be refused certain services. It is important to have coverage to avoid financial burdens and ensure access to necessary healthcare services. For more detailed information on how insurance works for international students at SFU, you can visit the SFU Medical Insurance webpage at https://www.sfu.ca/medical-insurance.html.
+
+User>>how does insurance work for international students
+
+Bot>> Based on the information provided, medical insurance is necessary for international students in Canada because the Canadian health system provides a high standard of healthcare, and care can be very expensive if not insured. Without insurance, individuals could face significant financial burdens, potentially paying thousands of dollars per day for a hospital stay or being refused certain services. It is crucial for international students to have medical insurance to ensure they have access to necessary healthcare services and avoid potential financial challenges.
+
+For more detailed information on how insurance works for international students at SFU, you can visit the SFU Medical Insurance webpage at https://www.sfu.ca/medical-insurance.html. If you have any specific questions or need further clarification, feel free to ask.
+
+User>>I do have MSP. does that cover my clinic visits?
+
+Bot>> Based on the retrieved information, having BC Medical Services Plan (BC MSP) may help cover some of the costs associated with clinic visits. BC MSP is the provincial health insurance plan that provides essential medical coverage for residents of British Columbia. It is recommended to inquire directly with the clinic or your insurance provider to confirm the coverage details for your specific clinic visits.
+
+For more detailed information on how your BC MSP coverage applies to clinic visits, you may visit the SFU Medical Insurance webpage at https://www.sfu.ca/medical-insurance.html. If you have any further questions or need assistance, feel free to ask.
+
+User>>what about councelling appointments
+
+Bot>> Based on the information provided, counselling appointments at Health & Counselling can be booked online or by calling the front desk. Additionally, virtual appointments for counselling services can be accessed by discussing Telehealth options with your provider. Typically, three to four appointments are recommended for brief counselling at Health & Counselling.
+
+For more detailed information on accessing counselling appointments at SFU Health & Counselling, you can visit the Counselling Services webpage at https://www.sfu.ca/students/health/support-resources/counselling-services.html. If you have any specific questions or need further assistance, feel free to ask.
+
+User>>what isbrief councelling
+
+Bot>> Based on the provided context, brief counseling at Health & Counselling typically involves three to four appointments. Brief counseling refers to a short-term therapeutic approach that focuses on addressing specific concerns or issues within a limited number of sessions. It is designed to provide support, guidance, and strategies to help individuals manage immediate challenges or difficulties.
+
+For more information on brief counseling and the services offered at SFU Health & Counselling, you can visit the Counselling Services webpage at https://www.sfu.ca/students/health/support-resources/counselling-services.html. If you have any further questions or need clarification, feel free to ask.
+
+User>>what kind of topics can i discuss in brief councelling
+
+Bot>> Based on the provided context, the topics that are well suited for discussion in brief counseling at Health & Counselling include various kinds of anxiety (worry, social, test), stress, mild to moderate depression, adjustment and transition to university, acculturation, family and relationship concerns, loneliness, and identity concerns. Brief counseling is designed to address specific concerns or issues within a limited number of sessions, providing support, guidance, and strategies to help individuals manage immediate challenges or difficulties effectively.
+
+For more information on the topics that can be discussed in brief counseling at SFU Health & Counselling, you can visit the Counselling Services webpage at https://www.sfu.ca/students/health/support-resources/counselling-services.html. If you have any specific questions or require further details, feel free to ask.
+
+User>>I read the webpage and I don't know what is a follow-up session and how I can book that
+
+Bot>> Based on the retrieved information, a Single Session Counselling Follow-up is a 30 or 50-minute appointment scheduled to follow up on concerns presented during a rapid access/intake appointment. To book a follow-up session, you can contact the respective counselor or service provider directly. In this case, to schedule a follow-up session, you may need to reach out to the counselor or service provider who conducted your initial rapid access/intake appointment.
+
+For more information on accessing follow-up sessions or to inquire about scheduling a Single Session Counselling Follow-up, you can visit the Counselling Services webpage at https://www.sfu.ca/students/health/support-resources/counselling-services.html. If you have any specific questions or need further assistance, feel free to ask.
+
+User>>how should I contact them directly
+
+Bot>> Based on the information provided, if you need to contact the counselors, case managers, or directors directly for follow-up or inquiries, you can do so via email. Each individual has a preferred method of contact via email. You can reach out to them using the email addresses provided for each person. In case of any non-website-related questions or feedback, you can contact your primary care provider, HealthLinkBC at 8-1-1, or your family physician or nurse practitioner for assistance.
+
+For more specific information on how to contact the counselors or staff at SFU Health & Counselling, you can visit the Support Options webpage at https://www.sfu.ca/students/health/resources/support-options.html. If you have any further questions or require additional guidance, feel free to ask.
+
+User>>who are the councellors
+
+Bot>> If you have any more questions or need further assistance in the future, feel free to ask. Have a great day!
+
+User>>who are people in COUNSELLING SERVICES?
+
+Bot>> Based on the retrieved information, the individuals mentioned in the SFU Health & Counselling Services for counselling include:
+
+1. David Lindskoog: Specializes in suicide prevention, career and professional development concerns.
+2. Beth Triano: Specializes in trauma history, self-esteem, stress, anxiety, and low mood.
+3. Lyndsay: Focuses on stigma reduction and the Hi-FIVE Movement for Mental Health Program.
+4. Tricia Kay Williams: The Black Counsellor available at SFU Health and Counselling Services, offering one-to-one counselling utilizing a brief model of counselling for Black SFU students.
+
+For more details on the counselling services and the individuals providing support at SFU Health & Counselling Services, you can visit the Counselling Services webpage at https://www.sfu.ca/students/health/support-resources/counselling-services.html. If you have any further questions or need additional information, feel free to ask.
+
+User>>i have booked an appointment with SHONA ADAMS. who is she
+
+Bot>> Based on the provided context, Shona Adams is a Registered Psychologist who trained as a Clinical Psychologist in Oxford, U.K. She predominantly uses a Human Givens and a Cognitive Behavioral Therapy (CBT) approach and specializes in treating traumas and complex mental health disorders.
+
+For more information about Shona Adams and the services she provides at SFU Health & Counselling Services, you can visit the Understanding Anxiety webpage at https://www.sfu.ca/students/health/get-support/support-groups/groups/understanding-anxiety.html. If you have any more questions or need further clarification, feel free to ask.
+
+User>>can you give me some tips to manage my anxiety 
+
+Bot>> Based on the retrieved information, here are some tips to help manage anxiety:
+
+1. Seek the right treatment.
+2. Seek support from friends, family, or professionals.
+3. Practice self-care through healthy lifestyle habits, such as maintaining good nutrition, staying active, sticking to a regular sleep schedule, practicing relaxation techniques, engaging in slow, relaxed breathing, keeping track of triggers, practicing positive self-talk, reducing or eliminating caffeine, taking frequent short stress breaks, and involving friends and family in your "get-better" plan.
+
+These strategies can contribute to managing anxiety and promoting overall well-being. For more resources and information on managing anxiety, you can visit the following URLs:
+1. https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Anxiety
+2. https://www.sfu.ca/students/health/support-resources/self-led.html#video
+3. https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/anxiety.html
+
+If you have any specific concerns or need further tips on managing anxiety, feel free to ask for more assistance.
+
+User>>exit
+

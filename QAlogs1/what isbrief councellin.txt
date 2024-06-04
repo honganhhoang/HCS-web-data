@@ -1,0 +1,9 @@
+Query: what isbrief councelling
+
+Index: 0
+Question: How many appointments are typically recommended for brief counselling at Health & Counselling?
+Answer: Three to four appointments.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8177158397889357
+

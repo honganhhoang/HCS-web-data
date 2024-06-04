@@ -1,0 +1,35 @@
+Bot>> Hello! How can I help you today?
+
+User>>i'm scared that i might have breast cancer.
+
+Bot>> Hello! How can I help you today?
+
+User>>where can i see a doctor?
+
+Bot>> Based on the provided information, you can see a doctor at the Health & Counselling clinic by booking an appointment with a doctor there. You can also book with your own General Practitioner, Psychologist, or Psychiatrist. If you need further assistance or want to book an appointment, you can visit the Health & Counselling clinic on your campus or contact them directly for more information.
+
+For more details, you can refer to the Health & Counselling services page on the SFU website: [Health & Counselling services](https://www.sfu.ca/students/health/see-a-doctor.html)
+
+User>>how can i see a doctor. i might have breast cancer. does insurance cover visits?
+
+Bot>> Based on the information provided, if you suspect you might have breast cancer and need to see a doctor, you can book an appointment with a doctor at the Health & Counselling clinic or your own General Practitioner. It is important to seek medical attention promptly if you have concerns about your health.
+
+Regarding insurance coverage for visits related to breast cancer or any other medical concerns, you must see a provider who is registered with the Health Benefits Program to receive coverage for your counselling services. It is recommended to check with your insurance provider to understand what is covered under your plan.
+
+For more information and to book an appointment, you can visit the Health & Counselling services page on the SFU website: [Health & Counselling services](https://www.sfu.ca/students/health/see-a-doctor.html)
+
+User>>where can i see what things are covered by my insurance?
+
+Bot>> To find out what is covered by your insurance plan, you can check your individual extended health plan for coverage details on studentcare.ca. By visiting the website, you should be able to access information regarding the services and treatments that are covered by your insurance plan.
+
+If you have specific questions about your insurance coverage or need assistance understanding the details of your plan, you can reach out to your insurance provider directly for more information.
+
+For more details on insurance coverage and accessing healthcare services, you can visit the SFU medical insurance page: [SFU Medical Insurance](https://www.sfu.ca/medical-insurance.html)
+
+User>>what is the number to call for settion up appointments with a doctor in SFU clinic?
+
+Bot>> To schedule an appointment with a doctor at the Health and Counselling Services at SFU clinic, you can call the clinic directly to book your appointment. For the specific contact number and further assistance in booking an appointment, please refer to the Health and Counselling Services contact page on the SFU website: [Health and Counselling Services Contact](https://www.sfu.ca/students/health/contact-us.html)
+
+User>>exit
+
+

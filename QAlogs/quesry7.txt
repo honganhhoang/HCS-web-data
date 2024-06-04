@@ -1,0 +1,74 @@
+Query: what services are available for people with ADHD?
+
+Can I join a support group for individuals with ADHD?
+Yes, you can join a support group for individuals with ADHD.
+0_3_8
+https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+0.8915030854332556
+
+What topics are discussed in the group counseling sessions for students with ADHD?
+Topics may include coping strategies, study skills, time management, stress management, self-care, and communication skills.
+0_1_4_4
+https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+0.8686229122653031
+
+How can students with ADHD participate in group counseling at SFU?
+To participate in group counseling at SFU, students with ADHD can contact their CAL disability advisor and express interest in joining the 'Experiencing ADHD' group. The advisor will then forward an email referral with instructions on how to book an intake appointment with the group facilitator. Following the intake appointment, students will meet with the facilitator for a screening meeting to determine if the group is a good fit. It is important to consider the mental and emotional energy required for consistent participation, as space in the groups is limited and once filled, new members will not be admitted for that semester.
+0_1_4_4
+https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+0.8641554556033453
+
+What is the process for joining the group counseling sessions for students with ADHD?
+To join the group counseling sessions for students with ADHD, students can contact their CAL disability advisor and express interest in participating in the group. The advisor will then provide an email referral with instructions on how to book an intake appointment with the group facilitator. After completing these steps, students will have a 30-minute group screening meeting with the facilitator to determine if the group is a good fit. It is important to consider the limited space in the groups, as once filled, the group will be closed for the semester with a waitlist created for future offerings. New members will not be admitted once the groups begin to maintain safety and consistency for existing members.
+0_1_4_4
+https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+0.8583976135831194
+
+What services are available at the Centre for Accessible Learning?
+- Centre for Accessible Learning services
+0_1_4_8
+https://sfss.ca/services/student-advocacy-office/
+0.8481214822884403
+
+How can students contribute to creating a sense of community amongst students with ADHD at SFU?
+Students can contribute to creating a sense of community amongst students with ADHD at SFU by participating in group counselling with a disability focus, engaging in dialogue, giving and receiving support, connecting with other students with shared lived experiences, and attending all group sessions consistently.
+0_1_4_4
+https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+0.8382200594421844
+
+How can someone access professional assistance for substance use issues?
+- Wellness Together Canada
+- Employee and Family Assistance Program (EFAP)
+- BC Partners for Mental Health and Addictions Information
+- Ministry of Mental Health and Addictions
+- HealthLink BC
+- BC Bereavement Helpline
+0_1_1_11_5
+https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+0.8368046232617352
+
+What resources are available through the Ministry of Mental Health and Addictions?
+- Visit wellbeing.gov.bc.ca
+- Well-being, mental health and substance use supports and resources.
+0_1_1_11_5
+https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+0.8367405132627864
+
+What resources are available for mental health and substance use support?
+- E-newsletters featuring mental health and substance use resources
+- Seven leading mental health and substance use non-profit agencies working together to help people live well and better prevent and manage mental health and substance use problems
+0_3_9_15
+https://www.heretohelp.bc.ca/anxiety-disorders
+0.8355936599140381
+
+What services are available for mental health and substance use supports in B.C.?
+- Alcohol & Drug Information Referral Service (ADIRS)
+- HelpStartsHere.gov.bc.ca
+- Poison Control (1-800-567-8911)
+- 8-1-1 (for general health information)
+- Video Relay Services (for the deaf and hard of hearing)
+- Translation services (available in more than 130 languages)
+0_1_1_11_4_8
+https://www.healthlinkbc.ca/mental-health-substance-use/resources/alcohol-drug-information-referral-service
+0.8343609675687196
+

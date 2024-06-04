@@ -1,0 +1,2657 @@
+Query: what kind of councelling services do they offer?
+
+Index: 0
+Question: What specialized counselling support options are available at Health & Counselling?
+Answer: - Single Session Counselling Follow-up
+- Short-Term Counselling
+- Group-based programs
+- My SSP service
+- Community resources
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8936574609015693
+
+Index: 1
+Question: What types of counselling services are offered to SFU and FIC students?
+Answer: Health & Counselling offers free, confidential, time-limited counselling support to all registered SFU and FIC students, from any campus. The counselling team provides initial consultation and assessment, information and referral, workshops, crisis support, safety planning, and individual and group counselling to address various concerns. Counselling services are provided by Registered Clinical Counsellors, Registered Psychologists, and their professional student-trainees. There are also specialized counselling options available.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8793827764087374
+
+Index: 2
+Question: What type of counsellors are available through Homewood Health?
+Answer: - Registered licensed counsellors
+- Counsellors with extensive experience in counselling clients within the Indigenous community
+- Counsellors identifying as experts in Inuit, Metis, First Nations, and Residential Schools
+- Counsellors identifying as experts in LGBTQ2+ and BIPOC communities
+File: 0_1_1_11_4_6
+URL: https://www.sfu.ca/human-resources/efap.html
+Similarity: 0.8785006660685104
+
+Index: 3
+Question: How can I access coverage for counselling services?
+Answer: You must see a provider who is registered with the Health Benefits Program to receive coverage for your counselling services
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8774785553626577
+
+Index: 4
+Question: What workshops and outreach opportunities are available through Health and Counselling Services?
+Answer: - View available on-demand workshops and outreach opportunities
+- Request one for your faculty, department, unit or team
+File: 0_1_1_11_2
+URL: https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+Similarity: 0.8711025322491818
+
+Index: 5
+Question: What services are offered to recent grads for career advising?
+Answer: - One-to-one sessions with a Career Education Specialist
+- Alumni-specific info sessions and workshops
+- Grad school discovery talks
+- Career fairs
+File: 0_3_9_8
+URL: https://www.sfu.ca/students/career.html
+Similarity: 0.865147517828261
+
+Index: 6
+Question: What services does Tricia-Kay Williams offer for counselling?
+Answer: Tricia-Kay Williams offers one-to-one counselling, utilizing a brief model of counselling, for Black SFU students.
+File: 0_3_2_6
+URL: https://www.sfu.ca/students/health/resources/identity/black-students.html
+Similarity: 0.8649902256610451
+
+Index: 7
+Question: What types of support options are available for international students at Health & Counselling?
+Answer: - Individual support
+- Group support
+- Transition Case Manager support
+File: 0_9_2
+URL: https://www.sfu.ca/students/health/resources/identity/SupportForInternationalStudents.html#tcm
+Similarity: 0.8637906512453967
+
+Index: 8
+Question: How can students access counseling and mental health support?
+Answer: Students can access counseling and mental health support by visiting the Counseling and Mental Health Support office located at SUB 3100, 8888 University Drive, Simon Fraser University, Burnaby, BC, V5A 1S6, Monday to Friday from 10am to 4pm.
+File: 0_1_4_8
+URL: https://sfss.ca/services/student-advocacy-office/
+Similarity: 0.8630130140171435
+
+Index: 9
+Question: What resources and support services are provided by SFU Health & Counselling Services?
+Answer: - Health and well-being outreach events and/or programs (such as health peers, HI-FIVE, online training)
+- Qualitative and program specific evaluation to understand the experiences of students in programs and their impacts
+- Support services provided in partnership with others across Student Services and the university to provide coordinated, accessible and culturally appropriate support to students
+File: 0_3_3
+URL: https://www.sfu.ca/healthycampuscommunity/about/wellbeing-framework.html
+Similarity: 0.8622864017682773
+
+Index: 10
+Question: How can I book an appointment for counselling support at Health & Counselling?
+Answer: You can book appointments online or call the front desk.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8621880173288526
+
+Index: 11
+Question: What other support options and counselling services are available at SFU Health and Counselling Services?
+Answer: - Group counselling
+- Online self-help resources
+- MindShift Application
+- Black Counsellor, Tricia Kay Williams
+- Indigenous Clinical Counsellors
+- Elders Program Drop-in
+- Cultural Connections workshop
+- ISC counsellors
+- Doctor, nurse, or counsellor appointments through Health and Counselling services
+File: 0_3_2_5
+URL: https://www.sfu.ca/students/indigenous/wellness.html
+Similarity: 0.8610322076353256
+
+Index: 12
+Question: Are there community resources available for counselling and mental health support?
+Answer: - Many counselling programs and groups are available in the community
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8605638578584266
+
+Index: 13
+Question: What types of support services can I refer a distressed student to?
+Answer: - Counseling services
+- Mental health services
+- Academic support services
+- Student wellness center
+- Crisis hotlines
+File: 0_1_1_22
+URL: https://www.sfu.ca/students/studentsupport/behaviours/distressed.html
+Similarity: 0.8594264042643959
+
+Index: 14
+Question: What types of support groups are available for students?
+Answer: - Group counselling
+- ADD/ADHD
+- Anxiety
+- Chronic Pain
+- Depression
+- Focus/Balance
+- Graduate Students
+- Identity & Community
+- International Students
+- Mindfulness
+- Physical
+- Resilience
+- Self-Compassion
+- Stress
+- Trauma
+- Workshop
+- All Groups
+- Questioning gender and/or sexuality
+- Indigenous, Black, People of Colour, Bi-racial and/or Multi-racial
+- Making improvements and feeling supported
+- Black students discussing experiences of racism
+- Understanding climate change anxiety and grief
+- Graduate students writing thesis or dissertation
+- Building social skills through Dungeons & Dragons
+- Navigating post-secondary education with ADHD
+- 8-week counselling group for students with Autism
+- Support group for students with disabilities
+- Navigating graduate school as a student with disabilities
+- Horticulture therapy for racialized students
+- Lunchtime crafts with Transition Case Manager
+- Coping with sexualized violence through art and tea
+- Tools for mood, stress, and anxiety
+- Recognizing signs of distress and suicide risk
+- Learning about anxiety, depression, and trauma
+- Various campus contact numbers
+- Acknowledgment of traditional territories
+- Terms & Conditions, Privacy policy, Copyright information
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.856872689874812
+
+Index: 15
+Question: What resources are available for mental health support and counseling services for graduate students?
+Answer: Health & Counselling has various professionals available including registered clinical counsellors, psychologists, psychiatrists, social workers, and mental health nurses. My SSP service is also available for graduate students.
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.85600837339076
+
+Index: 16
+Question: What types of services are offered at the Global Student Centre?
+Answer: - Social events
+- Support services for international students
+File: 0_3_7_7
+URL: https://www.sfu.ca/students/isap.html
+Similarity: 0.8553837358865607
+
+Index: 17
+Question: What services does the Women's Centre provide?
+Answer: - Education and services to all visitors, including allies
+- All Genders Resource Area with Coordinator, Resource Assistant, library, crisis referrals, peer support, couch, microwave, kettle, free pregnancy tests, safer sex supplies, menstrual supplies
+- Common Room on SUB Level 2, Room 2220 (Monday-Friday 9:00am-4:30pm)
+- Lounge in SUB 2110 (Monday-Friday 9:00am-10:00pm)
+- Newsletter sign up available Monday-Friday 10am-4pm
+File: 0_3_7_1
+URL: https://sfss.ca/wctr/
+Similarity: 0.8552284769676523
+
+Index: 18
+Question: Can I book an appointment for a consultation at Health & Counselling?
+Answer: No, Health & Counselling is not taking appointments for consultations.
+File: 0_2_1
+URL: https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+Similarity: 0.8549440963388362
+
+Index: 19
+Question: What types of concerns are well suited for short-term counselling at Health & Counselling?
+Answer: various kinds of anxiety (worry, social, test), stress, mild to moderate depression, adjustment and transition to university, acculturation, family and relationship concerns, loneliness, identity concerns.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8547016745699946
+
+Index: 20
+Question: How can I access virtual appointments for counselling services?
+Answer: 1. Talk to your provider about Telehealth options
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8546488676218759
+
+Index: 21
+Question: What does my Mental Wellness and Counselling benefit cover?
+Answer: - Your benefit covers counselling services from a qualified mental health provider
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8545472455088455
+
+Index: 22
+Question: How can SFU students access counselling services online?
+Answer: - Book a Rapid Access Appointment directly with Tricia-Kay Williams
+- Appointments can be made for in person, virtually, or by phone
+- Book online with any counsellor who can then refer you to Tricia-Kay during your intake appointment
+File: 0_3_2_6
+URL: https://www.sfu.ca/students/health/resources/identity/black-students.html
+Similarity: 0.85250920064333
+
+Index: 23
+Question: How can I refer a student to Health & Counselling Services?
+Answer: - Tell the student about Health & Counselling Services and My SSP
+- Provide and/or refer them to other services listed at sfu.ca/mental-health
+- Follow up with the student
+- Call Health & Counselling Services and ask to speak to a Mental Health Nurse or Counsellor for information and referral support
+- Let the student know about 24-hour crisis lines
+- Refer the student to sfu.ca/sexual-violence for sexual assault support and information on their options for support and referrals
+- Call 911 if the student is at imminent risk of attempting suicide
+- If at SFU, also call Campus Public Safety at 778-782-4500 to help direct emergency services
+File: 0_1_1_11_3
+URL: https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+Similarity: 0.851461766095407
+
+Index: 24
+Question: What types of guidance does International Student Advising provide for international students?
+Answer: - Study permits
+- Visas
+- Work eligibility
+- Enrollment requirements for international students
+- Medical insurance and the Canadian healthcare system
+- Taxes information for international students
+- Intercultural transition support
+- Referrals
+File: 0_3_9_6
+URL: https://www.sfu.ca/students/isap/contact.html
+Similarity: 0.8512499748064319
+
+Index: 25
+Question: What services does the BC Bereavement Helpline offer?
+Answer: - Confidential service
+- Connects to grief and loss support services within BC
+File: 0_1_1_11_5
+URL: https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+Similarity: 0.8502944417566279
+
+Index: 26
+Question: How can I get more information about the counselling services offered at SFU?
+Answer: You can contact your CAL disability advisor.
+File: 0_3_8_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-autism.html
+Similarity: 0.8494708930736715
+
+Index: 27
+Question: What kind of support can students receive from Advising Services at SFU?
+Answer: - Support in planning academic goals
+- Explore self-guided resources for academic readiness and success
+File: 0_1_1_14
+URL: https://www.sfu.ca/students.html
+Similarity: 0.8490657199360055
+
+Index: 28
+Question: How can I access the My SSP service for counseling support?
+Answer: Phone: 1-844-451-9700 (011-416-380-6578 from outside North America)
+Download and learn more
+File: 0_1_1_11_3
+URL: https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+Similarity: 0.8484069768806516
+
+Index: 29
+Question: How can I register for group counselling sessions?
+Answer: - Browse our list of options and register
+- Self-refer
+- Drop in to get connected
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8482924537130265
+
+Index: 30
+Question: How can Black SFU students access no-cost one-to-one counselling?
+Answer: - Book a Rapid Access Appointment directly with Tricia-Kay Williams
+- Appointments can be made for in person, virtually, or by phone
+- Book online with any counsellor and request to be referred to Tricia-Kay during intake appointment
+File: 0_3_2_6
+URL: https://www.sfu.ca/students/health/resources/identity/black-students.html
+Similarity: 0.8471544683739292
+
+Index: 31
+Question: How can Health & Counselling support international students studying in a new country?
+Answer: - One-on-one support
+- Groups to connect and meet with others
+- Transition Case Manager for one-to-one support
+- Assistance with managing school stress, finding housing, understanding documents, and understanding Canadian services
+- Connecting with the Transition Case Manager for support and resources
+- Support for international pathways students (undergraduate and graduate)
+- Virtual or in-person appointments with the Transition Case Manager
+File: 0_9_2
+URL: https://www.sfu.ca/students/health/resources/identity/SupportForInternationalStudents.html#tcm
+Similarity: 0.8470896536628755
+
+Index: 32
+Question: How can benefits be used to access counseling for mental health issues?
+Answer: - Visit SFU's EFAP site
+- Use the Employee and Family Assistance Program (EFAP)
+File: 0_1_1_11_5
+URL: https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+Similarity: 0.8469898753481256
+
+Index: 33
+Question: What services are offered by Out On Campus?
+Answer: - Support for LGBTQIA2S+ students and allies
+- Access to their space
+- Media inquiries contact (mediainquiries@sfss.ca)
+File: 0_3_7_6
+URL: https://sfss.ca/ooc/
+Similarity: 0.8469382327874185
+
+Index: 34
+Question: What services and supports are offered by the well-being education resources?
+Answer: services and supports
+File: 0_8_8
+URL: https://www.sfu.ca/healthycampuscommunity/learningenvironments/resource-library/resources/health-promotion-powerpoint.html
+Similarity: 0.8466660841794823
+
+Index: 35
+Question: What services does the Transition Case Manager offer to students?
+Answer: - One-on-one support
+- Connecting students with resources
+- Facilitating positive solutions and outcomes
+- Explaining limitations to manage expectations
+- Supporting students with various challenges
+- Providing assistance with managing school stress, finding housing, understanding documents, and Canadian services
+File: 0_9_2
+URL: https://www.sfu.ca/students/health/resources/identity/SupportForInternationalStudents.html#tcm
+Similarity: 0.8465867130217374
+
+Index: 36
+Question: What types of mental health professionals are available for individual support?
+Answer: - registered clinical counsellors
+- psychologists
+- psychiatrists
+- social workers
+- mental health nurses
+File: 0_3
+URL: https://www.sfu.ca/students/health/support-resources.html
+Similarity: 0.8458219526672878
+
+Index: 37
+Question: How can I learn more about my Medical Transportation benefits for accessing counselling services?
+Answer: You can contact the Medical Transportation Program at Transportation@fnha.ca or 1-855-550-5454.
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8451933892514645
+
+Index: 38
+Question: How does Doriana approach counselling with students?
+Answer: Doriana approaches counselling with students using a strengths-based, solution-focused perspective. She supports students experiencing various issues such as life transitions, work-life balance, family of origin, relationship issues, grief and loss, and burnout. She is passionate about the benefits of talk-therapy and connection, and meeting people where they are at.
+File: 0_3_8_6
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/coping-skills.html
+Similarity: 0.845015205402997
+
+Index: 39
+Question: What is the process for getting individual counselling through the CAL counsellor?
+Answer: Individual counselling is available through the CAL counsellor upon referral by your CAL advisor. Learn more about the referral process here.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8449243660081892
+
+Index: 40
+Question: How can students register for the group counseling sessions?
+Answer: To register, students can contact their CAL disability advisor and express interest in participating in the group. The advisor will forward an email referral with instructions on booking an intake appointment with the group facilitator.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8447207505009837
+
+Index: 41
+Question: What group counselling options are available for CAL registrants?
+Answer: There are a number of group counselling options available for CAL registrants, facilitated by the CAL counsellor.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8443486337301865
+
+Index: 42
+Question: Who can students contact if they have questions about individual or group counseling?
+Answer: Sean - sean_heaslip@sfu.ca
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8440318135372638
+
+Index: 43
+Question: How can students access counseling services at SFU across different campuses?
+Answer: - Contact your CAL disability advisor
+- Register for the 'Experiencing ADHD' group
+- Email Sean for questions about individual or group counselling (sean_heaslip@sfu.ca)
+- Call Burnaby campus: 778.782.4615, Vancouver campus: 778.782.5200, Surrey campus: 778.782.5200
+- View the PDF version of the counseling services
+- Check out Upcoming Session for any updated times or changes to the sessions.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.843762092715407
+
+Index: 44
+Question: How can students register for the counselling group?
+Answer: To register, email Beth (btriano@sfu.ca) with your name and email.
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8436412245865695
+
+Index: 45
+Question: How can students access medical and counseling appointments on campus?
+Answer: Phone: 778.782.4615
+File: 0_3_9
+URL: https://www.sfu.ca/students/health/resources/support-options.html
+Similarity: 0.8431472235633936
+
+Index: 46
+Question: Who is the Black Counsellor available at SFU Health and Counselling Services?
+Answer: Tricia Kay Williams
+File: 0_3_2_5
+URL: https://www.sfu.ca/students/indigenous/wellness.html
+Similarity: 0.843054559658826
+
+Index: 47
+Question: How can students connect with care providers such as counsellors, social workers, and nurses?
+Answer: - View resources & support
+- View medical services
+File: 0
+URL: https://www.sfu.ca/students/health/
+Similarity: 0.8427187049715086
+
+Index: 48
+Question: How can students access group-based programs at Health & Counselling?
+Answer: Students can access group-based programs at Health & Counselling by browsing groups and asking questions during a consultation appointment or at a doctor's visit.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8424659384819595
+
+Index: 49
+Question: What kind of advising and support services are available at Simon Fraser University?
+Answer: - Study Abroad
+- New Students
+- Global Community at SFU
+File: 0_1_1_7
+URL: https://www.sfu.ca/students/iss.html
+Similarity: 0.8423402173258194
+
+Index: 50
+Question: What is Jennifer's professional approach to counselling?
+Answer: Jennifer's professional approach to counselling emphasizes a braided practice that honors Indigenous knowledge, a strength-based person/community centered approach, and relevant, respectful, mainstream therapeutic orientations that strive for holistic balance. She believes in the importance of wrap-around care, supporting connections with Elders and cultural teachings, and exploration of identity development. Her work is grounded in Indigenous ways of knowing that stress the importance of reciprocity, relevance, responsibility, and relationships.
+File: 0_3_7_3
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/a-healing-space.html
+Similarity: 0.8420927596818533
+
+Index: 51
+Question: How can I access free, confidential counselling support as an SFU student?
+Answer: - Through the My SSP app
+- Contact the front desk during operating hours at 778-782-4615
+- Call the Crisis Centre in BC or Canada 24/7/365
+- Call the crisis line at 1-800-784-2433 (1-800-SUICIDE)
+- Contact the Crisis Centre at Burnaby campus: 778.782.4615, Vancouver campus: 778.782.5200, Surrey campus: 778.782.5200
+File: 0_3_4
+URL: https://www.sfu.ca/students/health/get-support/talk-now.html
+Similarity: 0.842060762049522
+
+Index: 52
+Question: How can SFU students access the health and counselling services on campus?
+Answer: SFU students can access health and counselling services on campus by visiting the student health clinics on Burnaby and Vancouver campus, booking appointments with doctors and nurses, and exploring resources and support options available. Services are provided in-person, virtually, or by phone at no cost to SFU students.
+File: 0
+URL: https://www.sfu.ca/students/health/
+Similarity: 0.8407141977379395
+
+Index: 53
+Question: How can I see a doctor or nurse at Health & Counselling clinics?
+Answer: You can book with your own General Practitioner, Psychologist, or Psychiatrist
+You can book with a doctor at Health & Counselling clinic.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.84055951313267
+
+Index: 54
+Question: What are the session times and format for the counselling group?
+Answer: Thursdays | 2:00pm - 3:30pm
+Sessions will be held via Zoom.
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8388297828111437
+
+Index: 55
+Question: What online chat services are available for youth and adults in crisis?
+Answer: Online Chat Service for Youth: www.YouthInBC.com (Noon to 1am)
+Online Chat Service for Adults: www.CrisisCentreChat.ca (Noon to 1am)
+File: 0_4_6
+URL: https://crisiscentre.bc.ca/get-help/
+Similarity: 0.8385926384925511
+
+Index: 56
+Question: What services does the trauma-informed and survivor-centered service for sexual violence survivors offer?
+Answer: - Offers confidential support, information, and referrals
+- Provides educational programming and initiatives
+File: 0_1_1_11_3
+URL: https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+Similarity: 0.8383843753778342
+
+Index: 57
+Question: What services are available for mental health and substance use supports in B.C.?
+Answer: - Alcohol & Drug Information Referral Service (ADIRS)
+- HelpStartsHere.gov.bc.ca
+- Poison Control (1-800-567-8911)
+- 8-1-1 (for general health information)
+- Video Relay Services (for the deaf and hard of hearing)
+- Translation services (available in more than 130 languages)
+File: 0_1_1_11_4_8
+URL: https://www.healthlinkbc.ca/mental-health-substance-use/resources/alcohol-drug-information-referral-service
+Similarity: 0.8383235611648366
+
+Index: 58
+Question: What services are available at the Centre for Accessible Learning?
+Answer: - Centre for Accessible Learning services
+File: 0_1_4_8
+URL: https://sfss.ca/services/student-advocacy-office/
+Similarity: 0.8380145458114455
+
+Index: 59
+Question: How can I access support options for disabled and neurodivergent students at Health and Counselling?
+Answer: - Find various support options for disabled and neurodivergent students at Health and Counselling, including individual and group counselling with a CAL counsellor
+- Access group counselling options facilitated by the CAL counsellor
+- Book an appointment with your own General Practitioner, Psychologist, or Psychiatrist for documentation for CAL
+- Book with a doctor at Health & Counselling clinic if unable to book with your own practitioner
+- Contact SFU Disability and Neurodiversity Alliance (DNA) for advocacy and support
+- Email sfudna@gmail.com for a link to the SFU DNA Discord
+- Contact Centre for Accessible Learning (CAL) for support and information on equitable access to educational opportunities at SFU
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8376695257275393
+
+Index: 60
+Question: What issues can EFAP counselling help with?
+Answer: EFAP counselling can help with a wide range of issues including, but not limited to:
+- Indigenous community issues
+- LGBTQ2+ community issues
+- BIPOC community issues
+- Residential Schools issues
+File: 0_1_1_11_4_6
+URL: https://www.sfu.ca/human-resources/efap.html
+Similarity: 0.8374325810297208
+
+Index: 61
+Question: What services are offered through the Employee and Family Assistance Program (EFAP)?
+Answer: confidential, professional assistance through counselling, coaching, and e-courses
+File: 0_1_1_11_5
+URL: https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+Similarity: 0.8372377058968854
+
+Index: 62
+Question: How many appointments are typically recommended for brief counselling at Health & Counselling?
+Answer: Three to four appointments.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8369953977492971
+
+Index: 63
+Question: What are the options for accessing Indigenous Clinical Counsellors at the ISC?
+Answer: - Sign up for the Wellness Program
+- Get connected with one of our Indigenous Clinical Counsellors
+- Attend an Elders Program Drop-in
+- Connect with an ISC counsellor by booking online
+- Contact Health and Counselling services at 778-782-4615, hcs_cm@sfu.ca or visit MBC 0101 to book an appointment with a doctor, nurse or counsellor
+File: 0_3_2_5
+URL: https://www.sfu.ca/students/indigenous/wellness.html
+Similarity: 0.8367437720599696
+
+Index: 64
+Question: What kind of therapy options are available for those experiencing grief?
+Answer: Individual therapy, group therapy, grief counselling
+File: 0_1_1_11_4_3
+URL: https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/grief.html
+Similarity: 0.8365693573206404
+
+Index: 65
+Question: Who is the HCS counselor liaison with the Centre for Accessible Learning (CAL) and what services do they provide?
+Answer: Sean Heaslip is the HCS counselor liaison with the Centre for Accessible Learning (CAL). He provides individual and group counseling services.
+File: 0_9_5
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/disability-graduate-students-support.html
+Similarity: 0.8364336114747689
+
+Index: 66
+Question: What services does Campus Public Safety (CPS) offer for students?
+Answer: - CPS provides public safety and resource protection services for the University community
+- CPS supports student success by facilitating responses and programs related to personal safety, emergency response, investigations, and risk assessments. 
+- CPS offers non-emergency phone support at 778.782.3100 and emergency support at 778.782.4500 (24 hours)
+File: 0_3_9
+URL: https://www.sfu.ca/students/health/resources/support-options.html
+Similarity: 0.8357203033466588
+
+Index: 67
+Question: How can I schedule an appointment with a counsellor in the community through My SSP?
+Answer: You can download the My SSP app to access 24/7 crisis support or call/chat to schedule an appointment with a counsellor in the community.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8352724548513609
+
+Index: 68
+Question: How can someone access professional assistance for substance use issues?
+Answer: - Wellness Together Canada
+- Employee and Family Assistance Program (EFAP)
+- BC Partners for Mental Health and Addictions Information
+- Ministry of Mental Health and Addictions
+- HealthLink BC
+- BC Bereavement Helpline
+File: 0_1_1_11_5
+URL: https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+Similarity: 0.8348140029485939
+
+Index: 69
+Question: What are some counselling methods mentioned in the text for treating anxiety?
+Answer: - Cognitive behavioural therapy (CBT)
+- Mindfulness-based interventions
+File: 0_1_1_11_4_1
+URL: https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/anxiety.html
+Similarity: 0.8345114302195932
+
+Index: 70
+Question: How does the team act as a liaison with other Health and Counselling providers?
+Answer: The team acts as a liaison with other Health and Counselling providers by working collaboratively and sharing information to ensure a holistic approach to student well-being.
+File: 0_8_1
+URL: https://www.sfu.ca/healthycampuscommunity/about/contact-us.html
+Similarity: 0.8339546156272929
+
+Index: 71
+Question: Who can Student Services Academic Advisors assist?
+Answer: 1. Students with program requirements
+2. Students with personal, professional, and educational goals
+File: 0_3_9_1
+URL: https://www.sfu.ca/students/academicadvising/contact.html
+Similarity: 0.8336381910648197
+
+Index: 72
+Question: How far in advance can appointments be booked at Health & Counselling?
+Answer: Appointments can be booked up to 48 hours in advance.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8335355821848893
+
+Index: 73
+Question: What activities are offered in the counselling group through a mindfulness lens?
+Answer: Meditation, psychoeducation, movement, and discussion of coping skills
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8334296083479804
+
+Index: 74
+Question: What resources are available for mental health and substance use support?
+Answer: - E-newsletters featuring mental health and substance use resources
+- Seven leading mental health and substance use non-profit agencies working together to help people live well and better prevent and manage mental health and substance use problems
+File: 0_3_9_15
+URL: https://www.heretohelp.bc.ca/anxiety-disorders
+Similarity: 0.8332375581605095
+
+Index: 75
+Question: What services do pharmacists offer aside from consulting on and dispensing prescriptions?
+Answer: - Assess and treat 21 minor ailments
+- Prescribe and dispense contraceptives
+- Renew or change some prescriptions or provide emergency supply
+- Administer immunizations and drugs by injection
+- Help understand and manage medications as well as other over-the-counter products
+- Make recommendations to see another health care professional for further assessment
+File: 0_2_6
+URL: https://www2.gov.bc.ca/gov/content/health/accessing-health-care/pharmacy-services
+Similarity: 0.8325845195500526
+
+Index: 76
+Question: How can students contact Beth for more information about the counselling group?
+Answer: Email Beth at btriano@sfu.ca
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8323136710497924
+
+Index: 77
+Question: Is the counselling group for students experiencing anxiety and stress open to all genders and sexual orientations?
+Answer: Yes.
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8321361600799482
+
+Index: 78
+Question: What types of issues can Tricia-Kay Williams help with in counseling sessions?
+Answer: Trauma, Anxiety, Transitional/Career, Relational issues
+File: 0_3_7_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/healingspace.html
+Similarity: 0.832118411209592
+
+Index: 79
+Question: How can I book an appointment with a service provider at Health and Counselling Services at SFU?
+Answer: You can call ahead to book an appointment with a service provider at Health and Counselling Services at SFU.
+File: 0_9_2_1
+URL: https://www.sfu.ca/content/dam/sfu/students/health/pdf/Grad%20Student%20Support%20Doc.pdf
+Similarity: 0.8317142834439342
+
+Index: 80
+Question: What approach does Wayne, the Registered Clinical Counsellor, use in his practice?
+Answer: Wayne uses evidence-based therapies including Adlerian, Client-Centered, Mindfulness Integrated Cognitive Behavioral therapy, Positive Psychotherapy, and Acceptance & Commitment Therapy.
+File: 0_5
+URL: https://www.sfu.ca/students/health/contact-us/our_team.html
+Similarity: 0.831679028847559
+
+Index: 81
+Question: How can participants contact the Counselling Practicum Student?
+Answer: Participants can contact the Counselling Practicum Student by emailing cprac240@sfu.ca or calling the Burnaby campus at 778.782.4615.
+File: 0_3_8_11
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/mood.html
+Similarity: 0.8313576588164584
+
+Index: 82
+Question: What is the purpose of the counselling group for students experiencing stress, anxiety, and low mood?
+Answer: To support students who are experiencing stress, anxiety, and/or low mood
+To provide a space for sharing and personal growth
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8305453072195069
+
+Index: 83
+Question: What low intensity resources and tools are available through Health & Counselling at SFU?
+Answer: - Creative prompts
+- Podcasts and videos
+- Online courses
+File: 0_8_27
+URL: https://www.sfu.ca/healthycampuscommunity/take-action.html
+Similarity: 0.8302340105136936
+
+Index: 84
+Question: How can graduate students contact Sean for further questions about the group or individual counseling services?
+Answer: Graduate students can contact Sean at sean_heaslip@sfu.ca for further questions about the group or individual counseling services.
+File: 0_9_5
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/disability-graduate-students-support.html
+Similarity: 0.8300408068310325
+
+Index: 85
+Question: What mental health support options are available for students at SFU?
+Answer: - My SSP provides free, 24/7 counselling and mental health support through phone or app
+- Group events and workshops, including emotional support groups and mindfulness meditation sessions
+- COVID-19 Emotional Support Group for Graduate Students
+- Bouncing Forward: Online Resilience Training
+File: 0_9_2_1
+URL: https://www.sfu.ca/content/dam/sfu/students/health/pdf/Grad%20Student%20Support%20Doc.pdf
+Similarity: 0.829320457847366
+
+Index: 86
+Question: How can I contact Academic Advisors within Student Services?
+Answer: - LiveHelp instant messaging
+- Drop-in advising
+- Booked appointments
+- Phone: 778.782.6930
+File: 0_3_9
+URL: https://www.sfu.ca/students/health/resources/support-options.html
+Similarity: 0.8289155297464095
+
+Index: 87
+Question: Are there online booking options for appointments at SFU Health & Counselling services?
+Answer: Yes, there are online booking options available for appointments at SFU Health & Counselling services.
+File: 0_1
+URL: https://www.sfu.ca/students/health/contact-us.html
+Similarity: 0.8284217522808797
+
+Index: 88
+Question: What services does Options for Sexual Health provide?
+Answer: - Free contraception
+- Sexual and reproductive health services throughout British Columbia
+File: 0_2_2_2
+URL: https://www.optionsforsexualhealth.org/
+Similarity: 0.8283930150332875
+
+Index: 89
+Question: How can faculty and staff consult with the office for student support concerns?
+Answer: Faculty and staff can consult with the Office of Student Support, Rights & Responsibilities by contacting them via phone at 778.782.5699, email at ssrr@sfu.ca, or online through the "Share a concern" form.
+File: 0_1_1_15
+URL: https://www.sfu.ca/students/studentsupport.html#students
+Similarity: 0.8282766214456379
+
+Index: 90
+Question: Who are the Registered Clinical Counsellors mentioned in the text and what are their areas of expertise?
+Answer: David Lindskoog - Suicide prevention, career and professional development concerns
+Beth Triano - Trauma history, self-esteem, stress, anxiety, low mood
+Lyndsay - Stigma reduction, Hi-FIVE Movement for Mental Health Program
+File: 0_9_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/suicide-prevention.html#course
+Similarity: 0.827646684666936
+
+Index: 91
+Question: What are the contact details for Health & Counselling Services at SFU?
+Answer: Phone: 778-782-4615
+Website: Click to view website >
+File: 0_1_1_11_3
+URL: https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+Similarity: 0.8275837325380473
+
+Index: 92
+Question: What additional phone and chat services are available for mental health support in British Columbia?
+Answer: - Vancouver Coastal Regional Distress Line: 604-872-3311
+- Sunshine Coast/Sea to Sky: 1-866-661-3311
+- Seniors Distress Line: 604-872-1234
+- Online Chat Service for Youth: www.YouthInBC.com (Noon to 1am)
+- Online Chat Service for Adults: www.CrisisCentreChat.ca (Noon to 1am)
+File: 0_4_6
+URL: https://crisiscentre.bc.ca/get-help/
+Similarity: 0.827401678207062
+
+Index: 93
+Question: What resources are available for faculty and staff to support students in distress?
+Answer: - The Office of Student Support, Rights & Responsibilities
+- Student Conduct Policy (S10.05)
+- Academic Integrity web site
+- Students in Distress - Response Guide for Faculty and Staff
+File: 0_1_1_15
+URL: https://www.sfu.ca/students/studentsupport.html#students
+Similarity: 0.8272857115798207
+
+Index: 94
+Question: How can I participate in the SOS/SID workshop offered by Health and Counselling Services?
+Answer: Contact Health and Counselling Services for information and registration.
+File: 0_1_1_11_3
+URL: https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+Similarity: 0.8268968594291946
+
+Index: 95
+Question: What is the approach to therapy of Shereen Khan, the registered clinical counsellor?
+Answer: Shereen Khan's approach to therapy is caring, compassionate, nonjudgmental, phenomenological, multicultural, anti-oppressive, and trauma-informed. She utilizes strengths-based, solution-focused therapy models and evidence-based approaches such as CBT, DBT, and EMDR.
+File: 0_3_8_10
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/nurturing-resilience.html
+Similarity: 0.8266413136567144
+
+Index: 96
+Question: How can International Student Advising and Programs help students?
+Answer: International Student Advising and Programs can help students with immigration advising, workshops, orientation, transition services, intercultural events, peer support, and study abroad programs.
+File: 0_3_9
+URL: https://www.sfu.ca/students/health/resources/support-options.html
+Similarity: 0.8265789845888245
+
+Index: 97
+Question: Are Health & Counselling nurses available to administer vaccines?
+Answer: Yes.
+File: 0_2_1
+URL: https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+Similarity: 0.8262444999414865
+
+Index: 98
+Question: What is Single Session Counselling Follow-up and when is it scheduled?
+Answer: Single Session Counselling Follow-up is a 30 or 50 minute appointment scheduled to follow-up with concerns presented during a rapid access/intake appointment.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8261289126078418
+
+Index: 99
+Question: Are there specific time slots available for the counselling group for autistic students?
+Answer: Thursdays 1:30pm - 3:30pm
+File: 0_3_8_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-autism.html
+Similarity: 0.8260895652898788
+
+Index: 100
+Question: What type of support services does SOCA offer for Black people and persons of African ancestry?
+Answer: Events, resources, support services, and advocacy.
+File: 0_3_2_6_2
+URL: https://sfss.ca/black-student-support-centre/
+Similarity: 0.8258102234686425
+
+Index: 101
+Question: Who can benefit from the career guidance supports provided by the Centre?
+Answer: Undergraduate students, graduate students, and recent alumni from all disciplines.
+File: 0_3_9_8
+URL: https://www.sfu.ca/students/career.html
+Similarity: 0.824905273532666
+
+Index: 102
+Question: Are there drop-in options for support groups?
+Answer: Yes, there are drop-in options for support groups.
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8247376984463107
+
+Index: 103
+Question: What services does the Global Student Center Lounge offer?
+Answer: - Study space
+- Hang out with friends
+- Take a break
+File: 0_3_9
+URL: https://www.sfu.ca/students/health/resources/support-options.html
+Similarity: 0.8247098889198247
+
+Index: 104
+Question: How is confidentiality maintained at Health & Counselling Services (HCS)?
+Answer: - Health & Counselling shares one unit of confidentiality
+- All records within HCS are confidential
+- Personal information can only be released outside the centre with written consent
+- Exceptions are made in the case of life-threatening emergencies or as required by law and/or public health regulations
+File: 0_2
+URL: https://www.sfu.ca/students/health/see-a-doctor.html
+Similarity: 0.8240381563966171
+
+Index: 105
+Question: What is the contact information for mental health services at each campus?
+Answer: Burnaby campus: 778.782.4615
+Vancouver campus: 778.782.5200
+Surrey campus: 778.782.5200
+File: 0_3
+URL: https://www.sfu.ca/students/health/support-resources.html
+Similarity: 0.823858797674603
+
+Index: 106
+Question: How can academic advisors help with personal, professional, and educational goals?
+Answer: 1. Degree planning
+2. Program requirements
+3. Setting personal, professional, and educational goals
+File: 0_3_9_2
+URL: https://www.sfu.ca/students/academicadvising/
+Similarity: 0.8237692815036506
+
+Index: 107
+Question: How can staff, faculty, and student leaders support students in distress?
+Answer: - Promote My SSP by sharing contact information for My SSP and Health and Counselling Services
+- Download the My SSP app on your phone and encourage students do the same
+- Assist students in accessing My SSP, provided you have their consent, by doing the following: Assisted Referral, Outreach Request
+- Call 1.844.451.9700 anytime to request a staff/faculty consultation
+- Chat with an advisor through the My SSP app for advice on reaching out to a student in need
+- Contact SFU Health and Counselling Services during office hours for assistance or consultation
+- Learn how to support students in distress and identify signs of mental health challenges
+- Respond and support those involved in critical incidents with empathy and compassion
+- View available on-demand workshops and outreach opportunities and request one for your faculty, department, unit, or team.
+File: 0_1_1_11_2
+URL: https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+Similarity: 0.8237165672103964
+
+Index: 108
+Question: What online chat services are available for crisis support in BC?
+Answer: www.crisiscentrechat.ca for adults or www.youthinbc.com for youth.
+File: 0_4
+URL: https://www.sfu.ca/students/health/emergency.html
+Similarity: 0.8235029143500922
+
+Index: 109
+Question: How can I contact Tricia-Kay Williams for counseling sessions?
+Answer: Email tricia_williams@sfu.ca to register for counseling sessions.
+File: 0_3_7_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/healingspace.html
+Similarity: 0.8234841640394758
+
+Index: 110
+Question: What resources are available to promote well-being and mental health among students?
+Answer: - Flexible deadlines for assignments
+- Centre for Accessible Learning’s Top Ten Tips to Making Online Learning Accessible
+- Class Check In Activity
+- Connecting with students and showing empathy
+- Equity considerations for students' psychological experiences
+- PowerPoint slides to promote well-being
+- Health & Counselling Services’ resources, events, and workshops
+- Reality Check Reflection Tool
+- Group-generated Study Guide
+- In the News Activity
+- Guest lectures and learning opportunities
+- Small acts of kindness
+- Employee and Family Assistance Plan
+- SFU Health Promotion team
+- Centre for Educational Excellence (CEE) workshops and consultations
+- Traditional territorial acknowledgements for courses.
+File: 0_8_12
+URL: https://www.sfu.ca/content/sfu/healthycampuscommunity/learningenvironments/resource-library/resources/embed-well-being-remotely.html
+Similarity: 0.8232481325957342
+
+Index: 111
+Question: How can I seek advice in the best interest of a student?
+Answer: - Seek advice from SFU Health & Counselling
+- Call Health & Counselling Services and ask to speak to a Mental Health Nurse or Counsellor
+- Contact the Office of Student Support, Rights & Responsibilities 
+- Contact My SSP for professional support as you support students through challenging situations
+- Call 911 in emergency or crisis situations
+File: 0_1_1_11_3
+URL: https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+Similarity: 0.8230342678243959
+
+Index: 112
+Question: What topics are discussed in the counselling group for autistic students at SFU?
+Answer: The topics discussed in the counselling group for autistic students at SFU include struggles currently experienced by group members, coping strategies, navigating post-secondary education, and a variety of other topics brought by participants.
+File: 0_3_8_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-autism.html
+Similarity: 0.8229854331712783
+
+Index: 113
+Question: What resources are available through the Ministry of Mental Health and Addictions?
+Answer: - Visit wellbeing.gov.bc.ca
+- Well-being, mental health and substance use supports and resources.
+File: 0_1_1_11_5
+URL: https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+Similarity: 0.8227842315907307
+
+Index: 114
+Question: What services does the Student Learning Commons provide?
+Answer: - Expert help with academic writing, learning, and study strategies
+- In-person and online appointments
+- Personalised language coaching
+- Peer learning
+- Collaborative environment
+File: 0_1_1_10
+URL: https://www.lib.sfu.ca/about/branches-depts/slc?_gl=1*1151pev*_ga*MTA0NzkyNjA5OS4xNzA3NzY3NjMz*_ga_R4BCVYL1QF*MTcxNjMxMTIwOC4zMS4xLjE3MTYzMjA0MTAuNjAuMC4w
+Similarity: 0.8227390647601777
+
+Index: 115
+Question: How can one access support for men's mental health challenges?
+Answer: By visiting the website of the Canadian Mental Health Association, BC Division or by calling 1-800-555-8222 (toll-free in BC) or 604-688-3234 (in Greater Vancouver).
+File: 0_1_1_11_5
+URL: https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+Similarity: 0.8227203897417081
+
+Index: 116
+Question: What are the backgrounds and specializations of the Registered Clinical Counsellors at SFU?
+Answer: - Beth is a Registered Clinical Counsellor with experience in yoga and meditation instruction, group facilitation, and graduate student counseling work. She is also a certified EMDR therapist
+File: 0_3_1_6
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/mindfulness-meditation-sfu.html
+Similarity: 0.822676866336107
+
+Index: 117
+Question: What medical services are available to SFU students?
+Answer: Health & Counselling operates two medical clinics located on the Burnaby and Vancouver campuses with services in-person or by phone/virtual for all students.
+File: 0_2
+URL: https://www.sfu.ca/students/health/see-a-doctor.html
+Similarity: 0.8225016780868432
+
+Index: 118
+Question: Can the advisors help me with both major and minor specializations?
+Answer: Yes.
+File: 0_3_9_3
+URL: https://www.sfu.ca/students/academicadvising/contact/departmental-advisors.html
+Similarity: 0.8224858408630441
+
+Index: 119
+Question: What support services are available for international students at the GSC?
+Answer: - Support services for international students are available at the GSC
+File: 0_3_8_2
+URL: https://www.sfu.ca/students/isap/gsc/gscevents.html
+Similarity: 0.8224697935709653
+
+Index: 120
+Question: What should I do to prepare for my advising appointment with Student Services Academic Advisors?
+Answer: Prepare for your advising appointment.
+File: 0_3_9_1
+URL: https://www.sfu.ca/students/academicadvising/contact.html
+Similarity: 0.8223010760031291
+
+Index: 121
+Question: What are some different types of psychotherapy that can help with depression?
+Answer: - Cognitive behavioural therapy (CBT)
+- Interpersonal therapy
+- Mindfulness
+File: 0_1_1_11_4_4
+URL: https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/depression.html
+Similarity: 0.822140782760851
+
+Index: 122
+Question: How can one book a confidential 1-on-1 appointment with a career professional?
+Answer: Book and manage your appointments on myExperience.
+File: 0_3_9_8
+URL: https://www.sfu.ca/students/career.html
+Similarity: 0.821964391282771
+
+Index: 123
+Question: What types of employment questions can International Student Advising help with?
+Answer: International Student Advising can help with questions related to work eligibility, taxes information for international students, and post-graduation resources.
+File: 0_3_9_6
+URL: https://www.sfu.ca/students/isap/contact.html
+Similarity: 0.8215229751689168
+
+Index: 124
+Question: How can Student Services Academic Advisors help me plan my degree?
+Answer: - Student Services Academic Advisors help you plan your degree to meet your program requirements and personal, professional, and educational goals.
+File: 0_3_9_1
+URL: https://www.sfu.ca/students/academicadvising/contact.html
+Similarity: 0.8213344808151831
+
+Index: 125
+Question: How can I connect with chaplains for spiritual direction or support?
+Answer: Chaplains can connect with you.
+File: 0_3_7_8
+URL: https://www.sfu.ca/students/multifaith.html
+Similarity: 0.821187974404924
+
+Index: 126
+Question: How can I access support from Career & Volunteer Services as a student?
+Answer: Support is available at all three campuses and is free to students for up to one year after graduation
+File: 0_3_9
+URL: https://www.sfu.ca/students/health/resources/support-options.html
+Similarity: 0.8209222199845986
+
+Index: 127
+Question: How can the BC Partners for Mental Health and Addictions Information support individuals with mental health issues?
+Answer: - Visit wellbeing.gov.bc.ca for well-being, mental health, and substance use supports and resources
+File: 0_1_1_11_5
+URL: https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+Similarity: 0.8208653646015586
+
+Index: 128
+Question: How can current students book an advising session with an Advisor?
+Answer: Current students can sign in through Advisor Link to book an in-person or virtual advising session with an Advisor from their success team.
+File: 0_3_9_11
+URL: https://www.sfu.ca/students/financialaid/contact.html
+Similarity: 0.8202577882290731
+
+Index: 129
+Question: What types of events and workshops do Health Peers offer?
+Answer: - Pop-up events
+- Workshops
+- Outreaches
+File: 0_3_6
+URL: https://www.sfu.ca/students/health/whats-happening/healthpeers-sfu.html
+Similarity: 0.8202425297523341
+
+Index: 130
+Question: How can I register for the 8-week counselling group with a disability focus for students with an Autism diagnosis?
+Answer: To register for the 8-week counselling group with a disability focus for students with an Autism diagnosis, you can contact your CAL disability advisor and indicate your interest in participating in the group. Your advisor will then forward you an email referral with instructions on how to book an intake appointment with the group facilitator. During a 30-minute group screening meeting, the facilitator will discuss whether the group would be a good fit for you. Space in the groups is limited, so once the group is filled, it will be closed for the semester, and a waitlist will be created for future offerings.
+File: 0_3_8_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-autism.html
+Similarity: 0.8201589067284503
+
+Index: 131
+Question: What support and services are available at SFU for individuals impacted by bullying and harassment?
+Answer: - Support and services are available to anyone impacted by bullying and harassment at SFU
+File: 0_1_1_4
+URL: https://www.sfu.ca/bullying-harassment.html
+Similarity: 0.8200838666485807
+
+Index: 132
+Question: What kind of mental health resources are available for the Black community at SFU?
+Answer: Mental health resources, affiliated groups, and useful documents for the Black community.
+File: 0_3_7_4
+URL: https://www.sfu.ca/black-caucus/black-community-resources.html
+Similarity: 0.8199672620442011
+
+Index: 133
+Question: How can I access sexual violence emergency support services?
+Answer: You can book a same-day appointment at our clinics. Call the front desk or connect with Sexual Violence Support & Prevention Office (SVSPO).
+File: 0_2_2
+URL: https://www.sfu.ca/students/health/see-a-doctor/sexual-health.html
+Similarity: 0.8193808076467335
+
+Index: 134
+Question: How can I book an academic advising appointment if I fall into one of the listed categories?
+Answer: - Sign into advisor link to book an academic advising appointment with an advisor from your success team
+- Email myadv@sfu.ca for assistance if unable to book through Advisor Link
+- Connect with advisors during drop-in advising hours
+File: 0_3_9_1
+URL: https://www.sfu.ca/students/academicadvising/contact.html
+Similarity: 0.8190353890804573
+
+Index: 135
+Question: What qualifications does Tricia-Kay Williams have as a counsellor?
+Answer: - BA degree in Psychology from York University in Toronto, O.N
+File: 0_3_2_6
+URL: https://www.sfu.ca/students/health/resources/identity/black-students.html
+Similarity: 0.8189462069477172
+
+Index: 136
+Question: How can students access free mental health support through My SSP?
+Answer: - By downloading the My SSP app on their phone
+- By calling 1.844.451.9700 (or 001.416.380.6578 outside North America)
+File: 0_1_1_11_2
+URL: https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+Similarity: 0.8189321525520787
+
+Index: 137
+Question: Are there different types of advisors for different areas of specialization?
+Answer: Yes, there are different types of advisors for different areas of specialization.
+File: 0_3_9_3
+URL: https://www.sfu.ca/students/academicadvising/contact/departmental-advisors.html
+Similarity: 0.8189283519141124
+
+Index: 138
+Question: How does the SFU Health & Counselling Team positively influence student health and well-being?
+Answer: - By providing services and resources
+- Offering counselling consultation appointments
+- Supporting and guiding students through various services and professionals
+- Sharing tips for good mental health practices
+- Encouraging seeking additional support when needed
+- Providing information on sexual health services
+- Offering strategies for practicing resilience in personal growth and well-being
+- Promoting self-growth, healing, and forming good habits through recommended books
+- Addressing common thinking patterns associated with anxiety and how to interrupt them
+File: 0_10
+URL: https://olc.sfu.ca/program/sfu-health-and-counselling-services
+Similarity: 0.8187724733841062
+
+Index: 139
+Question: How does Shereen, the Registered Clinical Counsellor, describe her approach to therapy?
+Answer: Shereen describes her approach to therapy as caring, compassionate, nonjudgmental, and utilizing a phenomenological approach to human life.
+File: 0_5
+URL: https://www.sfu.ca/students/health/contact-us/our_team.html
+Similarity: 0.818358203038887
+
+Index: 140
+Question: What services are provided by the BC Centre for Disease Control?
+Answer: - Sexual health services
+- Information on sexually transmitted infections (STIs)
+- Professional practice guidelines and resources for sexual health practitioners
+File: 0_2_2_3
+URL: https://smartsexresource.com/
+Similarity: 0.8179222778751473
+
+Index: 141
+Question: How can campus community members access support services after a Critical Incident?
+Answer: - Contact the Office of the Vice Provost Students & International at avps@sfu.ca or 778.782.4170
+- Contact Campus Safety & Security, Health & Counselling Services, SFU Student Conduct Office, or escalate concerns to a supervisor
+- Burnaby campus: 778.782.4615
+- Vancouver campus: 778.782.5200
+- Surrey campus: 778.782.5200
+File: 0_1_1_11
+URL: https://www.sfu.ca/students/health/faculty-staff/critical-support.html
+Similarity: 0.8178390331441864
+
+Index: 142
+Question: How can I access support for myself as a faculty or staff member supporting students in challenging situations?
+Answer: - Contact My SSP for professional support
+- Call Health & Counselling Services for information and referral support
+- Seek advice from SFU Health & Counselling
+- Contact the Employee and Family Assistance program (EFAP) for support
+- Attend the SOS/SID workshop for professional development opportunities
+File: 0_1_1_11_3
+URL: https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+Similarity: 0.8177750530683979
+
+Index: 143
+Question: What is the practice philosophy of Monique, the Registered Clinical Counsellor?
+Answer: Monique's practice philosophy is that everyone is the author of their stories. She believes human connection is the basic ingredient for healing. Her counselling approach empathizes the mind-body connection through the lens of cultural humility, somatic experiencing, narrative therapy, and mindfulness practice.
+File: 0_5
+URL: https://www.sfu.ca/students/health/contact-us/our_team.html
+Similarity: 0.8177747473209024
+
+Index: 144
+Question: How can students book appointments for medical services?
+Answer: Students can book appointments for medical services by calling the Health & Counselling clinics on the Burnaby or Vancouver campuses, or by booking online. Appointments can be made for in-person or by phone/virtual consultations.
+File: 0_2
+URL: https://www.sfu.ca/students/health/see-a-doctor.html
+Similarity: 0.8177412663703857
+
+Index: 145
+Question: What resources are available for supporting colleagues or staff members in distress?
+Answer: - Employee and Family Assistance Program (EFAP)
+- Wellness Together Canada
+- Mood Disorders Association of BC
+- Canadian Mental Health Association, BC Division
+- BC Partners for Mental Health and Addictions Information
+- Ministry of Mental Health and Addictions
+- HealthLink BC
+- BC Bereavement Helpline
+File: 0_1_1_11_5
+URL: https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+Similarity: 0.8176093931696963
+
+Index: 146
+Question: Are there self-help strategies provided in the seminar?
+Answer: Yes, there are self-help strategies provided in the seminar.
+File: 0_3_8_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/trauma-seminar.html
+Similarity: 0.8174216908935523
+
+Index: 147
+Question: How can faculty and staff intervene and provide support for students in distress or exhibiting concerning behavior?
+Answer: - Identify the experience or behavior you are witnessing
+- Read the recommended response
+- Consult with the Office of Student Support, Rights & Responsibilities
+- Develop an approach to appropriately intervene and provide support for the student
+- Administer the Student Conduct Policy as part of the response if necessary
+File: 0_1_1
+URL: https://www.sfu.ca/students/studentsupport.html
+Similarity: 0.8174121245719789
+
+Index: 148
+Question: What medical services are available for graduate students at SFU?
+Answer: Doctors and nurses are available for a range of medical services, advice, and care. Booking with a clinic on campus is particularly helpful if you are attending SFU from another province or country, don’t have a family doctor during your time in graduate school, or commute from another location in Metro Vancouver. Medical appointments can be booked to meet in-person at Burnaby or Vancouver campus, and tele/virtual health visits are available as needed to accommodate your schedule and location.
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.8170350482138635
+
+Index: 149
+Question: What resources are available for faculty and staff when they have concerns about a student's safety or well-being?
+Answer: - The Office of Student Support, Rights & Responsibilities
+- S10.05 Student Conduct Policy
+- Academic Integrity web site
+- Students in Distress - Response Guide for Faculty and Staff
+File: 0_1_1_16
+URL: https://www.sfu.ca/students/studentsupport.html#staff
+Similarity: 0.8166858749155047
+
+Index: 150
+Question: What is the process for joining the group counseling sessions for students with ADHD?
+Answer: To join the group counseling sessions for students with ADHD, students can contact their CAL disability advisor and express interest in participating in the group. The advisor will then provide an email referral with instructions on how to book an intake appointment with the group facilitator. After completing these steps, students will have a 30-minute group screening meeting with the facilitator to determine if the group is a good fit. It is important to consider the limited space in the groups, as once filled, the group will be closed for the semester with a waitlist created for future offerings. New members will not be admitted once the groups begin to maintain safety and consistency for existing members.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8166709105821167
+
+Index: 151
+Question: What identity and community support services are offered at SFU?
+Answer: Out on Campus, Multifaith Centre, Indigenous Student Centre, Black Caucus
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.8166701000276962
+
+Index: 152
+Question: How can SFU's Employee and Family Assistance Program assist employees?
+Answer: - SFU's Employee and Family Assistance Program can provide confidential and professional assistance to support employees and their families in resolving challenges related to health, work, or personal life.
+File: 0_1_1_11_4
+URL: https://www.sfu.ca/students/health/faculty-staff/faculty-staff-well-being.html
+Similarity: 0.8157514629255704
+
+Index: 153
+Question: What are the operating hours for the Health & Counselling services at different SFU campuses?
+Answer: - Maggie Benston Centre: 9:30 am – 4:30 pm, Monday – Friday
+- Harbour Centre Room 300 (Tuesdays & Fridays): 9:30 am – 4:30 pm (Closed for lunch from 12:30 pm to 1:30 pm)
+- Harbour Centre Room 300 (Monday - Friday): 9:30 am – 4:15 pm (Closed for lunch from 12:30 pm to 1:30 pm)
+File: 0_1
+URL: https://www.sfu.ca/students/health/contact-us.html
+Similarity: 0.8154601784210991
+
+Index: 154
+Question: Are there support groups specifically for students with disabilities?
+Answer: - This support group is for students who want to build social skills to combat depression and anxiety. Group members will be playing Dungeons & Dragons, the tabletop role-playing game
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8152272485438936
+
+Index: 155
+Question: What topics are discussed in the group counseling sessions for students with ADHD?
+Answer: Topics may include coping strategies, study skills, time management, stress management, self-care, and communication skills.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.814970327119031
+
+Index: 156
+Question: What services are provided by Urgent and Primary Care Centres and who can utilize them?
+Answer: - Provides team-based care for non-emergency health concerns
+- Offers same-day care for concerns such as minor injuries, sprains and strains, less serious child illness and injury, infections, and cuts, wounds or skin conditions
+- Available to individuals in various communities across British Columbia as part of the Province’s Primary Care Strategy
+- Regularly launched across the province
+- Alternative to visiting an emergency department for non-emergency issues
+- Patients who require medical attention within 12 to 24 hours for minor injuries, sprains and strains, cuts, wounds, or skin conditions can visit an Urgent and Primary Care Centre
+File: 0_4_3
+URL: https://www.healthlinkbc.ca/health-services/urgent-and-primary-care-centres
+Similarity: 0.8149627143023455
+
+Index: 157
+Question: What sexual health services are available to SFU community members?
+Answer: Members of the SFU community have access to a myriad of sexual health services.
+File: 0_10
+URL: https://olc.sfu.ca/program/sfu-health-and-counselling-services
+Similarity: 0.8147296944241391
+
+Index: 158
+Question: How can the Canadian Mental Health Association, BC Division, support those with mental health issues?
+Answer: - Visit www.cmha.bc.ca
+- Call 1-800-555-8222 (toll-free in BC) or 604-688-3234 (in Greater Vancouver) for information and community resources on mental health or any mental illness.
+File: 0_1_1_11_5
+URL: https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+Similarity: 0.814556545077715
+
+Index: 159
+Question: What activities are offered in the support group for students building social skills?
+Answer: Dungeons & Dragons
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.814547971807524
+
+Index: 160
+Question: What should I do if I want to bring a support person to my academic advising appointment?
+Answer: Complete the form and email it to myadv@sfu.ca in advance of your appointment.
+File: 0_3_9_1
+URL: https://www.sfu.ca/students/academicadvising/contact.html
+Similarity: 0.8144836697941586
+
+Index: 161
+Question: How can students schedule an appointment with the Transition Case Manager?
+Answer: Students can schedule an appointment with the Transition Case Manager by booking online.
+File: 0_9_2
+URL: https://www.sfu.ca/students/health/resources/identity/SupportForInternationalStudents.html#tcm
+Similarity: 0.8144138239477113
+
+Index: 162
+Question: Are there specific Studentcare Networks that offer different advantages?
+Answer: Yes.
+File: 0_3_2_3
+URL: https://studentcare.ca/rte/en/IHaveAPlan_SFUSimonFraserUniversitygraduatestudentsGSS_Home
+Similarity: 0.8142574351835022
+
+Index: 163
+Question: What type of support does the SVSPO offer for individuals impacted by sexual violence?
+Answer: The SVSPO offers free and confidential support for SFU and FIC students and employees who have been impacted by sexual violence, such as sexual assault or harassment, regardless of when or where it took place. They support individuals in ways that feel right for them, and people of all gender identities and sexual orientations are welcome.
+File: 0_1_1_9
+URL: https://www.sfu.ca/sexual-violence.html
+Similarity: 0.8142436204495492
+
+Index: 164
+Question: How can I seek support from the Employee and Family Assistance program at SFU?
+Answer: Burnaby campus: 778.782.4615
+Vancouver campus: 778.782.5200
+Surrey campus: 778.782.5200
+File: 0_1_1_11_3
+URL: https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+Similarity: 0.8141964456107307
+
+Index: 165
+Question: How does Tanu, the Registered Clinical Counsellor, describe her approach to working with Indigenous students?
+Answer: Tanu works with students from a trauma-informed, feminist and anti-oppressive framework, taking into consideration the multiple and complex layers of Indigenous student's lives that impact their mental health and well-being. Tanu strives to create a safe, warm and empathic environment where a student can feel heard and supported. Her approach is flexible and holistic, basing her interventions on what fits best with a student's lived experience and current needs.
+File: 0_5
+URL: https://www.sfu.ca/students/health/contact-us/our_team.html
+Similarity: 0.8141456327216725
+
+Index: 166
+Question: How can I join the waitlist for future offerings of the counselling group?
+Answer: To join the waitlist for future offerings of the counselling group, contact your CAL disability advisor and express your interest in participating. They will forward you an email referral with instructions on how to book an intake appointment with the group facilitator. Once you have completed these steps, you will meet with the facilitator for a screening meeting to determine if the group is a good fit for you. Space in the groups is limited, so once the group is filled, a waitlist will be created for those interested in joining future offerings.
+File: 0_3_8_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-autism.html
+Similarity: 0.8138780824352738
+
+Index: 167
+Question: How can I get trusted health advice over the phone?
+Answer: - Call HealthLink BC at 8-1-1
+- Call your family physician or nurse practitioner
+- Speak with your pharmacist
+File: 0_4_2
+URL: https://www.vch.ca/en/health-topics/emergency-care
+Similarity: 0.8136847177892058
+
+Index: 168
+Question: Are there any restrictions on the type of support or information that can be provided through the online chat service?
+Answer: - No restrictions on the type of support or information provided through the online chat service.
+File: 0_4_4
+URL: https://crisiscentrechat.ca/
+Similarity: 0.8135636046343958
+
+Index: 169
+Question: What types of issues can the Ombudsperson help with?
+Answer: Fairness issues, appeals, interpersonal conflict, academic concerns, policy questions
+File: 0_1_1_8
+URL: https://www.sfu.ca/ombudsperson.html
+Similarity: 0.8134744263210513
+
+Index: 170
+Question: How can students with disabilities seek support in a safe environment?
+Answer: Students with disabilities can seek support in a safe environment by joining the support group "Experiencing Disability" designed for students with disabilities. This group is restricted to CAL registrants and sessions will be held via Zoom. Students can contact their CAL advisor for referral. They can also reach out to Sean Heaslip, the HCS counsellor liaison with the Centre for Accessible Learning, for information and questions.
+File: 0_1_4_3
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-disability.html
+Similarity: 0.8133349594231136
+
+Index: 171
+Question: What resources are available at SFU for students in distress?
+Answer: - Office of Student Support, Rights & Responsibilities
+- Health & Counselling Services
+- My SSP
+- 24-hour crisis lines
+- Campus Public Safety
+- Employee and Family Assistance program (EFAP)
+File: 0_1_1_11_3
+URL: https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+Similarity: 0.8133162818373325
+
+Index: 172
+Question: What support options are available for students who are not registered with CAL or lack access to healthcare and documentation?
+Answer: - Burnaby campus: 778.782.4615
+- Vancouver campus: 778.782.5200
+- Surrey campus: 778.782.5200
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8132221909678108
+
+Index: 173
+Question: What are the hours of availability for appointments with case managers?
+Answer: Monday-Friday, 9am-4:30pm (excluding statutory holidays)
+File: 0_1_1_13
+URL: https://www.sfu.ca/students/studentsupport/contact-us.html
+Similarity: 0.8132026925024362
+
+Index: 174
+Question: How can Enrolment Services support students in their degree completion?
+Answer: - Enrolment Services can support students in their degree completion by providing support for course planning and enrolment, tuition fees and payment plans, official documents, ID cards and U-Pass, academic records, graduation application, and many other services related to degree completion
+File: 0_1_1_14
+URL: https://www.sfu.ca/students.html
+Similarity: 0.8131560268775501
+
+Index: 175
+Question: How can students with ADHD participate in group counseling at SFU?
+Answer: To participate in group counseling at SFU, students with ADHD can contact their CAL disability advisor and express interest in joining the 'Experiencing ADHD' group. The advisor will then forward an email referral with instructions on how to book an intake appointment with the group facilitator. Following the intake appointment, students will meet with the facilitator for a screening meeting to determine if the group is a good fit. It is important to consider the mental and emotional energy required for consistent participation, as space in the groups is limited and once filled, new members will not be admitted for that semester.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8131352523199149
+
+Index: 176
+Question: What services are offered for online or blended course design?
+Answer: - Assistance with online or blended course design
+- Learning technology support
+- Multimedia support such as videos, lightboard, graphics, and animations
+File: 0_1_1_5
+URL: https://www.sfu.ca/cee.html
+Similarity: 0.8130537908774094
+
+Index: 177
+Question: What specialized health care services does PHSA provide?
+Answer: PHSA provides specialized health care services to communities across British Columbia.
+File: 0_2_3_2
+URL: https://www.transcarebc.ca/hormone-therapy
+Similarity: 0.8128470838486069
+
+Index: 178
+Question: Can the Ombudsperson help with academic concerns?
+Answer: Yes.
+File: 0_1_1_8
+URL: https://www.sfu.ca/ombudsperson.html
+Similarity: 0.8124216674891004
+
+Index: 179
+Question: What services does VictimLinkBC provide to victims of crime?
+Answer: - Information and referral services
+- Immediate crisis support
+- Assistance in up to 150 languages
+- Connection to community, social, health, justice, and government resources
+File: 0_3_9_13
+URL: https://www2.gov.bc.ca/gov/content/justice/criminal-justice/victims-of-crime/victimlinkbc
+Similarity: 0.81240667877392
+
+Index: 180
+Question: What are the qualifications and background of Sean, the Health & Counseling counselor liaison with the Centre for Accessible Learning?
+Answer: Sean is a registered Clinical Counsellor. He works as a counsellor liaison with the Centre for Accessible Learning (CAL) at Simon Fraser University. Sean provides individual and group counselling services. He is partially blind and has a lived experience of disability. Sean is also a Masters level counsellor and a current PhD candidate in counselling psychology at the University of British Columbia. He completed his pre-doctoral internship at SFU in 2020. Sean's research areas focus on disability issues, seeking psychological services as a person with a disability, and the impact of unsolicited help on blind/partially sighted individuals.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8123217514711969
+
+Index: 181
+Question: How can the Centre assist individuals who do not have a career plan?
+Answer: - Book an appointment or sign up for a workshop
+- Take action with the help of a Career Education Specialist
+- Attend alumni-specific info sessions and workshops
+- Participate in grad school discovery talks
+- Attend career fairs
+- Watch the events page for upcoming events or call to book
+File: 0_3_9_8
+URL: https://www.sfu.ca/students/career.html
+Similarity: 0.8122792120526249
+
+Index: 182
+Question: What should a student do if they are feeling overwhelmed and need support?
+Answer: - Contact the mental health professionals available for individual support
+- Reach out to the Student Mental Health & Well-being Framework
+- Call the campus support numbers for immediate assistance
+File: 0_3
+URL: https://www.sfu.ca/students/health/support-resources.html
+Similarity: 0.8121795737223714
+
+Index: 183
+Question: What are some examples of challenges that the Transition Case Manager can help students with?
+Answer: - Managing school stress
+- Finding housing
+- Understanding documents
+- Understanding Canadian services
+File: 0_9_2
+URL: https://www.sfu.ca/students/health/resources/identity/SupportForInternationalStudents.html#tcm
+Similarity: 0.8119985584597557
+
+Index: 184
+Question: What resources are available for students at SFU and in the community for mental health support?
+Answer: - Burnaby campus: 778.782.4615
+- Vancouver campus: 778.782.5200
+- Surrey campus: 778.782.5200
+File: 0_5_1_1
+URL: https://www.sfu.ca/students/health/whats-happening/hifive-sfu/meethifive.html
+Similarity: 0.8119910605342189
+
+Index: 185
+Question: How does Sean incorporate grounding and regulation techniques in counseling sessions?
+Answer: Sean incorporates grounding and regulation techniques in counseling sessions by helping clients move through painful areas in order to regain their connection to their goals and themselves.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8118536581388122
+
+Index: 186
+Question: What services are offered at the HIM Health Centre for GBQ men and gender diverse people?
+Answer: - HIV or STI tests
+- STI/HIV testing and treatment services
+- Code of Conduct to be read by all attendees
+File: 0_2_2_4
+URL: https://checkhimout.ca/
+Similarity: 0.8116901953920221
+
+Index: 187
+Question: How can I provide immediate support to someone at risk of suicide?
+Answer: - Learn how to recognize potential signs of distress and suicide risk
+- Ask about suicidal thoughts
+- Effectively respond to students in distress using interpersonal skills
+- Connect individuals to SFU and community-based services
+- Attend the Suicide Prevention and Awareness Workshop
+- Take the Online Course
+- Contact Registered Clinical Counsellors for support 
+- Offer a caring and empathetic atmosphere
+- Learn about stigma reduction
+- Support the Hi-FIVE Movement for Mental Health Program at SFU
+File: 0_9_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/suicide-prevention.html#course
+Similarity: 0.8116658820091518
+
+Index: 188
+Question: What types of support are available to Indigenous students at the Indigenous Student Centre and SFU?
+Answer: - Wholistic wellness programs
+- Wellness Program
+- Indigenous Clinical Counsellors
+- Elders Program Drop-in
+- Cultural Connections workshop
+- Black Counsellor (Tricia Kay Williams)
+- Online Resilience Course
+- Group counselling
+- Online self-help resources
+- MindShift Application
+- Additional support options and counselling services from SFU Health and Counselling Services
+File: 0_3_2_5
+URL: https://www.sfu.ca/students/indigenous/wellness.html
+Similarity: 0.8115901899650092
+
+Index: 189
+Question: How can faculty and staff consult with the Office of Student Support, Rights & Responsibilities?
+Answer: Faculty and staff can consult with the Office of Student Support, Rights & Responsibilities by calling 778 782 5699 or emailing ssrr@sfu.ca.
+File: 0_1_1_13
+URL: https://www.sfu.ca/students/studentsupport/contact-us.html
+Similarity: 0.8115732351513634
+
+Index: 190
+Question: How can students contact the Office of Student Support, Rights & Responsibilities for non-emergency referrals?
+Answer: - Phone: 778.782.5699
+- Email: ssrr@sfu.ca
+- Online: Share a concern
+File: 0_1_1_15
+URL: https://www.sfu.ca/students/studentsupport.html#students
+Similarity: 0.8115326594812883
+
+Index: 191
+Question: When should I see a General advisor from Student Services?
+Answer: - If you have questions
+- If you have been approved in an area of specialization or are ready to have a specialization approved
+File: 0_3_9_3
+URL: https://www.sfu.ca/students/academicadvising/contact/departmental-advisors.html
+Similarity: 0.8114114707888065
+
+Index: 192
+Question: What resources does SFU offer to support mental health and well-being?
+Answer: - A Very Happy Brain (4m)
+- All It Takes Is 10 Mindful Minutes, Andy Puddicombe (9m)
+- How Failure Cultivates Resilience
+- How Failure Cultivates Resilience, Raphael Rose (12m)
+- The Habits of Happiness, Matthieu Ricard (20m)
+- 3 Secrets of Resilient People, Lucy Hone (16m)
+- The Gift and Power of Emotional Courage, Susan David (16m)
+- Resilience & Immunity
+- Resilience & Immunity - Podcast, Dr. Halena Gazelka (18m)
+File: 0_1_1_11_4_9
+URL: https://www.sfu.ca/human-resources/learning-development/online-learning1/well-being---resilience.html
+Similarity: 0.8112598548921062
+
+Index: 193
+Question: How can faculty and staff share concerns about students with the Office of Student Support?
+Answer: Faculty and staff can share concerns about students with the Office of Student Support by contacting them via phone at 778.782.5699, email at ssrr@sfu.ca, or online through the "Share a concern" form.
+File: 0_1_1
+URL: https://www.sfu.ca/students/studentsupport.html
+Similarity: 0.8112531522580838
+
+Index: 194
+Question: How can SFU and FIC students access free, confidential, time-limited support for sexual violence and intimate partner violence?
+Answer: By connecting with an SVSPO Case Manager or contacting Health and Counselling Services directly.
+File: 0_3_2_4
+URL: https://www.sfu.ca/sexual-violence/get-help/help-for-students/sfu-counselling-.html
+Similarity: 0.8111789685189246
+
+Index: 195
+Question: What resources are available for more information on depression and mental health?
+Answer: - Canadian Mental Health Association
+- Canadian Network for Mood and Anxiety Treatments
+- Centre for Addiction and Mental Health
+- Mood Disorders Society of Canada
+- Mood Disorders Association of Ontario
+File: 0_1_1_11_4_4
+URL: https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/depression.html
+Similarity: 0.8111694455908339
+
+Index: 196
+Question: What are some treatments that can help individuals recover from substance use disorder?
+Answer: - Proper treatment
+- Support
+- Self-care
+File: 0_1_1_11_4_5
+URL: https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/substance-use-disorder.html
+Similarity: 0.8111133393720846
+
+Index: 197
+Question: What is the background and approach of Beth in her counselling work?
+Answer: Beth is a Registered Clinical Counsellor working within a client-centered, intersectionality framework. She has experience as a yoga and meditation instructor, group facilitator, and graduate student. Beth strives to support the development of insight, strategies, and tools to assist students in reaching their counseling and broader life goals. She is a certified EMDR therapist with experience in supporting clients through issues related to trauma history, self-esteem, stress, anxiety, and low mood.
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8108766449686203
+
+Index: 198
+Question: How can students contact the Advocacy Office?
+Answer: - Room 3301 in the Student Union Building
+- Email studentadv.coord@sfss.ca
+- Visit sfss.ca
+File: 0_1_4_8
+URL: https://sfss.ca/services/student-advocacy-office/
+Similarity: 0.8107814363088794
+
+Index: 199
+Question: What are some common exclusions for mental health services?
+Answer: - Some services are considered Exclusions
+- Items and services that are Exclusions cannot be covered as an exception and cannot be appealed.
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8105060541466035
+
+Index: 200
+Question: What type of supports are available to students at SFU?
+Answer: - Appointments with case managers
+- Consultation with the Office of Student Support, Rights & Responsibilities
+File: 0_1_1_13
+URL: https://www.sfu.ca/students/studentsupport/contact-us.html
+Similarity: 0.8103997582246958
+
+Index: 201
+Question: What kind of information and support does ADIRS provide for substance use issues?
+Answer: - Free, confidential information and referral services
+- Referral to community substance use treatment services
+- Prevention resources
+- Support groups
+- Information on addiction related topics such as fetal alcohol syndrome
+File: 0_1_1_11_4_8
+URL: https://www.healthlinkbc.ca/mental-health-substance-use/resources/alcohol-drug-information-referral-service
+Similarity: 0.8103616794955064
+
+Index: 202
+Question: How can I find a registered mental health provider?
+Answer: - You can find detailed information about your mental health claims through your PBC Member Profile, which you can access online
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8101323932151061
+
+Index: 203
+Question: What services does Campus Security provide at SFU?
+Answer: - Emergency support
+- First aid response
+- Guiding emergency responders (fire, ambulance, police) to the right place on campus quickly
+- Safe Walk program
+- SFU Alerts
+- Safety Training & Orientation
+- Incident Reporting
+- Hazard Reporting
+- Emergency Posters
+- AED Locations (Campus Maps)
+- Campus Assembly Area Maps
+File: 0_4_1
+URL: https://www.sfu.ca/emergency
+Similarity: 0.810093562001762
+
+Index: 204
+Question: How can I contact Health & Counselling at SFU on the Burnaby, Vancouver, and Surrey campuses?
+Answer: Burnaby campus: 778.782.4615
+Vancouver campus: 778.782.5200
+Surrey campus: 778.782.5200
+File: 0_9_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/suicide-prevention.html#course
+Similarity: 0.8100728060359651
+
+Index: 205
+Question: What support options are available for students at SFU?
+Answer: - Burnaby campus: 778.782.4615
+- Vancouver campus: 778.782.5200
+- Surrey campus: 778.782.5200
+File: 0_5_1_1_1
+URL: https://www.sfu.ca/students/health/whats-happening/hifive-sfu/our-story.html
+Similarity: 0.8098885619549938
+
+Index: 206
+Question: How can academic advisors help with degree planning and program requirements?
+Answer: - They can provide guidance on course selection and sequencing to meet program requirements
+File: 0_3_9_2
+URL: https://www.sfu.ca/students/academicadvising/
+Similarity: 0.809692156121482
+
+Index: 207
+Question: Who is involved in the student-led group that works with SFU Health & Counselling?
+Answer: SFU students from many different faculties
+File: 0_5_1
+URL: https://www.sfu.ca/students/health/whats-happening/hifive-sfu.html
+Similarity: 0.8095080584462103
+
+Index: 208
+Question: How can the Centre help in connecting individuals with opportunities related to their interests?
+Answer: - Work with a career professional to develop a resume and online portfolio, write a career statement and bio, or practice presentation or interview skills
+File: 0_3_9_8
+URL: https://www.sfu.ca/students/career.html
+Similarity: 0.8092099723713883
+
+Index: 209
+Question: How can staff and faculty support students in their volunteering and personal development activities?
+Answer: - By providing guidance and resources
+- By connecting students with relevant opportunities
+- By facilitating networking and mentorship opportunities
+- By helping students navigate the Co-Curricular Record process
+File: 0_5_1_2_1
+URL: https://www.sfu.ca/students/get-involved/recognition/co-curricular-record/
+Similarity: 0.8090206464984204
+
+Index: 210
+Question: How can graduate students with disabilities seek support in a safe environment?
+Answer: - By joining a group specifically designed for graduate students with disabilities
+- By contacting their CAL disability advisor and expressing interest in participating in the group
+- By attending all 8 sessions of the group and committing to the process
+File: 0_9_5
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/disability-graduate-students-support.html
+Similarity: 0.8089787574949205
+
+Index: 211
+Question: What resources are available for supporting individuals after a Critical Incident?
+Answer: - Student Services
+- Health & Counselling
+- Interfaith
+- Security
+- SFU Student Conduct Office
+- Campus Safety & Security
+File: 0_1_1_11
+URL: https://www.sfu.ca/students/health/faculty-staff/critical-support.html
+Similarity: 0.808690879060335
+
+Index: 212
+Question: How do Health Peers support student health and well-being on campus?
+Answer: Health Peers support student health and well-being on campus through free events and workshops, virtual outreaches like podcasts, and more.
+File: 0_8_19
+URL: https://www.sfu.ca/healthycampuscommunity/education.html
+Similarity: 0.8086676075835171
+
+Index: 213
+Question: How can students book appointments with doctors and nurses on campus?
+Answer: By appointment, through the student health clinics on Burnaby and Vancouver campus.
+File: 0
+URL: https://www.sfu.ca/students/health/
+Similarity: 0.8086098827524936
+
+Index: 214
+Question: Where can faculty and staff find more information about responding to students in distress?
+Answer: Faculty and staff can find more information about responding to students in distress by downloading the "Students in Distress - Response Guide for Faculty and Staff."
+File: 0_1_1
+URL: https://www.sfu.ca/students/studentsupport.html
+Similarity: 0.8084645014315528
+
+Index: 215
+Question: What services does the SOCA BSSC offer to Black student members of the SFSS?
+Answer: Events, resources, support services, and advocacy.
+File: 0_3_2_6_2
+URL: https://sfss.ca/black-student-support-centre/
+Similarity: 0.8084430726139331
+
+Index: 216
+Question: What types of resources can VictimLinkBC connect individuals to?
+Answer: Victim services, transition houses, counseling resources, justice system information, federal and provincial legislation and programs, crime prevention resources, safety planning, protection order registry.
+File: 0_3_9_13
+URL: https://www2.gov.bc.ca/gov/content/justice/criminal-justice/victims-of-crime/victimlinkbc
+Similarity: 0.8083779818454009
+
+Index: 217
+Question: How can international students connect with the Transition Case Manager?
+Answer: - By scheduling an appointment
+- By booking now
+- By contacting ricky_tu@sfu.ca
+File: 0_9_2
+URL: https://www.sfu.ca/students/health/resources/identity/SupportForInternationalStudents.html#tcm
+Similarity: 0.8080976279704838
+
+Index: 218
+Question: What is the socio-ecological approach recommended for addressing student mental health and well-being?
+Answer: The socio-ecological approach is recommended for addressing student mental health and well-being.
+File: 0_8_18
+URL: https://www.sfu.ca/healthycampuscommunity/about/background-and-rationale.html
+Similarity: 0.8080457925343889
+
+Index: 219
+Question: How can I clarify what help looks like for someone struggling with thoughts of suicide?
+Answer: - Assure people that services are confidential
+- Encourage them to reach out to mental health professionals
+- Offer resources and referrals as needed
+- Acknowledge the student's choice to take the referral
+- Reinforce that taking that step may help them reach positive change
+File: 0_8_15
+URL: https://www.sfu.ca/healthycampuscommunity/learningenvironments/resource-library/resources/recognizing-referring-students-in-difficulty.html
+Similarity: 0.8079107549142651
+
+Index: 220
+Question: What services and resources are readily accessible to SFU students for academic success?
+Answer: Enrolment services, Advising, Career and volunteer, Health and counselling, Indigenous student centre, Accessible Learning, Residence and housing, Multifaith Centre.
+File: 0_1_1_14
+URL: https://www.sfu.ca/students.html
+Similarity: 0.8078787858581783
+
+Index: 221
+Question: How can doctors and nurses support individuals in making informed choices and changes?
+Answer: - Doctors and nurses can provide support through a Hormone Readiness Assessment
+- Doctors and nurses can guide individuals step by step through starting hormone therapy
+- Doctors and nurses can assist with weekly hormone injections or teach individuals to self-inject
+File: 0_2_3
+URL: https://www.sfu.ca/students/health/see-a-doctor/gender-affirming-care.html
+Similarity: 0.8077805743633505
+
+Index: 222
+Question: Where can I find easy tips for supporting student well-being in learning environments?
+Answer: 1. Guide to 10 Conditions for Well-being in Learning Environments
+2. 10 Ways to Embed Well-being into Remote Learning Environments
+3. 5-Minute Well-being Activities
+4. 8 Ways to Build Resilience
+5. Health and Well-being Resources Slide Deck
+6. Mindfulness Meditation Practice
+7. Practices that support student well-being in remote (or in-person) settings
+8. Well-Being Check-Ins and Tips for Online Learning Environments
+File: 0_8_7
+URL: https://www.sfu.ca/healthycampuscommunity/learningenvironments/resource-library.html
+Similarity: 0.8069651116049515
+
+Index: 223
+Question: What options are available for boosting mental health through HIM programs?
+Answer: - Participating in counseling
+- Attending a social group
+- Joining The Afterparty group for support and connection
+File: 0_2_2_4
+URL: https://checkhimout.ca/
+Similarity: 0.8068965768884039
+
+Index: 224
+Question: What type of supervision is provided to pre-doctoral students during their practicum placements?
+Answer: Full supervision is provided, with the required one hour of supervision for every four hours of therapy provided by a B.C. Registered Psychologist, with at least half of the supervision being individual supervision.
+File: 0_7
+URL: https://www.sfu.ca/students/health/contact-us/internships-practicums.html
+Similarity: 0.8068834969101399
+
+Index: 225
+Question: What qualifications does Tricia-Kay Williams have for counseling Black SFU students?
+Answer: Tricia-Kay Williams has a BA degree in Psychology from York University in Toronto, O.N. and an MA degree in Counselling Psychology from Adler University in Vancouver, B.C.
+File: 0_3_7_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/healingspace.html
+Similarity: 0.8067767151964123
+
+Index: 226
+Question: What translation services are available through 8-1-1 and in how many languages?
+Answer: Translation services are available in more than 130 languages.
+File: 0_2_5
+URL: https://www.healthlinkbc.ca/more/contact-us/8-1-1
+Similarity: 0.8066462839380716
+
+Index: 227
+Question: What safety services are available for SFU students and faculty?
+Answer: - Safe Walk Program
+- SFU Alerts
+- Safety Training & Orientation
+- Emergency Posters
+- AED Locations (Campus Maps)
+- Campus Assembly Area Maps
+File: 0_4_1
+URL: https://www.sfu.ca/emergency
+Similarity: 0.8066140718102314
+
+Index: 228
+Question: What type of concerns should be directed to the Office of Student Support, Rights & Responsibilities?
+Answer: - Non-emergency referrals
+- Concerns about a student's safety, well-being, or impact upon others
+- Concerns regarding academic misconduct and academic integrity
+- Student behavior that is distressed, disruptive, disturbing, or dangerous
+File: 0_1_1_16
+URL: https://www.sfu.ca/students/studentsupport.html#staff
+Similarity: 0.8065900577954278
+
+Index: 229
+Question: Who are the facilitators of the drop-in sessions and how can they be contacted?
+Answer: Beth Triano at btriano@sfu.ca or Sarah Parkes at sacomin@sfu.ca
+File: 0_3_1_6
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/mindfulness-meditation-sfu.html
+Similarity: 0.8063209250750395
+
+Index: 230
+Question: How can HealthLink BC provide support for mental health information?
+Answer: HealthLink BC provides free, non-emergency health information for mental health. Through 811, you can speak with a registered nurse about symptoms you're worried about or speak with a pharmacist about medication questions.
+File: 0_1_1_11_5
+URL: https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+Similarity: 0.806214635335686
+
+Index: 231
+Question: How have other students benefited from the support provided by the Transition Case Manager?
+Answer: - "I learned how to improve my talking skills, how to communicate, and do a presentation since it is difficult for an international student."
+- "The Transition Case Manager recommended me to different resources on campus which helped me build a better mental health and learning condition."
+- "Ricky really helped me during my tough times at SFU. He is the most generous one."
+- "Ricky is a great listener with great energy and applicable strategies."
+File: 0_9_2
+URL: https://www.sfu.ca/students/health/resources/identity/SupportForInternationalStudents.html#tcm
+Similarity: 0.806212723184602
+
+Index: 232
+Question: What types of events and workshops does the group host?
+Answer: The group hosts events, workshops, and authentic conversations.
+File: 0_5_1
+URL: https://www.sfu.ca/students/health/whats-happening/hifive-sfu.html
+Similarity: 0.806210560838583
+
+Index: 233
+Question: What options are available for emergency support at SFU?
+Answer: - Notify the front desk by calling 778-782-4615 during operating hours
+- Access free, confidential, 24/7 counselling support through the My SSP app
+- Contact the Crisis Centre 24/7/365
+- Call 1-800-784-2433 (1-800-SUICIDE) for thoughts of suicide
+- Contact the crisis line or chat with someone at the Crisis Centre if in BC or Canada
+- Call the specific campus numbers for emergency support: Burnaby campus: 778.782.4615, Vancouver campus: 778.782.5200, Surrey campus: 778.782.5200
+File: 0_3_4
+URL: https://www.sfu.ca/students/health/get-support/talk-now.html
+Similarity: 0.8061284668209964
+
+Index: 234
+Question: Who can I call if I or someone I know is having thoughts of suicide?
+Answer: 1-800-784-2433 (1-800-SUICIDE)
+Local crisis centre
+Burnaby campus: 778.782.4615
+Vancouver campus: 778.782.5200
+Surrey campus: 778.782.5200
+File: 0_3_4
+URL: https://www.sfu.ca/students/health/get-support/talk-now.html
+Similarity: 0.8060802799404896
+
+Index: 235
+Question: What resources are available for suicide awareness and prevention training for graduate students?
+Answer: Suicide Awareness and Prevention Training
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.806076049210427
+
+Index: 236
+Question: How can facilitated support be provided after a Critical Incident?
+Answer: Facilitated Support can range from informal arrangements to more formal, structured interventions. Every situation can be unique and may require a variety of supports, such as Health and Counselling, Interfaith, Security, Student Conduct or external resources, as well as coordinated planning and communications. Proper assessment is important. These options can be explored in more details by contacting the Office of the Vice Provost Students & International at avps@sfu.ca or 778.782.4170.
+File: 0_1_1_11
+URL: https://www.sfu.ca/students/health/faculty-staff/critical-support.html
+Similarity: 0.8060340897433845
+
+Index: 237
+Question: Which languages does Poupak, the Registered Clinical Counsellor, speak in addition to English?
+Answer: Farsi
+File: 0_5
+URL: https://www.sfu.ca/students/health/contact-us/our_team.html
+Similarity: 0.8059931589449015
+
+Index: 238
+Question: What are the phone numbers for Health & Counselling at the Burnaby, Vancouver, and Surrey campuses?
+Answer: Burnaby campus: 778.782.4615
+Vancouver campus: 778.782.5200
+Surrey campus: 778.782.5200
+File: 0_2_1
+URL: https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+Similarity: 0.8059918212462549
+
+Index: 239
+Question: What are some of the issues that the support group addresses?
+Answer: - Seeking psychological services as a person with a disability
+- Impact on blind/partially sighted people of receiving unsolicited help from sighted helpers
+File: 0_1_4_3
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-disability.html
+Similarity: 0.8059896772862396
+
+Index: 240
+Question: Where can I find information about academic advising for international students?
+Answer: Quick Links
+File: 0_3_9_6
+URL: https://www.sfu.ca/students/isap/contact.html
+Similarity: 0.8059204237072475
+
+Index: 241
+Question: Are there drop-in mindfulness sessions available for students?
+Answer: Yes, there are drop-in mindfulness sessions available for students.
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8058903124777396
+
+Index: 242
+Question: How does the Global Student Centre support student well-being at SFU?
+Answer: The Global Student Centre supports student well-being at SFU by fostering inclusivity, social connectedness, and community. 
+
+Students feel happier, study more effectively, and are encouraged to spend more time at school and socialize at the Global Student Centre. 
+
+The Centre provides a well-designed space that enhances accessibility and functionality for individual study, group work, presentations, and research conferences. 
+
+SFU Health Promotion was consulted during the planning stages for the FHS Student Commons to delineate individual study space versus collaborative space, resulting in a space that is well-utilized by FHS students.
+File: 0_8_5
+URL: https://www.sfu.ca/healthycampuscommunity/projects/physical-spaces.html
+Similarity: 0.8056193145718986
+
+Index: 243
+Question: What happens during a Rapid Access/Intake Appointment for mental health support?
+Answer: - You can express your preference for counsellor gender, language, background, and more
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8055624788646826
+
+Index: 244
+Question: How can I book individual or departmental consultations for teaching development?
+Answer: Book a Consult
+File: 0_1_1_5
+URL: https://www.sfu.ca/cee.html
+Similarity: 0.8054117348167242
+
+Index: 245
+Question: What types of personal student needs can SFU support with beyond academics?
+Answer: - Physical and mental health and well-being
+- Accessibility requirements
+- Spiritual and faith-based matters
+- International and newcomer student advising
+- Indigenous community spaces and guidance
+- Rights and safety concerns
+File: 0_1_1_14
+URL: https://www.sfu.ca/students.html
+Similarity: 0.8053785380839051
+
+Index: 246
+Question: What resources and tools are available to support student well-being at SFU?
+Answer: - self-led courses
+- podcasts
+- counsellors
+- social workers
+- nurses
+File: 0
+URL: https://www.sfu.ca/students/health/
+Similarity: 0.8052897530170433
+
+Index: 247
+Question: How can faculty members support graduate student well-being through the supervisory process?
+Answer: - Advocate for the needs of graduate students
+- Raise awareness of campus resources
+- Create conditions for optimizing the learning experience
+- Support satisfaction, resilience, and success
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.805256110023324
+
+Index: 248
+Question: Who can I contact if I or someone I know is having thoughts of suicide?
+Answer: 1-800-784-2433 (1-800-SUICIDE)
+Crisis Centre of BC online chat:
+- www.crisiscentrechat.ca (for adults)
+- www.youthinbc.com (for youth)
+File: 0_4
+URL: https://www.sfu.ca/students/health/emergency.html
+Similarity: 0.8052256787904993
+
+Index: 249
+Question: What resources and information does the Mood Disorders Association of BC provide?
+Answer: - Visit www.mdabc.net
+- Call 604-873-0103 (in the Lower Mainland) or 1-855-282-7979 (in the rest of BC) for resources and information on mood disorders and support groups in your area.
+File: 0_1_1_11_5
+URL: https://www.sfu.ca/human-resources/rtw-dm/Mental_Health_Information.html
+Similarity: 0.8050538013329187
+
+Index: 250
+Question: How can I book an appointment online with some care providers?
+Answer: You can book an appointment online with some care providers through the online booking system being set up by Health & Counselling.
+File: 0_6
+URL: https://www.sfu.ca/students/health/contact-us/accessibility.html
+Similarity: 0.8049642654403346
+
+Index: 251
+Question: How can nurses support me with my concerns?
+Answer: - Nurses are here to provide support with a variety of concerns.
+File: 0_2_7
+URL: https://www.sfu.ca/students/health/see-a-doctor/see-a-nurse.html
+Similarity: 0.8049290431619318
+
+Index: 252
+Question: What should I do in case of a crisis or suicide situation?
+Answer: - Call 1 (800) 784-2433 for crisis or suicide situations
+- Call 9-1-1 or go to the nearest hospital Emergency Department for immediate medical attention
+File: 0_4_2
+URL: https://www.vch.ca/en/health-topics/emergency-care
+Similarity: 0.8048323815109902
+
+Index: 253
+Question: What approach does the Registered Psychologist use in therapy?
+Answer: The Registered Psychologist uses a Human Givens and a CBT approach.
+File: 0_9_3
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/thesis-support.html
+Similarity: 0.8048101171397108
+
+Index: 254
+Question: How can I contact the international advising office for assistance?
+Answer: You can contact the international advising office for assistance through Livechat, phone at 778.782.4232, or email at intl_advising@sfu.ca.
+File: 0_3_7_7
+URL: https://www.sfu.ca/students/isap.html
+Similarity: 0.8047205694162802
+
+Index: 255
+Question: How can I contact the psychologist at the Surrey campus?
+Answer: You can contact the psychologist at the Surrey campus by calling 778.782.5200.
+File: 0_3_8_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/trauma-seminar.html
+Similarity: 0.8047146937162372
+
+Index: 256
+Question: Who is the facilitator of the counselling group for autistic students at SFU?
+Answer: The facilitator of the counselling group for autistic students at SFU is Sean.
+File: 0_3_8_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-autism.html
+Similarity: 0.8047002451917223
+
+Index: 257
+Question: What types of program requirement concessions can departments provide?
+Answer: - Course substitutions
+- Course prerequisite waivers
+- Continuance GPA exceptions
+File: 0_1_3
+URL: https://www.sfu.ca/students/enrolment-services/policies-and-procedures/academic-concessions.html.html#academic-concessions
+Similarity: 0.8046435948477576
+
+Index: 258
+Question: What types of sessions are available during the Drop-In Schedule?
+Answer: Short 15 minute 1-on-1 or group sessions
+File: 0_3_9_8
+URL: https://www.sfu.ca/students/career.html
+Similarity: 0.8046346364053076
+
+Index: 259
+Question: How do you support student well-being in your teaching practice?
+Answer: - Sign up for our newsletter or share your own example of how you create well-being in learning environments
+File: 0_8_14
+URL: https://www.sfu.ca/content/sfu/healthycampuscommunity/learningenvironments/resource-library/resources/class-check-in.html
+Similarity: 0.8045157999796742
+
+Index: 260
+Question: How can future students or SFU alumni book an advising session with a Financial Aid and Awards Advisor?
+Answer: Future students or SFU alumni can book an advising session with a Financial Aid and Awards Advisor by filling out a quick form on the SFU website.
+File: 0_3_9_11
+URL: https://www.sfu.ca/students/financialaid/contact.html
+Similarity: 0.8043043798648282
+
+Index: 261
+Question: What services does the SFSS provide to undergraduate students at SFU?
+Answer: - Advocacy work
+- Services
+- Events
+File: 0_1_4_8
+URL: https://sfss.ca/services/student-advocacy-office/
+Similarity: 0.8042610580912506
+
+Index: 262
+Question: How can I book an appointment with a case manager at SFU?
+Answer: You can book an appointment by calling 778 782 5699 or emailing ssrr@sfu.ca.
+File: 0_1_1_13
+URL: https://www.sfu.ca/students/studentsupport/contact-us.html
+Similarity: 0.8042205717095221
+
+Index: 263
+Question: How can I embrace loneliness and reach out for support in university?
+Answer: - Embrace loneliness by acknowledging and accepting it
+- Reach out for support by connecting with resources such as Health & Counselling
+- Practice self-care and prioritize mental health
+- Engage in meaningful connections within the community
+- Seek additional support when needed
+File: 0_10
+URL: https://olc.sfu.ca/program/sfu-health-and-counselling-services
+Similarity: 0.8041435572938495
+
+Index: 264
+Question: How can I learn more about anxiety, depression, and trauma through the university?
+Answer: - Attend the seminar at the university
+- Contact the Burnaby campus at 778.782.4615
+- Contact the Vancouver campus at 778.782.5200
+- Contact the Surrey campus at 778.782.5200
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8040765630524125
+
+Index: 265
+Question: What resources are available at the Out On Campus Resources Guide?
+Answer: - Find support from doctors and nurses
+- Hormone Readiness Assessment
+- Information about hormone therapy
+- Information about receiving hormone injections
+- Contact numbers for different campuses
+- Acknowledgement of traditional territories
+- Terms & Conditions, Privacy policy of Simon Fraser University
+File: 0_2_3
+URL: https://www.sfu.ca/students/health/see-a-doctor/gender-affirming-care.html
+Similarity: 0.8038501690603164
+
+Index: 266
+Question: What is the background and experience of Doriana, the Registered Clinical Counsellor?
+Answer: - Doriana is a second generation Italian-Canadian
+- She attended Simon Fraser University and obtained a Bachelor’s Degree in Psychology, Counselling, and Human Development
+- She holds a Master’s Degree in Counselling
+- Doriana has worked in the mental health field since 2010
+- She utilizes a strengths based, solution focused perspective
+- Doriana supports students experiencing various issues such as life transitions, work-life balance, family of origin, relationship issues, grief and loss, and burnout
+File: 0_3_8_6
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/coping-skills.html
+Similarity: 0.8036280308361742
+
+Index: 267
+Question: How can the SFU Health Promotion team support student mental health and well-being projects?
+Answer: 1. Provide support for student mental health and well-being projects. 
+2. Identify and strengthen capacity for university committees to embed health and well-being in their initiative. 
+3. Contribute to developing a shared vision in planning and implementing health promotion action in faculties, departments, and units. 
+4. Work with individuals to explore ways they can be involved in creating a healthier campus community. 
+5. Act as a liaison with other Health and Counselling providers.
+File: 0_8_1
+URL: https://www.sfu.ca/healthycampuscommunity/about/contact-us.html
+Similarity: 0.8035881382453486
+
+Index: 268
+Question: How can students access self-led resources for their well-being?
+Answer: - Explore options at your own pace like courses and trainings, videos, podcasts, and apps
+- Build skills related to relevant topics like procrastination, mental health, well-being, and resilience.
+File: 0_3
+URL: https://www.sfu.ca/students/health/support-resources.html
+Similarity: 0.8035102097750685
+
+Index: 269
+Question: How can I access immediate crisis support in multiple languages?
+Answer: - Crisis support is available to all SFU graduate and undergraduate students worldwide by phone or through the downloadable app in English, French, Korean, Chinese, Arabic, and Spanish
+File: 0_4
+URL: https://www.sfu.ca/students/health/emergency.html
+Similarity: 0.8033379932201253
+
+Index: 270
+Question: What are the preferred methods of contact for the case managers and director at the office?
+Answer: - Sophia Goksoyr: Email
+- Rupinder Sandhu: Email
+- Michelle Verbrugghe: Email
+- Emily Hampton: Email
+File: 0_1_1_13
+URL: https://www.sfu.ca/students/studentsupport/contact-us.html
+Similarity: 0.8033104676286327
+
+Index: 271
+Question: What services does the Human Rights Office provide to SFU students, faculty, and staff?
+Answer: advice, support, education services on human rights
+File: 0_1_1_6
+URL: https://www.sfu.ca/humanrights.html
+Similarity: 0.8032937696127361
+
+Index: 272
+Question: How can I access 24/7 crisis support through My SSP?
+Answer: You can download My SSP to access 24/7 crisis support, or call or chat to schedule an appointment with a counsellor in the community (close to home).
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8031899205756748
+
+Index: 273
+Question: What is the purpose of creating a sense of safety and comfort within the closed group counseling sessions?
+Answer: - To allow participants to open up about difficult topics
+- To create a supportive environment for sharing and receiving support
+- To foster a sense of safety and consistency for existing group members
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8031714105542646
+
+Index: 274
+Question: What are some resources that offer support to individual and collective identities?
+Answer: - Burnaby campus: 778.782.4615
+- Vancouver campus: 778.782.5200
+- Surrey campus: 778.782.5200
+File: 0_3_7
+URL: https://www.sfu.ca/students/health/resources/identity.html
+Similarity: 0.8025630095310387
+
+Index: 275
+Question: What is the My Student Support Program and how can I access it?
+Answer: My SSP provides free, 24/7 counselling and mental health support through phone or app and is available internationally. Immediate support is available in 30+ languages and scheduled support in 60+ languages.
+File: 0_9_2_1
+URL: https://www.sfu.ca/content/dam/sfu/students/health/pdf/Grad%20Student%20Support%20Doc.pdf
+Similarity: 0.8024380522947703
+
+Index: 276
+Question: Can appointments with case managers be held outside of the regular hours by request?
+Answer: Yes, appointments may be held outside of regular hours by request.
+File: 0_1_1_13
+URL: https://www.sfu.ca/students/studentsupport/contact-us.html
+Similarity: 0.8024288198664328
+
+Index: 277
+Question: What are the contact numbers for Health & Counselling at Burnaby, Vancouver, and Surrey campuses?
+Answer: Burnaby campus: 778.782.4615
+Vancouver campus: 778.782.5200
+Surrey campus: 778.782.5200
+File: 0_2
+URL: https://www.sfu.ca/students/health/see-a-doctor.html
+Similarity: 0.8022569370603945
+
+Index: 278
+Question: How can I contact the psychologist at the Vancouver campus?
+Answer: 778.782.5200
+File: 0_3_8_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/trauma-seminar.html
+Similarity: 0.8022259454954462
+
+Index: 279
+Question: How can a person seek help if they feel that life is not worth living?
+Answer: - Call a crisis line
+- Visit the Emergency Room of a hospital
+- Call a health care provider
+File: 0_1_1_11_4_3
+URL: https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/grief.html
+Similarity: 0.8020130240713749
+
+Index: 280
+Question: How can SFU faculty and staff access health and well-being resources and support services?
+Answer: - Call 1.844.451.9700 for a staff/faculty consultation
+- Contact SFU Health and Counselling Services during office hours
+- View available on-demand workshops and outreach opportunities
+- Explore health and well-being resources and support services for SFU faculty and staff
+- Burnaby campus: 778.782.4615
+- Vancouver campus: 778.782.5200
+- Surrey campus: 778.782.5200
+File: 0_1_1_11_2
+URL: https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+Similarity: 0.8019717573157394
+
+Index: 281
+Question: What online resources provide sexual health information and testing services?
+Answer: - www.optionsforsexualhealth.org
+- www.getcheckedonline.com
+- www.checkhimout.ca
+- https://www.sexandu.ca/
+- www.smartsexresource.com
+File: 0_2_2
+URL: https://www.sfu.ca/students/health/see-a-doctor/sexual-health.html
+Similarity: 0.8018745198068888
+
+Index: 282
+Question: What services are provided at the HIM in Surrey Health Centre for GBQ men and gender diverse people?
+Answer: STI/HIV testing and treatment services, walk-in appointments, Code of Conduct review.
+File: 0_2_2_4
+URL: https://checkhimout.ca/
+Similarity: 0.8018657376246627
+
+Index: 283
+Question: What resources are available for parents regarding pregnancy, birth, and parenting?
+Answer: Baby’s Best Chance
+File: 0_2_5
+URL: https://www.healthlinkbc.ca/more/contact-us/8-1-1
+Similarity: 0.801848756447287
+
+Index: 284
+Question: When and how are the sessions held for the support group?
+Answer: Thursdays | 1:30 to 3:30pm
+Sessions will be held via Zoom.
+File: 0_1_4_3
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-disability.html
+Similarity: 0.8017396236951143
+
+Index: 285
+Question: How can a career conversation or group session help with the transition from school to work?
+Answer: - Make the transition easier by getting started today
+File: 0_3_9_8
+URL: https://www.sfu.ca/students/career.html
+Similarity: 0.8017193022469936
+
+Index: 286
+Question: How can depression be treated with psychotherapy?
+Answer: - Psychotherapy can be used to treat depression by helping individuals understand and challenge unhelpful thoughts
+File: 0_3_9_17
+URL: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression
+Similarity: 0.8015092182883524
+
+Index: 287
+Question: What tips are available for staying healthy and meeting health needs as one ages?
+Answer: - Find information about health topics, medical tests, and decision-making tools in our Learning Centre
+File: 0_4_3
+URL: https://www.healthlinkbc.ca/health-services/urgent-and-primary-care-centres
+Similarity: 0.801471878070103
+
+Index: 288
+Question: How can employees access mental health information and resources at SFU?
+Answer: Explore mental health information and resources and well-being apps and recordings. 
+
+Reach out to SFU’s Employee and Family Assistance Program for confidential and professional assistance to support you and/or your family resolve challenges related to health, work or personal life. 
+
+Consult with the Wellness and Recovery Office for resources related to employee health.
+File: 0_1_1_11_4
+URL: https://www.sfu.ca/students/health/faculty-staff/faculty-staff-well-being.html
+Similarity: 0.801426220184051
+
+Index: 289
+Question: How can faculty and staff share concerns and consult with the office?
+Answer: Faculty and staff can share concerns and consult with the Office of Student Support, Rights & Responsibilities by contacting them directly.
+File: 0_1_1_16
+URL: https://www.sfu.ca/students/studentsupport.html#staff
+Similarity: 0.8012699935495295
+
+Index: 290
+Question: What services does S.A.F.E.R
+Answer: S.A.F.E.R. offers individual counselling and counsellor-led groups for those who have lost someone to suicide.
+File: 0_3_9_14
+URL: https://www.vch.ca/en/service/suicide-attempt-follow-education-research-safer#short-description--6731
+Similarity: 0.8011824496366591
+
+Index: 291
+Question: How can I access sexual and reproductive health services in British Columbia?
+Answer: - Contact Options for Sexual Health at 1-800-739-7367
+- Visit their clinic at 3550 East Hastings St. in Vancouver, BC
+- Email info@optbc.org
+File: 0_2_2_2
+URL: https://www.optionsforsexualhealth.org/
+Similarity: 0.801120298248757
+
+Index: 292
+Question: What accessibility options are available for booking appointments?
+Answer: - Online booking options
+- Accessible booking options for those with accessibility needs or concerns
+File: 0_1
+URL: https://www.sfu.ca/students/health/contact-us.html
+Similarity: 0.8009879880707336
+
+Index: 293
+Question: What credentials does Beth, the Registered Clinical Counsellor, have?
+Answer: - Beth is a certified EMDR therapist
+- Beth is a yoga and meditation instructor
+- Beth is a group facilitator
+- Beth is a graduate student
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8008290548433297
+
+Index: 294
+Question: Is there a live chat option available for international students seeking assistance?
+Answer: Yes, there is a live chat option available for international students seeking assistance.
+File: 0_3_7_7
+URL: https://www.sfu.ca/students/isap.html
+Similarity: 0.8007902495984224
+
+Index: 295
+Question: What does CrisisCentreChat.ca connect adults with?
+Answer: support, information, resources
+File: 0_4_4
+URL: https://crisiscentrechat.ca/
+Similarity: 0.8007457304492008
+
+Index: 296
+Question: How can I provide feedback on my experience receiving care from a mental health provider?
+Answer: You can contact FNHA's Quality Care and Safety Office.
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8006932517521017
+
+Index: 297
+Question: What services does the Safety and Risk Services department at SFU provide?
+Answer: - Share concerns or incidents encountered
+- Safe Walk program for safe escort on campus
+File: 0_1_1_11_4
+URL: https://www.sfu.ca/students/health/faculty-staff/faculty-staff-well-being.html
+Similarity: 0.8006722364366956
+
+Index: 298
+Question: How can I access crisis support as an SFU student?
+Answer: - Crisis support is available to all SFU graduate and undergraduate students from anywhere in the world by phone or through the downloadable app
+File: 0_4
+URL: https://www.sfu.ca/students/health/emergency.html
+Similarity: 0.8006533713259744
+
+Index: 299
+Question: How can international graduate students receive support with transitioning to a new country?
+Answer: International graduate students can receive support with transitioning to a new country by contacting the Transition Case Manager for International Graduate Students for one-to-one support.
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.8006373144727671
+
+Index: 300
+Question: How can I get in touch with SFU International Student Advising?
+Answer: You can get in touch with SFU International Student Advising through live chat, phone at 778.782.4232, or email at intl_advising@sfu.ca.
+File: 0_3_9_6
+URL: https://www.sfu.ca/students/isap/contact.html
+Similarity: 0.8006068316105794
+
+Index: 301
+Question: How can I appeal a denied mental health service claim?
+Answer: You have the right to appeal the decision if coverage for a mental health service has been denied. Items and services that are Exclusions cannot be appealed. Contact Health Benefits at 1-855-550-5454 for more information about the appeals process.
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8005862112932469
+
+Index: 302
+Question: What are the emergency contact numbers provided for individuals in crisis?
+Answer: - Suicide hotline: 1-800-784-2433
+- Call BC Crisis Line: 604-310-6789
+- Kids Help Phone: 1-800-668-6868
+- KUU-US Crisis Support Line (BC Wide Indigenous Toll Free Crisis and Support Line): 1-800-588-8717
+File: 0_3_9_14
+URL: https://www.vch.ca/en/service/suicide-attempt-follow-education-research-safer#short-description--6731
+Similarity: 0.8004350265246181
+
+Index: 303
+Question: What are the strategies and coping skills offered in the seminar for dealing with climate change anxiety and grief?
+Answer: - Strategies and coping skills offered in the seminar for dealing with climate change anxiety and grief include understanding different types of climate change distress, discussing topics covered in the seminar with Health and Counselling colleagues during the seminar, changing name on Zoom to protect privacy, accessing additional resources available for download, optional participation in a research project on interventions for climate change distress, and using a Human Givens and CBT approach to treat traumas and mental health disorders.
+File: 0_3_8_5
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/climate-anxiety.html
+Similarity: 0.8003648022763084
+
+Index: 304
+Question: How can faculty support students in difficulty and refer them to resources at SFU?
+Answer: - By facilitating quick class check-in activities at the beginning of the hour
+- By referring students to resources and tips for taking care of themselves
+- By sharing self-guided mindfulness resources and scheduling them as part of classes
+- By creating a safer and more inclusive university environment for trans, gender non-binary, and other gender diverse students
+- By utilizing the SFU Supporting Students in Distress Response Guide
+File: 0_8
+URL: https://www.sfu.ca/healthycampuscommunity.html
+Similarity: 0.8002992522489434
+
+Index: 305
+Question: What resources are available for students' physical and mental health and well-being at SFU?
+Answer: - Health and counselling
+- Indigenous student centre
+- Accessible Learning
+- Residence and housing
+- Multifaith Centre
+File: 0_1_1_14
+URL: https://www.sfu.ca/students.html
+Similarity: 0.8001786059359501
+
+Index: 306
+Question: What types of resources are available for students at the university?
+Answer: Self-Led Resources, Counselling, Identity & Community, Urgent
+File: 0_3
+URL: https://www.sfu.ca/students/health/support-resources.html
+Similarity: 0.800116540181525
+
+Index: 307
+Question: How does Jennesia Pedri enhance students' awareness of services and supports in her feedback?
+Answer: Jennesia Pedri embeds links to resources within the feedback she provides students on their work.
+File: 0_8_9
+URL: https://www.sfu.ca/healthycampuscommunity/learningenvironments/resource-library/resources/template-feedback.html
+Similarity: 0.8001056619007669
+

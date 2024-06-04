@@ -1,0 +1,80 @@
+Query: what is individual councelling?
+
+Index: 0
+Question: What is the process for getting individual counselling through the CAL counsellor?
+Answer: Individual counselling is available through the CAL counsellor upon referral by your CAL advisor. Learn more about the referral process here.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8707734797862582
+
+Index: 1
+Question: Who can students contact if they have questions about individual or group counseling?
+Answer: Sean - sean_heaslip@sfu.ca
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8392841708473142
+
+Index: 2
+Question: What is Single Session Counselling Follow-up and when is it scheduled?
+Answer: Single Session Counselling Follow-up is a 30 or 50 minute appointment scheduled to follow-up with concerns presented during a rapid access/intake appointment.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8379128871496846
+
+Index: 3
+Question: What specialized counselling support options are available at Health & Counselling?
+Answer: - Single Session Counselling Follow-up
+- Short-Term Counselling
+- Group-based programs
+- My SSP service
+- Community resources
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8295381445847303
+
+Index: 4
+Question: What are the session times and format for the counselling group?
+Answer: Thursdays | 2:00pm - 3:30pm
+Sessions will be held via Zoom.
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8278354034815162
+
+Index: 5
+Question: What is the purpose of the counselling group for students experiencing stress, anxiety, and low mood?
+Answer: To support students who are experiencing stress, anxiety, and/or low mood
+To provide a space for sharing and personal growth
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8244533013931448
+
+Index: 6
+Question: What is Jennifer's professional approach to counselling?
+Answer: Jennifer's professional approach to counselling emphasizes a braided practice that honors Indigenous knowledge, a strength-based person/community centered approach, and relevant, respectful, mainstream therapeutic orientations that strive for holistic balance. She believes in the importance of wrap-around care, supporting connections with Elders and cultural teachings, and exploration of identity development. Her work is grounded in Indigenous ways of knowing that stress the importance of reciprocity, relevance, responsibility, and relationships.
+File: 0_3_7_3
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/a-healing-space.html
+Similarity: 0.8244084054574862
+
+Index: 7
+Question: How can students register for the counselling group?
+Answer: To register, email Beth (btriano@sfu.ca) with your name and email.
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8241117848299158
+
+Index: 8
+Question: How can I register for group counselling sessions?
+Answer: - Browse our list of options and register
+- Self-refer
+- Drop in to get connected
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8229484168347875
+
+Index: 9
+Question: Can I book an appointment for a consultation at Health & Counselling?
+Answer: No, Health & Counselling is not taking appointments for consultations.
+File: 0_2_1
+URL: https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+Similarity: 0.8202503350508252
+

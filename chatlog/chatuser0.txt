@@ -1,0 +1,58 @@
+Bot>> Hello! How can I assist you today?
+
+User>>hi. I want to know if they have group therapy.
+
+Bot>> Based on the information provided from the SFU counselling website, there are indeed group therapy options available for students. To access group therapy sessions, students can browse the list of options, self-refer, or drop in to get connected. Additionally, students can register for specific group counseling sessions by contacting their CAL disability advisor and expressing interest in participating in the group. The advisor will then forward an email referral with instructions on booking an intake appointment with the group facilitator.
+
+If you would like more details or have specific questions about group therapy options, feel free to explore the resources provided on the SFU counselling website: [SFU Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>who is the group facilitator
+
+Bot>> Based on the provided information, the facilitator of the counselling group for autistic students at SFU is Sean. Sean is a Registered Clinical Counsellor who works with CAL registrants, provides individual and group counselling services, and has a lived experience of disability, being partially blind. Additionally, Sean is a Masters level counsellor, a current Ph.D. candidate in counselling psychology at the University of British Columbia, and completed his pre-doctoral internship at SFU in 2020. His research areas focus on disability issues, seeking psychological services as a person with a disability, and the impact on blind/partially sighted people of receiving unsolicited help from sighted helpers.
+
+If you require further details or have specific questions about the group facilitator, Sean, you can refer to the SFU counselling website: [SFU Counselling Services](https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-autism.html).
+
+User>>How can I book appointments
+
+Bot>> To book appointments at Health & Counselling for medical services or counselling support, students have the following options:
+
+1. For medical services, students can book appointments by calling the Health & Counselling clinics on the Burnaby or Vancouver campuses, or by booking online. Appointments can be made for in-person or phone/virtual consultations.
+
+2. For counselling support, appointments can be booked online through the online booking system set up by Health & Counselling, or by calling the front desk.
+
+There are online booking options available for convenience, as well as accessible booking options for individuals with accessibility needs or concerns.
+
+For more information on booking appointments at Health & Counselling, you can visit the SFU counselling website: [SFU Health & Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>what is the number for calling the front desk
+
+Bot>> The phone number to call for booking appointments at the front desk when you do not have accessibility needs is 778-782-4615.
+
+If you require further assistance or have additional questions regarding booking appointments at the front desk, you can refer to the SFU counselling website for more information: [SFU Health & Counselling Services](https://www.sfu.ca/students/health/get-support/talk-now.html).
+
+User>>what kind of sessions do they offer for councelling
+
+Bot>> Based on the information provided, the types of sessions offered for counselling at SFU Health & Counselling Services include Single Session Counselling Follow-up, Short-Term Counselling, Group-based programs, My SSP service, and access to community resources.
+
+If you are looking to explore the counselling services and session options available at SFU, you can refer to the SFU counselling website for more details: [SFU Health & Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>and what is my ssp service?
+
+Bot>> Based on the retrieved information, My SSP is a service contracted by the university that provides mental health support to SFU students. Students can access this service by calling or chatting using the My SSP app, arranging for short-term counselling with a My SSP counsellor by appointment, and accessing real-time 24/7 access to professional counsellors. My SSP also offers scheduled short-term counselling support, access to virtual fitness sessions, self-administered assessments, and a library of digital emotional health and well-being content. 
+
+If you are interested in learning more about the My SSP service and how it can benefit SFU students, you can visit the SFU counselling website for additional details: [SFU Health & Counselling Services - My SSP](https://www.sfu.ca/students/health/get-support/my-ssp.html).
+
+User>>thankyou
+
+Bot>> Hello! How can I assist you today?
+
+User>>thanks
+
+Bot>> Hello! How can I assist you today?
+
+User>>bye
+
+Bot>> If you have any questions or need information, feel free to ask!
+
+User>>are you alive?
+

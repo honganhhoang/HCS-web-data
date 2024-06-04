@@ -1,0 +1,24 @@
+Bot>> Hello! How can I assist you today?
+
+User>>how can i get a private therapy?
+
+Bot>> Based on the provided context, the information for accessing private therapy is not available. You may want to refer to the SFU counselling website for more specific details on accessing private therapy. Here is the URL to the SFU counselling website: [SFU Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html)
+
+User>>how can i get a private therapy session?
+
+Bot>> Based on the provided context, the information on how to access private therapy sessions is not explicitly mentioned. For specific details on accessing private therapy sessions, please refer to the SFU counselling website. You can access the website at [SFU Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html) for more information.
+
+User>>where is therapy session place?
+
+Bot>> Based on the provided context, the specific location of the therapy session place is not mentioned. For information on where therapy sessions take place, including the physical location or platform (such as Zoom), you may need to refer to the SFU counselling website for more details. You can visit the website at [SFU Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html) for further information.
+
+User>>can i kill myself in there?
+
+Bot>> Based on the provided context, it is important to emphasize that seeking help and support is crucial if you or someone you know is struggling with thoughts of suicide. If you or someone else is experiencing suicidal ideation or crisis, please reach out to the appropriate resources for support immediately. You can contact the Crisis Centre of BC at 1-800-784-2433 (1-800-SUICIDE) or visit their online chat services for adults at www.crisiscentrechat.ca.
+
+It is essential to prioritize your well-being and safety. Please remember that there are people who care about you and want to help. If you are in crisis, please do not hesitate to reach out for assistance. You can access more information and support services at the SFU counselling website: [SFU Counselling Services](https://www.sfu.ca/students/health/get-support/talk-now.html)
+
+User>>exit
+
+
+

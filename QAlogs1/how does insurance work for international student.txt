@@ -1,0 +1,83 @@
+Query: how does insurance work for international students
+
+Index: 0
+Question: Why is medical insurance necessary for international students in Canada?
+Answer: - The Canadian health system provides high standard of health care
+- Care is very expensive if not insured
+- Without insurance, could pay thousands of dollars per day for a hospital stay or be refused certain services
+File: 0_2_8
+URL: https://www.sfu.ca/medical-insurance.html
+Similarity: 0.888753628047107
+
+Index: 1
+Question: What happens if an international student does not have medical insurance in Canada?
+Answer: - They could pay thousands of dollars per day for a hospital stay
+- They could be refused certain services
+File: 0_2_8
+URL: https://www.sfu.ca/medical-insurance.html
+Similarity: 0.8767789845057513
+
+Index: 2
+Question: Is medical insurance required for exchange or study abroad students in Canada?
+Answer: Yes.
+File: 0_2_8
+URL: https://www.sfu.ca/medical-insurance.html
+Similarity: 0.8598089113858052
+
+Index: 3
+Question: Are there different requirements for medical insurance for undergraduate and graduate students?
+Answer: Yes.
+File: 0_2_8
+URL: https://www.sfu.ca/medical-insurance.html
+Similarity: 0.8452348670670836
+
+Index: 4
+Question: How can I learn more about the Canadian healthcare system as an international student?
+Answer: International Student Advising provides guidance on the Canadian healthcare system.
+File: 0_3_9_6
+URL: https://www.sfu.ca/students/isap/contact.html
+Similarity: 0.8412770801239726
+
+Index: 5
+Question: Where can I find frequently asked questions related to immigration, travel, and medical insurance for international students?
+Answer: Frequently Asked Questions, Global Student Centre
+File: 0_3_7_7
+URL: https://www.sfu.ca/students/isap.html
+Similarity: 0.8382002609178341
+
+Index: 6
+Question: How can Health & Counselling support international students studying in a new country?
+Answer: - One-on-one support
+- Groups to connect and meet with others
+- Transition Case Manager for one-to-one support
+- Assistance with managing school stress, finding housing, understanding documents, and understanding Canadian services
+- Connecting with the Transition Case Manager for support and resources
+- Support for international pathways students (undergraduate and graduate)
+- Virtual or in-person appointments with the Transition Case Manager
+File: 0_9_2
+URL: https://www.sfu.ca/students/health/resources/identity/SupportForInternationalStudents.html#tcm
+Similarity: 0.8342125186065013
+
+Index: 7
+Question: How can International Student Advising and Programs help students?
+Answer: International Student Advising and Programs can help students with immigration advising, workshops, orientation, transition services, intercultural events, peer support, and study abroad programs.
+File: 0_3_9
+URL: https://www.sfu.ca/students/health/resources/support-options.html
+Similarity: 0.8237280694798514
+
+Index: 8
+Question: How can international graduate students receive support with transitioning to a new country?
+Answer: International graduate students can receive support with transitioning to a new country by contacting the Transition Case Manager for International Graduate Students for one-to-one support.
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.8233567421470827
+
+Index: 9
+Question: What types of support options are available for international students at Health & Counselling?
+Answer: - Individual support
+- Group support
+- Transition Case Manager support
+File: 0_9_2
+URL: https://www.sfu.ca/students/health/resources/identity/SupportForInternationalStudents.html#tcm
+Similarity: 0.819389089717721
+

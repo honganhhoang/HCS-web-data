@@ -1,0 +1,74 @@
+Query: ok. so i want to book an online session with a councellor. guide me how to do that.
+
+Index: 0
+Question: How can I book an appointment for counselling support at Health & Counselling?
+Answer: You can book appointments online or call the front desk.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8687557579077169
+
+Index: 1
+Question: How can I register for group counselling sessions?
+Answer: - Browse our list of options and register
+- Self-refer
+- Drop in to get connected
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8576627723810784
+
+Index: 2
+Question: How can I access virtual appointments for counselling services?
+Answer: 1. Talk to your provider about Telehealth options
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8572112755877245
+
+Index: 3
+Question: How can I book an appointment online with some care providers?
+Answer: You can book an appointment online with some care providers through the online booking system being set up by Health & Counselling.
+File: 0_6
+URL: https://www.sfu.ca/students/health/contact-us/accessibility.html
+Similarity: 0.8567263730699539
+
+Index: 4
+Question: Can I book an appointment for a consultation at Health & Counselling?
+Answer: No, Health & Counselling is not taking appointments for consultations.
+File: 0_2_1
+URL: https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+Similarity: 0.8543274421144905
+
+Index: 5
+Question: How can current students book an advising session with an Advisor?
+Answer: Current students can sign in through Advisor Link to book an in-person or virtual advising session with an Advisor from their success team.
+File: 0_3_9_11
+URL: https://www.sfu.ca/students/financialaid/contact.html
+Similarity: 0.8531613388082083
+
+Index: 6
+Question: How can I schedule an appointment with a counsellor in the community through My SSP?
+Answer: You can download the My SSP app to access 24/7 crisis support or call/chat to schedule an appointment with a counsellor in the community.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8494865592926866
+
+Index: 7
+Question: How can I access coverage for counselling services?
+Answer: You must see a provider who is registered with the Health Benefits Program to receive coverage for your counselling services
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8451157957229392
+
+Index: 8
+Question: How can one book a confidential 1-on-1 appointment with a career professional?
+Answer: Book and manage your appointments on myExperience.
+File: 0_3_9_8
+URL: https://www.sfu.ca/students/career.html
+Similarity: 0.8432619735684357
+
+Index: 9
+Question: How can students register for the group counseling sessions?
+Answer: To register, students can contact their CAL disability advisor and express interest in participating in the group. The advisor will forward an email referral with instructions on booking an intake appointment with the group facilitator.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8386782205024397
+

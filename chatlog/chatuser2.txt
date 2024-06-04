@@ -1,0 +1,182 @@
+Bot>> Hello! How can I help you today?
+
+User>>hi. i like to know how if SFU has any councelling services for students.
+
+Bot>> SFU offers counselling services for its students through Health & Counselling Services. Students can access health and counselling services on campus by visiting the student health clinics on Burnaby and Vancouver campuses, booking appointments with doctors and nurses, and exploring resources and support options available. These services are provided in-person, virtually, or by phone at no cost to SFU students. Additionally, SFU Health & Counselling Services provide free, confidential, time-limited counselling support to all registered SFU and FIC students, from any campus. The counselling team offers initial consultation and assessment, information and referral, workshops, crisis support, safety planning, and individual and group counselling to address various concerns. Counselling services are provided by Registered Clinical Counsellors, Registered Psychologists, and their professional student-trainees. Students can access counselling services online by booking a Rapid Access Appointment directly with Tricia-Kay Williams, who can refer them to other counsellors during the intake appointment. For more information about the counselling services offered at SFU, you can visit the SFU Health & Counselling Services website at [SFU Health & Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>what is individual councelling?
+
+Bot>> The concept of individual counseling refers to a one-on-one therapeutic process where a person works closely with a trained counselor or therapist to explore and address personal issues, challenges, or concerns in a confidential and supportive setting. Individual counseling sessions typically focus on the individual's emotional well-being, personal growth, self-exploration, and development of coping strategies to manage difficulties effectively. It provides a safe space for individuals to express their thoughts and feelings, gain insights into their behaviors and emotions, and work towards achieving their personal goals.
+
+For more information about individual counseling services at SFU, you can visit the SFU Health & Counselling website at [SFU Health & Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>i think i'm very stressed right now, and i need a session to talk to a councellor.
+
+Bot>> If you are feeling very stressed and in need of talking to a counselor, you can access counseling and mental health support services at SFU by visiting the Counseling and Mental Health Support office located at SUB 3100, 8888 University Drive, Simon Fraser University, Burnaby, BC, V5A 1S6. The office is open Monday to Friday from 10am to 4pm. You can also schedule an appointment with a counselor through the My SSP app, which provides 24/7 crisis support and access to counseling services with professionals in the community. It's important to seek support when you're feeling overwhelmed, and SFU provides resources and professionals who are available to help you navigate through your stress and concerns.
+
+For more information about accessing counseling and mental health support at SFU, you can visit the SFU Health & Counselling Services website at [SFU Health & Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>how can i schedule an appointment?
+
+Bot>> To schedule an appointment at SFU, whether it is for medical services or counseling support, you can do so by booking appointments online through the online booking system set up by Health & Counselling. Alternatively, you can call the front desk to schedule an appointment over the phone. Appointments can be made for in-person, virtual, or phone consultations based on your preference and availability.
+
+For more information on scheduling appointments for medical services or counseling support at SFU, you can visit the SFU Health & Counselling Services website at [SFU Health & Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>do they also have walk ins?
+
+Bot>> Yes, there are drop-in options available for support groups at SFU Health & Counselling Services. This means that students can access certain support groups on a drop-in basis without needing to schedule an appointment in advance. Additionally, while same-day access for medical appointments is limited, drop-in options for support groups provide an alternative for students seeking immediate support or assistance.
+
+For more information on accessing support groups and other services at SFU Health & Counselling, you can visit the SFU Health & Counselling Services website at [SFU Health & Counselling Services](https://www.sfu.ca/students/health/).
+
+User>>what are the support groups?
+
+Bot>> SFU Health & Counselling Services offer a variety of support groups for students to address different needs and concerns. Some of the support groups available include:
+
+- Group counselling
+- ADD/ADHD
+- Anxiety
+- Chronic Pain
+- Depression
+- Focus/Balance
+- Graduate Students
+- Identity & Community
+- International Students
+- Mindfulness
+- Physical
+- Resilience
+- Self-Compassion
+- Stress
+- Trauma
+- Workshop
+- Questioning gender and/or sexuality
+- Indigenous, Black, People of Colour, Bi-racial and/or Multi-racial
+- Making improvements and feeling supported
+- Black students discussing experiences of racism
+- Understanding climate change anxiety and grief
+- Graduate students writing thesis or dissertation
+- Building social skills through Dungeons & Dragons
+- Navigating post-secondary education with ADHD
+- 8-week counselling group for students with Autism
+- Support group for students with disabilities
+- Navigating graduate school as a student with disabilities
+- Horticulture therapy for racialized students
+- Lunchtime crafts with Transition Case Manager
+- Coping with sexualized violence through art and tea
+- Tools for mood, stress, and anxiety
+- Recognizing signs of distress and suicide risk
+- Learning about anxiety, depression, and trauma
+- Various campus contact numbers
+- Acknowledgment of traditional territories
+- Terms & Conditions, Privacy policy, Copyright information
+
+For more details on these support groups and how to access them, you can refer to the SFU Health & Counselling Services website at [SFU Health & Counselling Services - Support Groups](https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html).
+
+User>>what is the group for trauma?
+
+Bot>> The group for trauma at SFU is the trauma-informed group for students impacted by sexualized violence. This group provides a gender-inclusive safe space for students affected by sexualized violence to discuss impacts, practice coping strategies, learn about trauma and recovery, coping skills, emotional regulation, and receive support on their healing journey from a registered clinical counsellor.
+
+For more information on the trauma-informed group for students impacted by sexualized violence and how to join, you can visit the SFU Health & Counselling Services website at [SFU Health & Counselling Services - Trauma Support Group](https://www.sfu.ca/students/health/get-support/support-groups/groups/trauma-seminar.html).
+
+User>>does the trauma group necessarily involve people with sexualised violence?
+
+Bot>> Yes, the trauma group mentioned, specifically the trauma-informed group for students impacted by sexualized violence, is designed to provide a safe space for individuals affected by sexualized violence to discuss impacts, practice coping strategies, learn about trauma and recovery, coping skills, and emotional regulation. While the focus is on supporting individuals impacted by sexualized violence, the group is gender-inclusive and open to all individuals regardless of gender identity or sexual orientation who have been impacted by sexualized violence.
+
+For more information on the trauma-informed group for students impacted by sexualized violence, you can visit the SFU Health & Counselling Services website at [SFU Health & Counselling Services - Trauma Support Group](https://www.sfu.ca/students/health/get-support/support-groups/groups/trauma-seminar.html).
+
+User>>what are some coping strategies to deal with past trauma?
+
+Bot>> The coping strategies to deal with past trauma can vary from person to person, but some common coping strategies that individuals may find helpful include:
+
+1. Seeking therapy or counseling: Engaging in individual therapy, group therapy, or grief counseling can provide a supportive environment to process and work through past trauma with the guidance of a trained professional.
+
+2. Cognitive-behavioral therapy (CBT): CBT is a therapeutic approach that can help individuals identify and challenge negative thought patterns and behaviors related to past trauma, leading to healthier coping mechanisms.
+
+3. Mindfulness practices: Mindfulness-based interventions can help individuals cultivate present-moment awareness, self-compassion, and stress reduction, which can be beneficial in managing the emotional distress associated with past trauma.
+
+4. Building personal resilience: Learning resilience-building strategies, identifying and accessing resources, improving overall well-being, and practicing flexibility and adaptability in the face of challenges can help individuals cope with past trauma and navigate adversity more effectively.
+
+5. Seeking support from trusted individuals: Connecting with supportive friends, family members, or support groups can provide emotional validation and a sense of community when dealing with past trauma.
+
+For more information on coping strategies for dealing with past trauma and accessing support services, you can visit the SFU Health & Counselling Services website at [SFU Health & Counselling Services](https://www.sfu.ca/students/health/get-support/support-groups/groups/trauma-seminar.html).
+
+User>>does SFU councelling offer CBT?
+
+Bot>> Yes, SFU Health & Counselling Services offer Cognitive Behavioral Therapy (CBT) as one of the approaches used in treating traumas. CBT is a therapeutic approach that focuses on identifying and challenging negative thought patterns and behaviors to promote positive changes in emotional well-being and mental health. The utilization of CBT in counseling services at SFU indicates the commitment to providing evidence-based and effective interventions to support students in addressing various concerns, including trauma.
+
+For more information on the counseling services and approaches offered at SFU Health & Counselling Services, you can visit their website at [SFU Health & Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>what other kind of services they have?
+
+Bot>> The SFU Health and Counselling Services offer a range of services and support options to cater to the diverse needs of students. Some of the services available include:
+
+- Group counselling
+- Online self-help resources
+- MindShift Application
+- Services provided by the Black Counsellor, Tricia Kay Williams
+- Support from Indigenous Clinical Counsellors
+- Elders Program Drop-in
+- Cultural Connections workshop
+- Services by ISC counsellors
+- Appointments with doctors, nurses, or counsellors
+
+These services aim to provide comprehensive support for students' mental health and well-being needs, addressing various concerns and providing culturally relevant and accessible resources.
+
+For more details on the services offered at SFU Health and Counselling Services, you can visit their website at [SFU Health & Counselling Services - Support Options](https://www.sfu.ca/students/health/resources/support-options.html).
+
+User>>who is Tricia Williams?
+
+Bot>> Tricia-Kay Williams is a counselor who offers one-to-one counseling sessions, utilizing a brief model of counseling specifically for Black SFU students. Tricia-Kay Williams holds a BA degree in Psychology from York University in Toronto, ON, and an MA degree in Counselling Psychology from Adler University in Vancouver, BC. She has extensive experience in counseling individuals and families, with expertise in treating trauma, anxiety, transitional/career, and relational issues. Tricia is also an advocate for anti-racism affecting BIPOC individuals and consults with organizations to foster a more anti-racist approach.
+
+For more information on Tricia-Kay Williams and the counseling services she offers for Black SFU students, you can visit the SFU Health & Counselling Services website at [Tricia-Kay Williams - Black Students Counseling Services](https://www.sfu.ca/students/health/resources/identity/black-students.html).
+
+User>>Is councelling covered by insurance plans in BC?
+
+Bot>> Yes, counseling services from a qualified mental health provider are covered by insurance plans in British Columbia. To receive coverage for counseling services, individuals must see a provider who is registered with the Health Benefits Program. This coverage ensures that individuals can access mental health support and counseling services with the financial assistance provided by their insurance plans.
+
+For more information on counseling services and insurance coverage in British Columbia, you can visit the HealthLink BC website at [HealthLink BC - Mental Health and Substance Use Resources](https://www.healthlinkbc.ca/mental-health-substance-use/resources/alcohol-drug-information-referral-service).
+
+User>>is there a way for me to have regular weekly sessions for my mental health?
+
+Bot>> Based on the retrieved context, there are live meditation sessions offered weekly, both in-person and on Zoom, which can be beneficial for supporting mental health and well-being on a regular basis. Additionally, drop-in mindfulness sessions are also available for students, providing opportunities for regular mindfulness practices to enhance mental well-being.
+
+For individuals seeking regular weekly sessions for their mental health, participating in live meditation sessions and drop-in mindfulness sessions can be a helpful way to incorporate consistent practices into their routine for ongoing support and well-being.
+
+For more information on accessing live meditation sessions and mindfulness practices for mental health support at SFU, you can visit the SFU Health & Counselling Services website at [SFU Health & Counselling Services - Support Groups](https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html).
+
+User>>no. not meditation. councelling session or psycotherapy.
+
+Bot>> Based on the retrieved context, individuals experiencing depression can be treated with psychotherapy, which helps in understanding and challenging unhelpful thoughts contributing to depression. Some different types of psychotherapy that can be beneficial for treating depression include Cognitive Behavioral Therapy (CBT), Interpersonal Therapy, and Mindfulness.
+
+For individuals seeking counseling sessions or psychotherapy for mental health concerns such as depression, options like CBT, Interpersonal Therapy, and Mindfulness-based interventions can be effective in addressing symptoms and promoting well-being.
+
+For more information on psychotherapy options for depression and mental health support, you can visit the resources provided by Manulife at [Manulife - Mental Health Conditions](https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/depression.html).
+
+User>>I don't have depression. i'm an international student and sometimes i need to talk to a therapist about my issues or when i'm stressed because of work. does SFU offer that?
+
+Bot>> Yes, as an international student at SFU, you have access to mental health support services, including counseling, to address your concerns and stress related to work or other issues. SFU offers various resources to support the mental well-being of students, including access to counseling services through Health & Counselling Services. You can schedule appointments for counseling sessions in-person, virtually, or by phone at no cost to SFU students.
+
+To access counseling services at SFU as an international student, you can reach out to Ricky Tu at ricky_tu@sfu.ca or contact the Health & Counselling Services front desk at 778-782-4615. They can assist you in booking appointments with counselors or therapists to address your mental health needs and provide support during times of stress or challenges.
+
+For more information on accessing mental health support services at SFU as an international student, you can visit the SFU Health & Counselling Services website at [SFU Health & Counselling Services - Support Options](https://www.sfu.ca/students/health/get-support/talk-now.html).
+
+User>>ok. so i want to book an online session with a councellor. guide me how to do that.
+
+Bot>> To book an online session with a counselor at SFU Health & Counselling Services, you can follow these steps:
+
+1. Visit the SFU Health & Counselling Services website.
+2. Look for the option to book appointments online or call the front desk.
+3. Click on the online booking system link provided on the website.
+4. Select the option to book a counseling appointment.
+5. Choose the type of appointment (in this case, an online session).
+6. Follow the instructions to select a date and time for your online counseling session.
+7. Provide any necessary information and confirm your appointment details.
+
+By following these steps, you can easily book an online session with a counselor at SFU Health & Counselling Services.
+
+For more information and to book your online counseling session, you can visit the SFU Health & Counselling Services website at [SFU Health & Counselling Services - Book Online](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>thanks
+
+Bot>> If you have any more questions or need further assistance, feel free to ask. I'm here to help!
+
+User>>exit

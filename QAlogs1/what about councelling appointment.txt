@@ -1,0 +1,75 @@
+Query: what about councelling appointments
+
+Index: 0
+Question: Can I book an appointment for a consultation at Health & Counselling?
+Answer: No, Health & Counselling is not taking appointments for consultations.
+File: 0_2_1
+URL: https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+Similarity: 0.897793672060346
+
+Index: 1
+Question: How far in advance can appointments be booked at Health & Counselling?
+Answer: Appointments can be booked up to 48 hours in advance.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8851415693033746
+
+Index: 2
+Question: How can I book an appointment for counselling support at Health & Counselling?
+Answer: You can book appointments online or call the front desk.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.882733936771264
+
+Index: 3
+Question: How can I access virtual appointments for counselling services?
+Answer: 1. Talk to your provider about Telehealth options
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.87957187079319
+
+Index: 4
+Question: How many appointments are typically recommended for brief counselling at Health & Counselling?
+Answer: Three to four appointments.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8730658906770334
+
+Index: 5
+Question: How can I access coverage for counselling services?
+Answer: You must see a provider who is registered with the Health Benefits Program to receive coverage for your counselling services
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8613353040284304
+
+Index: 6
+Question: How can I schedule an appointment with a counsellor in the community through My SSP?
+Answer: You can download the My SSP app to access 24/7 crisis support or call/chat to schedule an appointment with a counsellor in the community.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8605057474985996
+
+Index: 7
+Question: How can students access medical and counseling appointments on campus?
+Answer: Phone: 778.782.4615
+File: 0_3_9
+URL: https://www.sfu.ca/students/health/resources/support-options.html
+Similarity: 0.8585251960245519
+
+Index: 8
+Question: How can I register for group counselling sessions?
+Answer: - Browse our list of options and register
+- Self-refer
+- Drop in to get connected
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8521806633682084
+
+Index: 9
+Question: How can I see a doctor or nurse at Health & Counselling clinics?
+Answer: You can book with your own General Practitioner, Psychologist, or Psychiatrist
+You can book with a doctor at Health & Counselling clinic.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8513337056980048
+

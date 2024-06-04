@@ -1,0 +1,83 @@
+Query: What is My SSP?
+
+What is My SSP and how can SFU students access this service?
+My SSP is a service contracted by the university. SFU students can access this service by calling or chatting using the app, or arranging for short-term counselling with a My SSP counsellor by appointment.
+0_3_2
+https://www.sfu.ca/students/health/support-resources/counselling-services.html
+0.9020875045246803
+
+How can I access the My SSP service for counseling support?
+Phone: 1-844-451-9700 (011-416-380-6578 from outside North America)
+Download and learn more
+0_1_1_11_3
+https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+0.8705500408473351
+
+What are some general topics that students can connect with My SSP about?
+- Mental health concerns
+- Stress management
+- Academic pressures
+- Relationship issues
+- Homesickness
+- Cultural adjustment
+- Financial stress
+- Anxiety
+- Depression
+0_3_5
+https://www.sfu.ca/students/health/get-support/my-ssp.html
+0.8673261759279121
+
+How can graduate students access the My SSP service for support?
+Graduate students can access the My SSP service for support by booking appointments with a counsellor, chatting for advice through the app, or calling 24/7 for crisis support.
+0_9
+https://www.sfu.ca/students/health/graduate-students.html
+0.8639948079569291
+
+Where can I find the SSP App for download?
+The SSP App can be found for download on the App Store or Google Play Store.
+0_3_5_1
+https://myssp.app/ca/faq
+0.8617940370864637
+
+What are the different ways staff, faculty, and student leaders can assist students in accessing My SSP?
+- Promote My SSP by sharing contact information for My SSP and Health and Counselling Services
+- Download the My SSP app on your phone and encourage students do the same
+- Assist students in accessing My SSP, provided you have their consent, by doing the following:
+  - Assisted Referral: help students connect with My SSP for the first time
+  - Outreach Request: ask My SSP to call the student
+0_1_1_11_2
+https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+0.8614893269020601
+
+How can staff, faculty, and student leaders promote My SSP?
+- Share contact information for My SSP and Health and Counselling Services
+- Download the My SSP app on your phone and encourage students to do the same
+- Assist students in accessing My SSP with their consent by providing Assisted Referral and Outreach Request
+- Request a staff/faculty consultation with My SSP by calling 1.844.451.9700
+- Chat with an advisor through the My SSP app
+- Contact SFU Health and Counselling Services for assistance or consultation
+- Collaborate and join SFU Health Promotion to build healthy and supportive campus communities
+0_1_1_11_2
+https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+0.859650032297348
+
+How can students access free mental health support through My SSP?
+- By downloading the My SSP app on their phone
+- By calling 1.844.451.9700 (or 001.416.380.6578 outside North America)
+0_1_1_11_2
+https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+0.8577952699527457
+
+Is there an SSP App available for download?
+Yes
+0_3_5_1
+https://myssp.app/ca/faq
+0.8575802348680401
+
+Are there any specific requirements for using the SSP App?
+- You need to download the SSP App
+- You can use one of the specified browsers
+0_3_5_1
+https://myssp.app/ca/faq
+0.8571610881620909
+

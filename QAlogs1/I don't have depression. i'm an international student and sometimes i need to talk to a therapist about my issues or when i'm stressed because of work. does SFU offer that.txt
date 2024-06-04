@@ -1,0 +1,112 @@
+Query: I don't have depression. i'm an international student and sometimes i need to talk to a therapist about my issues or when i'm stressed because of work. does SFU offer that?
+
+Index: 0
+Question: What mental health support options are available for students at SFU?
+Answer: - My SSP provides free, 24/7 counselling and mental health support through phone or app
+- Group events and workshops, including emotional support groups and mindfulness meditation sessions
+- COVID-19 Emotional Support Group for Graduate Students
+- Bouncing Forward: Online Resilience Training
+File: 0_9_2_1
+URL: https://www.sfu.ca/content/dam/sfu/students/health/pdf/Grad%20Student%20Support%20Doc.pdf
+Similarity: 0.8798776529451054
+
+Index: 1
+Question: What resources are available for students at SFU and in the community for mental health support?
+Answer: - Burnaby campus: 778.782.4615
+- Vancouver campus: 778.782.5200
+- Surrey campus: 778.782.5200
+File: 0_5_1_1
+URL: https://www.sfu.ca/students/health/whats-happening/hifive-sfu/meethifive.html
+Similarity: 0.8727532420327192
+
+Index: 2
+Question: How can I access free, confidential counselling support as an SFU student?
+Answer: - Through the My SSP app
+- Contact the front desk during operating hours at 778-782-4615
+- Call the Crisis Centre in BC or Canada 24/7/365
+- Call the crisis line at 1-800-784-2433 (1-800-SUICIDE)
+- Contact the Crisis Centre at Burnaby campus: 778.782.4615, Vancouver campus: 778.782.5200, Surrey campus: 778.782.5200
+File: 0_3_4
+URL: https://www.sfu.ca/students/health/get-support/talk-now.html
+Similarity: 0.8676352076640038
+
+Index: 3
+Question: What support is available for international students at SFU outside of class?
+Answer: - International Student Advising 
+- International Student Experience Support 
+- Study Permit assistance 
+- Medical Insurance guidance 
+- Non-Academic Enrollment Requirements assistance 
+- Employment related questions 
+- Community Resources 
+- Post Graduation Resources 
+- Welcome Guides 
+- Life In Vancouver support 
+- Housing assistance 
+- Finances guidance
+File: 0_3_9_6
+URL: https://www.sfu.ca/students/isap/contact.html
+Similarity: 0.8662100832148546
+
+Index: 4
+Question: How can SFU students access counselling services online?
+Answer: - Book a Rapid Access Appointment directly with Tricia-Kay Williams
+- Appointments can be made for in person, virtually, or by phone
+- Book online with any counsellor who can then refer you to Tricia-Kay during your intake appointment
+File: 0_3_2_6
+URL: https://www.sfu.ca/students/health/resources/identity/black-students.html
+Similarity: 0.8658941766320788
+
+Index: 5
+Question: What resources does SFU offer to support mental health and well-being?
+Answer: - A Very Happy Brain (4m)
+- All It Takes Is 10 Mindful Minutes, Andy Puddicombe (9m)
+- How Failure Cultivates Resilience
+- How Failure Cultivates Resilience, Raphael Rose (12m)
+- The Habits of Happiness, Matthieu Ricard (20m)
+- 3 Secrets of Resilient People, Lucy Hone (16m)
+- The Gift and Power of Emotional Courage, Susan David (16m)
+- Resilience & Immunity
+- Resilience & Immunity - Podcast, Dr. Halena Gazelka (18m)
+File: 0_1_1_11_4_9
+URL: https://www.sfu.ca/human-resources/learning-development/online-learning1/well-being---resilience.html
+Similarity: 0.863004464843788
+
+Index: 6
+Question: Who should I contact for support as an international student at SFU?
+Answer: Ricky Tu at ricky_tu@sfu.ca or 778-782-4615.
+File: 0_9_2_1
+URL: https://www.sfu.ca/content/dam/sfu/students/health/pdf/Grad%20Student%20Support%20Doc.pdf
+Similarity: 0.8625829463921123
+
+Index: 7
+Question: What resources are available at SFU for students in distress?
+Answer: - Office of Student Support, Rights & Responsibilities
+- Health & Counselling Services
+- My SSP
+- 24-hour crisis lines
+- Campus Public Safety
+- Employee and Family Assistance program (EFAP)
+File: 0_1_1_11_3
+URL: https://www.sfu.ca/students/health/faculty-staff/response-guide.html
+Similarity: 0.8622860170093839
+
+Index: 8
+Question: How can SFU students access the health and counselling services on campus?
+Answer: SFU students can access health and counselling services on campus by visiting the student health clinics on Burnaby and Vancouver campus, booking appointments with doctors and nurses, and exploring resources and support options available. Services are provided in-person, virtually, or by phone at no cost to SFU students.
+File: 0
+URL: https://www.sfu.ca/students/health/
+Similarity: 0.8618015435541758
+
+Index: 9
+Question: How can students access counseling services at SFU across different campuses?
+Answer: - Contact your CAL disability advisor
+- Register for the 'Experiencing ADHD' group
+- Email Sean for questions about individual or group counselling (sean_heaslip@sfu.ca)
+- Call Burnaby campus: 778.782.4615, Vancouver campus: 778.782.5200, Surrey campus: 778.782.5200
+- View the PDF version of the counseling services
+- Check out Upcoming Session for any updated times or changes to the sessions.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8609816887977254
+

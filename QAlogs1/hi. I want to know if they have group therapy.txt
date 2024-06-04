@@ -1,0 +1,76 @@
+Query: hi. I want to know if they have group therapy.
+
+Index: 0
+Question: How can I register for group counselling sessions?
+Answer: - Browse our list of options and register
+- Self-refer
+- Drop in to get connected
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8531527598855122
+
+Index: 1
+Question: How can students register for the group counseling sessions?
+Answer: To register, students can contact their CAL disability advisor and express interest in participating in the group. The advisor will forward an email referral with instructions on booking an intake appointment with the group facilitator.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8417581386480576
+
+Index: 2
+Question: Is the counselling group for students experiencing anxiety and stress open to all genders and sexual orientations?
+Answer: Yes.
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8408703936876825
+
+Index: 3
+Question: Are there drop-in options for support groups?
+Answer: Yes, there are drop-in options for support groups.
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8398969093168442
+
+Index: 4
+Question: Can I join a support group for individuals with ADHD?
+Answer: Yes, you can join a support group for individuals with ADHD.
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8379363849996433
+
+Index: 5
+Question: Who can students contact if they have questions about individual or group counseling?
+Answer: Sean - sean_heaslip@sfu.ca
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8363642825977263
+
+Index: 6
+Question: How can students access group-based programs at Health & Counselling?
+Answer: Students can access group-based programs at Health & Counselling by browsing groups and asking questions during a consultation appointment or at a doctor's visit.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8357977733325348
+
+Index: 7
+Question: What is the schedule for the group sessions?
+Answer: Tuesdays | 2:30pm to 4pm
+Group content will repeat after four sessions until Dec 5. Join any session.
+File: 0_3_8_11
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/mood.html
+Similarity: 0.8353658492346764
+
+Index: 8
+Question: What are the session times and format for the counselling group?
+Answer: Thursdays | 2:00pm - 3:30pm
+Sessions will be held via Zoom.
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8348812496943288
+
+Index: 9
+Question: Can I self-refer to join a support group?
+Answer: Yes, you can self-refer to join a support group.
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8347750695400756
+

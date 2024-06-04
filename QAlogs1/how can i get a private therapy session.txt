@@ -1,0 +1,74 @@
+Query: how can i get a private therapy session?
+
+Index: 0
+Question: How can I register for group counselling sessions?
+Answer: - Browse our list of options and register
+- Self-refer
+- Drop in to get connected
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8724474243777619
+
+Index: 1
+Question: How can I access virtual appointments for counselling services?
+Answer: 1. Talk to your provider about Telehealth options
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8704120619542068
+
+Index: 2
+Question: How can I access coverage for counselling services?
+Answer: You must see a provider who is registered with the Health Benefits Program to receive coverage for your counselling services
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8624160936386743
+
+Index: 3
+Question: How can I book an appointment for counselling support at Health & Counselling?
+Answer: You can book appointments online or call the front desk.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8610130533971273
+
+Index: 4
+Question: How can one book a confidential 1-on-1 appointment with a career professional?
+Answer: Book and manage your appointments on myExperience.
+File: 0_3_9_8
+URL: https://www.sfu.ca/students/career.html
+Similarity: 0.8561799323255758
+
+Index: 5
+Question: Can I book an appointment for a consultation at Health & Counselling?
+Answer: No, Health & Counselling is not taking appointments for consultations.
+File: 0_2_1
+URL: https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+Similarity: 0.8526476585279018
+
+Index: 6
+Question: How can I find a registered mental health provider?
+Answer: - You can find detailed information about your mental health claims through your PBC Member Profile, which you can access online
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8489965517316248
+
+Index: 7
+Question: How can students register for the group counseling sessions?
+Answer: To register, students can contact their CAL disability advisor and express interest in participating in the group. The advisor will forward an email referral with instructions on booking an intake appointment with the group facilitator.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.8470539791870343
+
+Index: 8
+Question: How can depression be treated with psychotherapy?
+Answer: - Psychotherapy can be used to treat depression by helping individuals understand and challenge unhelpful thoughts
+File: 0_3_9_17
+URL: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression
+Similarity: 0.846188727497983
+
+Index: 9
+Question: How can I contact Tricia-Kay Williams for counseling sessions?
+Answer: Email tricia_williams@sfu.ca to register for counseling sessions.
+File: 0_3_7_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/healingspace.html
+Similarity: 0.8457295261662692
+

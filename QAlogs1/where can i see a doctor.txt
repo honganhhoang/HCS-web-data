@@ -1,0 +1,80 @@
+Query: where can i see a doctor?
+
+Index: 0
+Question: How can I see a doctor or nurse at Health & Counselling clinics?
+Answer: You can book with your own General Practitioner, Psychologist, or Psychiatrist
+You can book with a doctor at Health & Counselling clinic.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8839941447414715
+
+Index: 1
+Question: How can I find a hospital near me?
+Answer: - Call HealthLink BC at 8-1-1
+- Use the find a location search feature on the website.
+File: 0_4_2
+URL: https://www.vch.ca/en/health-topics/emergency-care
+Similarity: 0.8714070258482396
+
+Index: 2
+Question: How can I find a flu shot clinic?
+Answer: - Check with your individual extended health plan 
+- Visit studentcare.ca 
+- Find local immunization and travel clinic 
+- Call the respective campus phone numbers provided
+File: 0_2_1
+URL: https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+Similarity: 0.859287439643951
+
+Index: 3
+Question: How can I register to get a family doctor or nurse practitioner in my community?
+Answer: Register to get a family doctor or nurse practitioner in your community by contacting ADIRS toll-free at 1 800 663-1441, or in the lower mainland at 604 660-9382.
+File: 0_1_1_11_4_8
+URL: https://www.healthlinkbc.ca/mental-health-substance-use/resources/alcohol-drug-information-referral-service
+Similarity: 0.8502049332500792
+
+Index: 4
+Question: Where can I find local immunization and travel clinics?
+Answer: Burnaby campus: 778.782.4615
+Vancouver campus: 778.782.5200
+Surrey campus: 778.782.5200
+File: 0_2_1
+URL: https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+Similarity: 0.8498557097967218
+
+Index: 5
+Question: How can someone register to get a family doctor or nurse practitioner in their community?
+Answer: To register to get a family doctor or nurse practitioner in their community, individuals can contact their local health authority or visit the Government of BC website for more information.
+File: 0_4_3
+URL: https://www.healthlinkbc.ca/health-services/urgent-and-primary-care-centres
+Similarity: 0.8427788622765802
+
+Index: 6
+Question: What is the process for booking medical appointments with doctors and nurses?
+Answer: - Appointment requests are submitted on the appointment request form
+- Medical office assistant contacts you by email within 2-3 business days to confirm the appointment
+File: 0_6
+URL: https://www.sfu.ca/students/health/contact-us/accessibility.html
+Similarity: 0.842333391020679
+
+Index: 7
+Question: What should I do in case of severe symptoms or a medical emergency related to a minor ailment?
+Answer: Seek immediate medical attention or call 9-1-1.
+File: 0_2_6
+URL: https://www2.gov.bc.ca/gov/content/health/accessing-health-care/pharmacy-services
+Similarity: 0.8412526069943638
+
+Index: 8
+Question: How can we register to get a family doctor or nurse practitioner in our community?
+Answer: Register to get a family doctor or nurse practitioner in your community by calling 8-1-1.
+File: 0_2_5
+URL: https://www.healthlinkbc.ca/more/contact-us/8-1-1
+Similarity: 0.8402997714712539
+
+Index: 9
+Question: How can I find a registered mental health provider?
+Answer: - You can find detailed information about your mental health claims through your PBC Member Profile, which you can access online
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8391141196695499
+

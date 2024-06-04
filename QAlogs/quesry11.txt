@@ -1,0 +1,64 @@
+Query: what is my insurance plan?
+
+Where can I check my individual extended health plan for vaccine coverage?
+You can check your individual extended health plan for vaccine coverage on studentcare.ca.
+0_2_1
+https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+0.8589269066391252
+
+Are there different requirements for medical insurance for undergraduate and graduate students?
+Yes.
+0_2_8
+https://www.sfu.ca/medical-insurance.html
+0.8284167464494965
+
+How can I find out what claiming options are available for my school?
+Choose your school to discover your claiming options.
+0_2_1_4
+https://www.studentcare.ca/
+0.8184147782122229
+
+Is medical insurance required for exchange or study abroad students in Canada?
+Yes.
+0_2_8
+https://www.sfu.ca/medical-insurance.html
+0.8155115000993572
+
+How can I access coverage for counselling services?
+You must see a provider who is registered with the Health Benefits Program to receive coverage for your counselling services
+0_3_7_2
+https://www.fnha.ca/benefits/mental-health
+0.8140240293757913
+
+Do visitors to Canada also need to have medical insurance?
+Yes.
+0_2_8
+https://www.sfu.ca/medical-insurance.html
+0.8125155334518913
+
+How can I learn more about my Medical Transportation benefits for accessing counselling services?
+You can contact the Medical Transportation Program at Transportation@fnha.ca or 1-855-550-5454.
+0_3_7_2
+https://www.fnha.ca/benefits/mental-health
+0.809167505692234
+
+Is there an additional administrative cost for those paying via private insurer?
+Yes, there will be an additional administrative cost for those paying via private insurer.
+0_2_1
+https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+0.8080966200265787
+
+Why is medical insurance necessary for international students in Canada?
+- The Canadian health system provides high standard of health care
+- Care is very expensive if not insured
+- Without insurance, could pay thousands of dollars per day for a hospital stay or be refused certain services
+0_2_8
+https://www.sfu.ca/medical-insurance.html
+0.8068687667300913
+
+What is covered by the Graduate Student Society plan in terms of mental health practitioner costs?
+The Graduate Student Society plan covers up to 80% of the cost of a mental health practitioner. The practitioner must be a licensed psychologist, a registered clinical counsellor, or have a Master’s degree in Social Work. The maximum is $600 per policy year (combined for all practitioners).
+0_1_4_9
+https://www.sfu.ca/students/accessible-learning/utilizing-accommodations/planning/assessment-funding.html
+0.8028796946930595
+

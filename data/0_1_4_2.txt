@@ -1,0 +1,89 @@
+Emailing Profs about Accommodations & Universal Design
+There are two ways you can approach professors about accessibility barriers: 
+1. ensuring that your individual accommodations through the Centre for Accessible Learning (CAL) are being honoured
+2. requesting changes to course instruction for the benefit of the whole class (universal design)
+
+
+1) If the request falls under your accommodations through the Centre for Accessible Learning, they must be provided. 
+Your right to these accommodations is protected under BC laws for non-discrimination (Section 8 of the British Columbia Human Rights Code).
+SFU’s policy for CAL accommodations falls under the Accessibility for Students with Disabilities Policy (GP 26). 
+2) If the request falls under what the professor can do as a universal design practice, it is reliant on them being both open to and able to change their course. 
+Best practices under universal design is a fuzzy legal area - there is an argument for it under non-discrimination laws, but in practice there is not much protection to ensure universal design. So, you have to advocate. 
+This often means educating the professor on why changing the course would help students (especially students that face additional barriers to education) and how they can do that (e.g. what tools/resources are available to them). 
+There are many reasons why a professor may not change the course to be more accessible. For example: 
+They do not know how to do what you are asking of them. 
+They are not familiar with the technology required to make changes.
+They are limited by their department about what they can change. 
+They do not want to put in the effort. 
+They are unaware how even small changes can have a big benefit. 
+They hold ableist ideas about what learning environments should look like. 
+Try to address these concerns (some of them are valid! some of them are less so) in your communications with the professor, and collaborate with them to figure out a solution that meets everyone’s needs. 
+Template for Emailing Profs about CAL Accommodations
+Dear [Professor / Dr. ________ ], 
+I am a student in your [course name] course and am [looking forward to meeting you in class / enjoying the class so far / whatever nicety you want to use to break the ice]!
+I am emailing you because I have [accommodation: captioning, extra time on tests, PowerPoints sent ahead of class, etc.] as an official accommodation through the Centre for Accessible Learning. 
+However, [why you are reaching out to prof about accommodation
+e.g. "the first few weeks of Zoom classes will happen before the letter about my accommodations will be sent to you (they are sent out by CAL during the 2nd week of classes). This delay unfortunately leaves me without my accommodations during the first few weeks."
+e.g. "this accommodation has not been met during my time in the course"]. 
+To ensure that this accommodation is met, could you please [whatever the prof has to do to accommodate you e.g. enable the captions on Zoom, ensure that my Canvas tests have x extra time, send me the PowerPoints ahead of class, etc.]? 
+[Sometimes I also link to guides in case profs don't know how to do it. 
+E.g. IT Services has a guide on how to enable captions: https://www.sfu.ca/information-systems/services/zoom/how-to-guides/zoom-webinar/live-transcription--beta.html#main_content_title
+E.g. CAL has a guide on how to ensure that both the time limit and the time period the quiz available is adjusted on Canvas: http://www.sfu.ca/canvas/instructors/quizzes/how-do-I-add-extra-time-to-a-quiz.html]
+I have CC'd my CAL advisor [advisor's name] in this email, who can confirm my accommodations and answer any question you may have! 
+Thank you for your time!
+
+Sincerely,
+[your name] 
+
+
+Template for Emailing Profs about Universal Design
+Dear [Professor / Dr. ________ ], 
+
+I am a student in your [course name] course and am [looking forward to meeting you in class / enjoying the class so far / whatever nicety you want to use to break the ice]!
+
+I am emailing you because I have been struggling with [describe the barrier that you're dealing with].
+
+I am wondering if you would be willing to [suggested solution]? 
+
+This would help not only me, but other students because [describe why it helps more students]. 
+
+Thank you for your consideration of my request, and I appreciate your effort towards creating a more inclusive learning environment!
+
+Sincerely,
+[your name] 
+
+Example: 
+
+Dear Professor Lastname, 
+
+I am a student in your INDG 101 course and am greatly enjoying the class so far! 
+
+However, I've been struggling a lot with the format of the lecture slides. Because I have a disability that impacts my reading and visual processing, the small white font against the purple background makes them a lot harder for me to read and understand. 
+
+I am wondering if you would be willing to alter the slides into a more legible format, or provide them in a PPT format so that students can change the format themselves? I am also likely not the only student who struggles with reading slides due to certain types of font and formatting. Things like dyslexia, learning disabilities, and autism often go underdiagnosed, and many disabled students do not have access to CAL accommodations for one reason or another. 
+
+Also, in the online Zoom format with smaller computer screens compared to a large lecture hall projection, some fonts get really difficult to read at those small sizes when the PowerPoint is competing with Zoom webcam videos and settings for screen real estate. 
+
+I know you have a very busy semester this fall, so it may not be an option for you this term, but it may be helpful for your future students if the slides were formatted a bit more accessibly. 
+
+This is a good guide: https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide 
+
+And I also like this: https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/ (though I don't agree with one of the items implying that all autistic people don't understand metaphor).
+
+A small thing that makes a big difference in readability is changing the font to something like Arial, and making it dark against a light background. 
+
+Depending on how a PowerPoint is set up, using the Master Slide option can usually change all the fonts and backgrounds in all the slides in a few minutes.
+
+Thank you for your consideration of my request, and I appreciate your effort towards creating a more inclusive learning environment!
+
+Sincerely,
+Vivian Ly
+
+
+Resources
+SFSS Advocacy Office - https://sfssadvocate.wordpress.com/ 
+SFU Ombudsperson - https://www.sfu.ca/ombudsperson.html 
+SFU Human Rights Office - http://www.sfu.ca/humanrights.html 
+Centre for Accessible Learning - https://www.sfu.ca/students/accessible-learning.html 
+SFU Disability and Neurodiversity Alliance - https://go.sfss.ca/unions/49/info 
+This guide was created by Vivian Ly at the SFU Disability and Neurodiversity Alliance. Please email SFU DNA at sfudna@gmail.com if you have any questions or suggestions! 

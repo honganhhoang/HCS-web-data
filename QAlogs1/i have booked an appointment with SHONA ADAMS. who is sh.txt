@@ -1,0 +1,9 @@
+Query: i have booked an appointment with SHONA ADAMS. who is she
+
+Index: 0
+Question: Who is Shona, the Registered Psychologist #2558 mentioned in the text?
+Answer: Shona is a Registered Psychologist who trained as a Clinical Psychologist in Oxford, U.K. She predominantly uses a Human Givens and a CBT approach and is a specialist in treating traumas and complex mental health disorders.
+File: 0_3_8_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/understanding-anxiety.html
+Similarity: 0.8063194725650673
+

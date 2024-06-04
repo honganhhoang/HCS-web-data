@@ -1,0 +1,14 @@
+Bot>> Hello! How can I help you today?
+
+User>>i want to know how to book appointments?
+
+Bot>> To book an appointment online with some care providers at SFU Health & Counselling, you can use the online booking system being set up by Health & Counselling. For more information and details on how to access this online booking system, you can visit the SFU Health & Counselling website at: [Accessibility Services at SFU](https://www.sfu.ca/students/health/contact-us/accessibility.html).
+
+User>>what kind of services do they offer to students?
+
+Bot>> The Global Student Centre offers social events and support services for international students. For more information about the services provided, you can visit the Global Student Centre website at: [Global Student Centre Services](https://www.sfu.ca/students/isap.html).
+
+Out On Campus offers support for LGBTQIA2S+ students and allies, access to their space, and you can contact them for media inquiries at mediainquiries@sfss.ca. To learn more about the services offered by Out On Campus, you can visit their website at: [Out On Campus Services](https://sfss.ca/ooc/).
+
+User>>what kind of councelling services do they offer?
+

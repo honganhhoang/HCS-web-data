@@ -1,0 +1,86 @@
+Query: what are councelling options for indigenious people?
+
+What are the options for accessing Indigenous Clinical Counsellors at the ISC?
+- Sign up for the Wellness Program
+- Get connected with one of our Indigenous Clinical Counsellors
+- Attend an Elders Program Drop-in
+- Connect with an ISC counsellor by booking online
+- Contact Health and Counselling services at 778-782-4615, hcs_cm@sfu.ca or visit MBC 0101 to book an appointment with a doctor, nurse or counsellor
+0_3_2_5
+https://www.sfu.ca/students/indigenous/wellness.html
+0.8824185017498917
+
+How does Tanu, the Registered Clinical Counsellor, describe her approach to working with Indigenous students?
+Tanu works with students from a trauma-informed, feminist and anti-oppressive framework, taking into consideration the multiple and complex layers of Indigenous student's lives that impact their mental health and well-being. Tanu strives to create a safe, warm and empathic environment where a student can feel heard and supported. Her approach is flexible and holistic, basing her interventions on what fits best with a student's lived experience and current needs.
+0_5
+https://www.sfu.ca/students/health/contact-us/our_team.html
+0.8463259059413241
+
+What specialized counselling support options are available at Health & Counselling?
+- Single Session Counselling Follow-up
+- Short-Term Counselling
+- Group-based programs
+- My SSP service
+- Community resources
+0_3_2
+https://www.sfu.ca/students/health/support-resources/counselling-services.html
+0.846284923850673
+
+How can users access support through a culturally traditional approach with Elders and Knowledge Keepers?
+Users may call the Intake Centre with a self-identified Elder and/or Knowledge Keeper of their choosing. If the Elder is not self-identified at the time of intake, users will be connected to one of Homewood Health's clinical experts specialized in Indigenous Culture.
+0_1_1_11_4_6
+https://www.sfu.ca/human-resources/efap.html
+0.8441729359871848
+
+Who can Indigenous students contact for inquiries about the group?
+Jennifer at jennifer_reandy@sfu.ca.
+0_3_7_3
+https://www.sfu.ca/students/health/get-support/support-groups/groups/a-healing-space.html
+0.8377530250590229
+
+What types of support are available to Indigenous students at the Indigenous Student Centre and SFU?
+- Wholistic wellness programs
+- Wellness Program
+- Indigenous Clinical Counsellors
+- Elders Program Drop-in
+- Cultural Connections workshop
+- Black Counsellor (Tricia Kay Williams)
+- Online Resilience Course
+- Group counselling
+- Online self-help resources
+- MindShift Application
+- Additional support options and counselling services from SFU Health and Counselling Services
+0_3_2_5
+https://www.sfu.ca/students/indigenous/wellness.html
+0.8374178793956486
+
+How can students join the Wellness Program at the Indigenous Student Centre?
+- Sign up for the Wellness Program 
+- Get connected with one of our Indigenous Clinical Counsellors 
+- Attend an Elders Program Drop-in 
+- Join a Cultural Connections workshop 
+- Connect with an ISC counsellor by booking online OR Contact Health and Counselling services at 778-782-4615, hcs_cm@sfu.ca or visit MBC 0101 to book an appointment with a doctor, nurse or counsellor
+0_3_2_5
+https://www.sfu.ca/students/indigenous/wellness.html
+0.834956406204839
+
+How can students participate in Elders Program Drop-ins at the Indigenous Student Centre?
+Students can participate in Elders Program Drop-ins at the Indigenous Student Centre by attending for a casual conversation and knowledge sharing opportunity.
+0_3_2_5
+https://www.sfu.ca/students/indigenous/wellness.html
+0.832462859047084
+
+What types of support options are available for international students at Health & Counselling?
+- Individual support
+- Group support
+- Transition Case Manager support
+0_9_2
+https://www.sfu.ca/students/health/resources/identity/SupportForInternationalStudents.html#tcm
+0.8315041224166312
+
+What are the contact hours for the Indigenous Student Centre staff?
+Monday to Friday from 8:30am to 4:30pm
+0_5_2
+https://www.sfu.ca/students/indigenous.html
+0.8311634735263123
+

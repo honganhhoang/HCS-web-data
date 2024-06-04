@@ -1,0 +1,19 @@
+Query: what kind of services do they offer to students?
+
+Index: 0
+Question: What types of services are offered at the Global Student Centre?
+Answer: - Social events
+- Support services for international students
+File: 0_3_7_7
+URL: https://www.sfu.ca/students/isap.html
+Similarity: 0.9118307720936134
+
+Index: 1
+Question: What services are offered by Out On Campus?
+Answer: - Support for LGBTQIA2S+ students and allies
+- Access to their space
+- Media inquiries contact (mediainquiries@sfss.ca)
+File: 0_3_7_6
+URL: https://sfss.ca/ooc/
+Similarity: 0.9115383376498515
+

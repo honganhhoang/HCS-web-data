@@ -1,0 +1,77 @@
+Query: i think i'm very stressed right now, and i need a session to talk to a councellor.
+
+Index: 0
+Question: Can I book an appointment for a consultation at Health & Counselling?
+Answer: No, Health & Counselling is not taking appointments for consultations.
+File: 0_2_1
+URL: https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+Similarity: 0.8268304041033525
+
+Index: 1
+Question: What should a student do if they are feeling overwhelmed and need support?
+Answer: - Contact the mental health professionals available for individual support
+- Reach out to the Student Mental Health & Well-being Framework
+- Call the campus support numbers for immediate assistance
+File: 0_3
+URL: https://www.sfu.ca/students/health/support-resources.html
+Similarity: 0.8196128918987814
+
+Index: 2
+Question: How can I register for group counselling sessions?
+Answer: - Browse our list of options and register
+- Self-refer
+- Drop in to get connected
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.819221571302562
+
+Index: 3
+Question: How can I book an appointment for counselling support at Health & Counselling?
+Answer: You can book appointments online or call the front desk.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8188125558073115
+
+Index: 4
+Question: What is the purpose of the counselling group for students experiencing stress, anxiety, and low mood?
+Answer: To support students who are experiencing stress, anxiety, and/or low mood
+To provide a space for sharing and personal growth
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8185436559715344
+
+Index: 5
+Question: How can students access counseling and mental health support?
+Answer: Students can access counseling and mental health support by visiting the Counseling and Mental Health Support office located at SUB 3100, 8888 University Drive, Simon Fraser University, Burnaby, BC, V5A 1S6, Monday to Friday from 10am to 4pm.
+File: 0_1_4_8
+URL: https://sfss.ca/services/student-advocacy-office/
+Similarity: 0.8182908581881456
+
+Index: 6
+Question: How can I schedule an appointment with a counsellor in the community through My SSP?
+Answer: You can download the My SSP app to access 24/7 crisis support or call/chat to schedule an appointment with a counsellor in the community.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8172853416237578
+
+Index: 7
+Question: How can I access coverage for counselling services?
+Answer: You must see a provider who is registered with the Health Benefits Program to receive coverage for your counselling services
+File: 0_3_7_2
+URL: https://www.fnha.ca/benefits/mental-health
+Similarity: 0.8149952233271722
+
+Index: 8
+Question: Is the counselling group for students experiencing anxiety and stress open to all genders and sexual orientations?
+Answer: Yes.
+File: 0_3_8_12
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+Similarity: 0.8125626323491834
+
+Index: 9
+Question: What resources are available for mental health support and counseling services for graduate students?
+Answer: Health & Counselling has various professionals available including registered clinical counsellors, psychologists, psychiatrists, social workers, and mental health nurses. My SSP service is also available for graduate students.
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.8125152780638409
+

@@ -1,0 +1,74 @@
+Query: Is councelling free?
+
+How can I access coverage for counselling services?
+You must see a provider who is registered with the Health Benefits Program to receive coverage for your counselling services
+0_3_7_2
+https://www.fnha.ca/benefits/mental-health
+0.8690868126083141
+
+Are there community resources available for counselling and mental health support?
+- Many counselling programs and groups are available in the community
+0_3_2
+https://www.sfu.ca/students/health/support-resources/counselling-services.html
+0.8621017586822746
+
+Can I book an appointment for a consultation at Health & Counselling?
+No, Health & Counselling is not taking appointments for consultations.
+0_2_1
+https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html
+0.8608658474763261
+
+How can Black SFU students access no-cost one-to-one counselling?
+- Book a Rapid Access Appointment directly with Tricia-Kay Williams
+- Appointments can be made for in person, virtually, or by phone
+- Book online with any counsellor and request to be referred to Tricia-Kay during intake appointment
+0_3_2_6
+https://www.sfu.ca/students/health/resources/identity/black-students.html
+0.8590359365672744
+
+How can I access free, confidential counselling support as an SFU student?
+- Through the My SSP app
+- Contact the front desk during operating hours at 778-782-4615
+- Call the Crisis Centre in BC or Canada 24/7/365
+- Call the crisis line at 1-800-784-2433 (1-800-SUICIDE)
+- Contact the Crisis Centre at Burnaby campus: 778.782.4615, Vancouver campus: 778.782.5200, Surrey campus: 778.782.5200
+0_3_4
+https://www.sfu.ca/students/health/get-support/talk-now.html
+0.8570446371555016
+
+How can I register for group counselling sessions?
+- Browse our list of options and register
+- Self-refer
+- Drop in to get connected
+0_3_8
+https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+0.8562967001293179
+
+How can I book an appointment for counselling support at Health & Counselling?
+You can book appointments online or call the front desk.
+0_3_2
+https://www.sfu.ca/students/health/support-resources/counselling-services.html
+0.8521879385193112
+
+What specialized counselling support options are available at Health & Counselling?
+- Single Session Counselling Follow-up
+- Short-Term Counselling
+- Group-based programs
+- My SSP service
+- Community resources
+0_3_2
+https://www.sfu.ca/students/health/support-resources/counselling-services.html
+0.8492494102503644
+
+Is the counselling group for students experiencing anxiety and stress open to all genders and sexual orientations?
+Yes.
+0_3_8_12
+https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+0.8470392527020875
+
+What does my Mental Wellness and Counselling benefit cover?
+- Your benefit covers counselling services from a qualified mental health provider
+0_3_7_2
+https://www.fnha.ca/benefits/mental-health
+0.846732059040368
+

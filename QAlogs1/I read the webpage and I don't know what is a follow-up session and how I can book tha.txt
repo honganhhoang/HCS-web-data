@@ -1,0 +1,75 @@
+Query: I read the webpage and I don't know what is a follow-up session and how I can book that
+
+Index: 0
+Question: What is Single Session Counselling Follow-up and when is it scheduled?
+Answer: Single Session Counselling Follow-up is a 30 or 50 minute appointment scheduled to follow-up with concerns presented during a rapid access/intake appointment.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8289250635831813
+
+Index: 1
+Question: How many sessions are offered in the group and when does it repeat?
+Answer: Four sessions are offered in the group and it repeats until Dec 5.
+File: 0_3_8_11
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/mood.html
+Similarity: 0.8196896679861532
+
+Index: 2
+Question: How can students register for the upcoming sessions?
+Answer: Students can register for the upcoming sessions by contacting shereen_khan@sfu.ca.
+File: 0_3_8_10
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/nurturing-resilience.html
+Similarity: 0.8123731646885608
+
+Index: 3
+Question: What is the schedule for the group sessions?
+Answer: Tuesdays | 2:30pm to 4pm
+Group content will repeat after four sessions until Dec 5. Join any session.
+File: 0_3_8_11
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/mood.html
+Similarity: 0.8110179139747137
+
+Index: 4
+Question: What is required to access the page mentioned in the text?
+Answer: SFU Computing ID
+File: 0_9_6_2
+URL: https://canvas.sfu.ca/enroll/WA6L8N?_gl=1*9n0vcv*_ga*MTA0NzkyNjA5OS4xNzA3NzY3NjMz*_ga_R4BCVYL1QF*MTcxNjMyNzQ0My4zMi4xLjE3MTYzMjk0ODkuMTguMC4w
+Similarity: 0.8089947785758764
+
+Index: 5
+Question: What is required to access the page mentioned in the text?
+Answer: SFU Computing ID
+File: 0_9_6_1
+URL: https://canvas.sfu.ca/enroll/YEPJLM?_gl=1*9n0vcv*_ga*MTA0NzkyNjA5OS4xNzA3NzY3NjMz*_ga_R4BCVYL1QF*MTcxNjMyNzQ0My4zMi4xLjE3MTYzMjk0ODkuMTguMC4w
+Similarity: 0.8089947785758764
+
+Index: 6
+Question: How can I register for the sessions with Tricia-Kay Williams?
+Answer: Email tricia_williams@sfu.ca to register for as many sessions as you are interested in.
+File: 0_3_7_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/healingspace.html
+Similarity: 0.808582813778913
+
+Index: 7
+Question: How many sessions does the group run for and how often?
+Answer: The group runs for 4 sessions and runs twice during the term.
+File: 0_3_8_6
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/coping-skills.html
+Similarity: 0.8032750522196912
+
+Index: 8
+Question: How can I access additional support after the seminar?
+Answer: - Utilize the Canvas course
+- Download additional resources
+- Contact the Registered Psychologist Shona at the Burnaby campus: 778.782.4615, Vancouver campus: 778.782.5200, Surrey campus: 778.782.5200
+File: 0_3_8_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/trauma-seminar.html
+Similarity: 0.8020278217172736
+
+Index: 9
+Question: How can I book an appointment online with some care providers?
+Answer: You can book an appointment online with some care providers through the online booking system being set up by Health & Counselling.
+File: 0_6
+URL: https://www.sfu.ca/students/health/contact-us/accessibility.html
+Similarity: 0.8008906314992574
+

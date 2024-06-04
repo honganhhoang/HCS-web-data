@@ -1,0 +1,65 @@
+Query: how can i join group therapy?
+
+How can I register for group counselling sessions?
+- Browse our list of options and register
+- Self-refer
+- Drop in to get connected
+0_3_8
+https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+0.9094905608088808
+
+Can I self-refer to join a support group?
+Yes, you can self-refer to join a support group.
+0_3_8
+https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+0.8815004408364789
+
+How can students register for the group counseling sessions?
+To register, students can contact their CAL disability advisor and express interest in participating in the group. The advisor will forward an email referral with instructions on booking an intake appointment with the group facilitator.
+0_1_4_4
+https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+0.8803572655556416
+
+How can I join a support group for graduate students?
+- Register, self-refer, or drop in to get connected
+- Learn more
+0_3_8
+https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+0.8786440451510223
+
+What is the process for joining the group counseling sessions for students with ADHD?
+To join the group counseling sessions for students with ADHD, students can contact their CAL disability advisor and express interest in participating in the group. The advisor will then provide an email referral with instructions on how to book an intake appointment with the group facilitator. After completing these steps, students will have a 30-minute group screening meeting with the facilitator to determine if the group is a good fit. It is important to consider the limited space in the groups, as once filled, the group will be closed for the semester with a waitlist created for future offerings. New members will not be admitted once the groups begin to maintain safety and consistency for existing members.
+0_1_4_4
+https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+0.8778131898681532
+
+How can I join the waitlist for future offerings of the counselling group?
+To join the waitlist for future offerings of the counselling group, contact your CAL disability advisor and express your interest in participating. They will forward you an email referral with instructions on how to book an intake appointment with the group facilitator. Once you have completed these steps, you will meet with the facilitator for a screening meeting to determine if the group is a good fit for you. Space in the groups is limited, so once the group is filled, a waitlist will be created for those interested in joining future offerings.
+0_3_8_9
+https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-autism.html
+0.8764692714398195
+
+How can I join the 2SLGBTQIA+ Questioning Group?
+If interested, please email cprac_240@sfu.ca.
+0_3_7_5
+http://www.sfu.ca/students/health/get-support/support-groups/groups/2SLGBTQIA.html
+0.8714237664241684
+
+How can I contact the group if I am interested in joining?
+Please email cprac_240@sfu.ca.
+0_3_7_5
+http://www.sfu.ca/students/health/get-support/support-groups/groups/2SLGBTQIA.html
+0.8705058429195921
+
+How can students register for the counselling group?
+To register, email Beth (btriano@sfu.ca) with your name and email.
+0_3_8_12
+https://www.sfu.ca/students/health/get-support/support-groups/groups/Stress-101.html
+0.8678710824824254
+
+How can students access group-based programs at Health & Counselling?
+Students can access group-based programs at Health & Counselling by browsing groups and asking questions during a consultation appointment or at a doctor's visit.
+0_3_2
+https://www.sfu.ca/students/health/support-resources/counselling-services.html
+0.8674517148195133
+
