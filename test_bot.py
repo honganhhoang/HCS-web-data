@@ -8,7 +8,7 @@ def main():
     bot = Bot(bot_sysMessage)
 
     # perform the conversation
-    BotUser_dialogue_cycle(bot, "user5")
+    BotUser_dialogue_cycle(bot, "user7")
 
 if __name__ == "__main__":
     main()

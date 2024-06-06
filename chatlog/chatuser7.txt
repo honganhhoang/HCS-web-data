@@ -1,0 +1,25 @@
+Bot>> Hello! How can I help you today?
+
+User>>i feel i'm getting depressed.
+
+Bot>> Based on the information provided, it seems like you are experiencing feelings of depression. It's important to recognize these feelings and seek help if needed. You can refer to the following resources for more information and support on depression:
+1. [Manulife - Depression](https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/depression.html)
+2. [Here to Help BC - Depression](https://www.heretohelp.bc.ca/depression)
+3. [Centre for Clinical Interventions - Looking After Yourself: Depression](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression)
+
+Remember, it's okay to reach out for help and support during challenging times. If you feel overwhelmed, consider talking to a healthcare provider or mental health professional for assistance.
+
+User>>how should i manage my depression?
+
+Bot>> To manage depression effectively, you can consider the following strategies:
+1. Continue practicing the strategies and techniques learned in the workbook.
+2. Set and work towards achievable goals.
+3. Monitor your thoughts and challenge unhelpful beliefs.
+4. Address core beliefs that may be contributing to your depression.
+5. Focus on staying healthy and engaging in activities that promote your well-being.
+6. Seek support from mental health professionals if needed.
+
+For more detailed information and resources on managing depression, you can refer to the [Centre for Clinical Interventions - Looking After Yourself: Depression](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression) website. Remember, reaching out for help and implementing these strategies can make a positive difference in managing your depression.
+
+User>>exit
+

@@ -1,0 +1,35 @@
+Bot>> Hello! How can I assist you today?
+
+User>>what is counseling service
+
+Bot>> Based on the information provided, counseling services refer to professional support provided to individuals to address mental health concerns, emotional well-being, and personal development. If you would like more details or have any specific questions related to counseling services, feel free to ask! You can also refer to the SFU Health & Counselling Services website for more information: [SFU Health & Counselling Services](https://www.sfu.ca/students/health/faculty-staff/response-guide.html)
+
+User>>how can I contact them?
+
+Bot>> Based on the information provided, if you are looking to contact specific groups or offices at SFU for support or inquiries, you can do so using the following methods:
+
+1. For the group of interest mentioned in the context, please email cprac_240@sfu.ca.
+2. Burnaby campus: 778.782.4615
+   Vancouver campus: 778.782.5200
+   Surrey campus: 778.782.5200
+
+If you need to contact other specific offices or groups at SFU, please refer to the provided URLs for more information:
+- [2SLGBTQIA Support Group](http://www.sfu.ca/students/health/get-support/support-groups/groups/2SLGBTQIA.html)
+- [SFU Student Support Contact Form](https://www.sfu.ca/students/studentsupport/sc-form.html)
+- [SFU Centre for Accessible Learning Contact Information](https://www.sfu.ca/students/accessible-learning/contact-us.html)
+
+Feel free to provide more details if you have a specific group or office in mind for further assistance.
+
+User>>how can I contact counseling services?
+
+Bot>> To contact counseling services at Simon Fraser University, you can follow these steps:
+
+1. Visit the Counseling and Mental Health Support office located at SUB 3100, 8888 University Drive, Simon Fraser University, Burnaby, BC, V5A 1S6, Monday to Friday from 10 am to 4 pm.
+2. You can book appointments online or call the front desk for counseling support.
+
+For more information on accessing counseling services and mental health support at SFU, you can refer to the following URL: [SFU Counseling Services Information](https://www.sfu.ca/students/health/support-resources/counselling-services.html)
+
+If you have any more questions or need further assistance, feel free to ask!
+
+User>>exit
+

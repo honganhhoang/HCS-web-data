@@ -1,0 +1,96 @@
+Query: i feel i'm getting depressed.
+
+Index: 0
+Question: What are the symptoms of depression?
+Answer: - Low mood persisting for longer than two weeks
+- Dismal outlook and sense of gloom
+- Mood lifting with positive experiences but falling with minor disappointments
+- Severe depression with persistent low mood throughout the day
+- Fluctuating mood during the day (diurnal variation)
+File: 0_3_9_17
+URL: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression
+Similarity: 0.845261363572814
+
+Index: 1
+Question: What are some symptoms of clinical depression?
+Answer: - Affect a person’s thinking, relationships, ability to carry out family and work responsibilities and physical health
+- Interferes with the ability to sleep, eat, work, study, interact with others and have fun
+- Feelings of helplessness, hopelessness, and worthlessness
+- Consumes day-to-day living
+- Intense feelings that there is no relief and that these feelings will never end
+File: 0_1_1_11_4_4
+URL: https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/depression.html
+Similarity: 0.8294120767422752
+
+Index: 2
+Question: How do thoughts influence feelings in depression?
+Answer: Thoughts influence feelings in depression by causing individuals to experience negative emotions such as sadness, hopelessness, and despair. Automatic negative thoughts can worsen mood and lead to a cycle of negative thinking and feelings. Challenging unhelpful thoughts and replacing them with balanced thoughts can help improve mood and reduce symptoms of depression. Core beliefs, which are deeply held beliefs about oneself and the world, can also impact thoughts and feelings in depression.
+File: 0_3_9_17
+URL: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression
+Similarity: 0.8287404302921927
+
+Index: 3
+Question: What is the Vicious Cycle of Depression?
+Answer: The Vicious Cycle of Depression is a pattern in which negative thoughts and behaviors reinforce each other, leading to a worsening of depressive symptoms. This cycle can perpetuate feelings of low mood, hopelessness, and helplessness.
+File: 0_3_9_17
+URL: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression
+Similarity: 0.825856466924109
+
+Index: 4
+Question: What factors may contribute to the development of depression?
+Answer: - Biological and genetic factors
+- Environmental, social, and cultural influences
+- Childhood or developmental events
+File: 0_1_1_11_4_4
+URL: https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/depression.html
+Similarity: 0.8225190180501023
+
+Index: 5
+Question: What is depression and how does it affect individuals?
+Answer: Depression is a mood disorder that affects the way individuals feel about themselves, others, and the world around them. It can manifest differently from person to person, with some feeling very sad and tired while others may feel angry and restless.
+File: 0_3_9_16
+URL: https://www.heretohelp.bc.ca/depression
+Similarity: 0.8207915632522121
+
+Index: 6
+Question: How can grief and bereavement affect depression?
+Answer: Grief and bereavement can exacerbate or trigger depression.
+File: 0_3_9_17
+URL: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression
+Similarity: 0.8179941929290708
+
+Index: 7
+Question: What are some common unhelpful thinking styles in depression?
+Answer: 1. All-or-nothing thinking
+2. Overgeneralization
+3. Mental filter
+4. Discounting the positive
+5. Jumping to conclusions
+6. Magnification/minimization
+7. Emotional reasoning
+8. "Should" statements
+9. Labeling
+10. Personalization
+File: 0_3_9_17
+URL: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression
+Similarity: 0.8165085572618086
+
+Index: 8
+Question: How can someone determine if they need medical assistance for depression?
+Answer: Having the following symptoms continuously for more than two weeks may warrant seeking medical assistance or advice, such as talking to a health care provider (e.g., family doctor or mental health specialist). No single symptom is a diagnosis of depression. All of these symptoms should be taken seriously and can be treated.
+File: 0_1_1_11_4_4
+URL: https://www.manulife.ca/personal/plan-and-learn/mental-health/conditions/depression.html
+Similarity: 0.8160120914457963
+
+Index: 9
+Question: How can one maintain progress made in managing depression?
+Answer: - By continuing to practice the strategies and techniques learned in the workbook
+- Setting and working towards goals
+- Monitoring thoughts and challenging unhelpful beliefs
+- Addressing core beliefs
+- Staying healthy and engaging in activities that promote well-being
+- Seeking support from mental health professionals if needed
+File: 0_3_9_17
+URL: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression
+Similarity: 0.8154389432799676
+
