@@ -1,0 +1,79 @@
+Query: i want to know if sfu offers free counselling?
+
+Index: 0
+Question: How can I access free, confidential counselling support as an SFU student?
+Answer: - Through the My SSP app
+- Contact the front desk during operating hours at 778-782-4615
+- Call the Crisis Centre in BC or Canada 24/7/365
+- Call the crisis line at 1-800-784-2433 (1-800-SUICIDE)
+- Contact the Crisis Centre at Burnaby campus: 778.782.4615, Vancouver campus: 778.782.5200, Surrey campus: 778.782.5200
+File: 0_3_4
+URL: https://www.sfu.ca/students/health/get-support/talk-now.html
+Similarity: 0.9229397505751344
+
+Index: 1
+Question: How can I get more information about the counselling services offered at SFU?
+Answer: You can contact your CAL disability advisor.
+File: 0_3_8_9
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-autism.html
+Similarity: 0.9203108187657837
+
+Index: 2
+Question: How can Black SFU students access no-cost one-to-one counselling?
+Answer: - Book a Rapid Access Appointment directly with Tricia-Kay Williams
+- Appointments can be made for in person, virtually, or by phone
+- Book online with any counsellor and request to be referred to Tricia-Kay during intake appointment
+File: 0_3_2_6
+URL: https://www.sfu.ca/students/health/resources/identity/black-students.html
+Similarity: 0.9168723357917389
+
+Index: 3
+Question: How can SFU students access counselling services online?
+Answer: - Book a Rapid Access Appointment directly with Tricia-Kay Williams
+- Appointments can be made for in person, virtually, or by phone
+- Book online with any counsellor who can then refer you to Tricia-Kay during your intake appointment
+File: 0_3_2_6
+URL: https://www.sfu.ca/students/health/resources/identity/black-students.html
+Similarity: 0.912394812296435
+
+Index: 4
+Question: How can SFU students access the health and counselling services on campus?
+Answer: SFU students can access health and counselling services on campus by visiting the student health clinics on Burnaby and Vancouver campus, booking appointments with doctors and nurses, and exploring resources and support options available. Services are provided in-person, virtually, or by phone at no cost to SFU students.
+File: 0
+URL: https://www.sfu.ca/students/health/
+Similarity: 0.9076699646415978
+
+Index: 5
+Question: How can students access counseling services at SFU across different campuses?
+Answer: - Contact your CAL disability advisor
+- Register for the 'Experiencing ADHD' group
+- Email Sean for questions about individual or group counselling (sean_heaslip@sfu.ca)
+- Call Burnaby campus: 778.782.4615, Vancouver campus: 778.782.5200, Surrey campus: 778.782.5200
+- View the PDF version of the counseling services
+- Check out Upcoming Session for any updated times or changes to the sessions.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.9043308905096191
+
+Index: 6
+Question: What other support options and counselling services are available at SFU Health and Counselling Services?
+Answer: - Group counselling
+- Online self-help resources
+- MindShift Application
+- Black Counsellor, Tricia Kay Williams
+- Indigenous Clinical Counsellors
+- Elders Program Drop-in
+- Cultural Connections workshop
+- ISC counsellors
+- Doctor, nurse, or counsellor appointments through Health and Counselling services
+File: 0_3_2_5
+URL: https://www.sfu.ca/students/indigenous/wellness.html
+Similarity: 0.9012883078235402
+
+Index: 7
+Question: What types of counselling services are offered to SFU and FIC students?
+Answer: Health & Counselling offers free, confidential, time-limited counselling support to all registered SFU and FIC students, from any campus. The counselling team provides initial consultation and assessment, information and referral, workshops, crisis support, safety planning, and individual and group counselling to address various concerns. Counselling services are provided by Registered Clinical Counsellors, Registered Psychologists, and their professional student-trainees. There are also specialized counselling options available.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.9000999070583919
+

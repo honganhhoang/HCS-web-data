@@ -1,0 +1,25 @@
+Query: does sfu has sounselling for black people?
+
+Index: 0
+Question: How can Black SFU students access no-cost one-to-one counselling?
+Answer: - Book a Rapid Access Appointment directly with Tricia-Kay Williams
+- Appointments can be made for in person, virtually, or by phone
+- Book online with any counsellor and request to be referred to Tricia-Kay during intake appointment
+File: 0_3_2_6
+URL: https://www.sfu.ca/students/health/resources/identity/black-students.html
+Similarity: 0.9136412105029251
+
+Index: 1
+Question: What kind of mental health resources are available for the Black community at SFU?
+Answer: Mental health resources, affiliated groups, and useful documents for the Black community.
+File: 0_3_7_4
+URL: https://www.sfu.ca/black-caucus/black-community-resources.html
+Similarity: 0.9111849269797117
+
+Index: 2
+Question: Who is the Black Counsellor available at SFU Health and Counselling Services?
+Answer: Tricia Kay Williams
+File: 0_3_2_5
+URL: https://www.sfu.ca/students/indigenous/wellness.html
+Similarity: 0.9064895018115237
+
