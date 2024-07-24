@@ -9,10 +9,11 @@ from set_key import set_api_key_from_file
 
 
 def HCS(message, history):
+    global LATEST
 
-    augmented_prompt = manage_query(message)
-    ai_message = bot.handle_input(HumanMessage(content=augmented_prompt))
-     
+    augmented_prompt = manage_query(LATEST, message)
+    ai_message = bot1.handle_input(HumanMessage(content=augmented_prompt))
+    
     f = open(f"UIchatlog/chat1.txt", "a")
     print("User>>" + message, file=f)
     print(file=f)
@@ -20,14 +21,17 @@ def HCS(message, history):
     print(file=f)
     f.close()
 
+    LATEST = [message, ai_message.content]
+
     return ai_message.content
 
 
-set_api_key_from_file()
 
+set_api_key_from_file()
+LATEST = []
 # Initiate chatbot
 bot_sysMessage = "You are an information chatbot to answer students' questions based on content that is given to you from SFU counselling website."
-bot = Bot(bot_sysMessage)
+bot1 = Bot(bot_sysMessage)
 
 description = """I'm here to help you find information about the counseling services available at SFU. Whether you have questions about how to book an appointment, what types of services we offer, or where to find self-help resources, I'm here to guide you to the right webpages.
 

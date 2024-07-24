@@ -33,11 +33,11 @@ def print_context_in_file(results, f):
 def context_in_applicable_form(results):
     context = []
     resources = []
-    if len(results) == 0 or len(results)>10:
-        length = 10
+    if len(results)>3:
+        length = 3
     else:
         length = len(results)
-        
+
     for idx in range(length):
         context.append("Question: " + results.iloc[idx]["Question"] + "Answer: " + results.iloc[idx]["Answer"])
         resources.append(results.iloc[idx]["URL"])

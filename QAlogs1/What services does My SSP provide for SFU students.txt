@@ -1,0 +1,83 @@
+Query: What services does My SSP provide for SFU students?
+
+Index: 0
+Question: What is My SSP and how can SFU students access this service?
+Answer: My SSP is a service contracted by the university. SFU students can access this service by calling or chatting using the app, or arranging for short-term counselling with a My SSP counsellor by appointment.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.9557818966539343
+
+Index: 1
+Question: What type of support does My SSP provide to SFU and FIC students?
+Answer: My SSP provides mental health support, real-time 24/7 access to professional counsellors, scheduled short-term counselling support, access to virtual fitness sessions, self-administered assessments, and a library of digital emotional health and well-being content.
+File: 0_3_5
+URL: https://www.sfu.ca/students/health/get-support/my-ssp.html
+Similarity: 0.938105938039577
+
+Index: 2
+Question: What services does the SFSS provide to undergraduate students at SFU?
+Answer: - Advocacy work
+- Services
+- Events
+File: 0_1_4_8
+URL: https://sfss.ca/services/student-advocacy-office/
+Similarity: 0.9327831068874212
+
+Index: 3
+Question: How can students access support from My SSP on different SFU campuses?
+Answer: Burnaby campus: 778.782.4615
+
+Vancouver campus: 778.782.5200
+
+Surrey campus: 778.782.5200
+File: 0_3_5
+URL: https://www.sfu.ca/students/health/get-support/my-ssp.html
+Similarity: 0.9285441110460678
+
+Index: 4
+Question: Is the information provided to My SSP shared with SFU?
+Answer: No.
+File: 0_3_5
+URL: https://www.sfu.ca/students/health/get-support/my-ssp.html
+Similarity: 0.9207069789995815
+
+Index: 5
+Question: What medical services are available to SFU students?
+Answer: Health & Counselling operates two medical clinics located on the Burnaby and Vancouver campuses with services in-person or by phone/virtual for all students.
+File: 0_2
+URL: https://www.sfu.ca/students/health/see-a-doctor.html
+Similarity: 0.9140073860871454
+
+Index: 6
+Question: What services does Campus Security provide at SFU?
+Answer: - Emergency support
+- First aid response
+- Guiding emergency responders (fire, ambulance, police) to the right place on campus quickly
+- Safe Walk program
+- SFU Alerts
+- Safety Training & Orientation
+- Incident Reporting
+- Hazard Reporting
+- Emergency Posters
+- AED Locations (Campus Maps)
+- Campus Assembly Area Maps
+File: 0_4_1
+URL: https://www.sfu.ca/emergency
+Similarity: 0.9063593967227938
+
+Index: 7
+Question: What support options are available for students at SFU?
+Answer: - Burnaby campus: 778.782.4615
+- Vancouver campus: 778.782.5200
+- Surrey campus: 778.782.5200
+File: 0_5_1_1_1
+URL: https://www.sfu.ca/students/health/whats-happening/hifive-sfu/our-story.html
+Similarity: 0.9030842137686015
+
+Index: 8
+Question: What medical services are available for graduate students at SFU?
+Answer: Doctors and nurses are available for a range of medical services, advice, and care. Booking with a clinic on campus is particularly helpful if you are attending SFU from another province or country, don’t have a family doctor during your time in graduate school, or commute from another location in Metro Vancouver. Medical appointments can be booked to meet in-person at Burnaby or Vancouver campus, and tele/virtual health visits are available as needed to accommodate your schedule and location.
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.9008636358578169
+

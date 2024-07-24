@@ -1,0 +1,26 @@
+Query: what services are available for indigenious people at sfu counselling?
+
+Index: 0
+Question: What types of support are available to Indigenous students at the Indigenous Student Centre and SFU?
+Answer: - Wholistic wellness programs
+- Wellness Program
+- Indigenous Clinical Counsellors
+- Elders Program Drop-in
+- Cultural Connections workshop
+- Black Counsellor (Tricia Kay Williams)
+- Online Resilience Course
+- Group counselling
+- Online self-help resources
+- MindShift Application
+- Additional support options and counselling services from SFU Health and Counselling Services
+File: 0_3_2_5
+URL: https://www.sfu.ca/students/indigenous/wellness.html
+Similarity: 0.9173849181243101
+
+Index: 1
+Question: What types of counselling services are offered to SFU and FIC students?
+Answer: Health & Counselling offers free, confidential, time-limited counselling support to all registered SFU and FIC students, from any campus. The counselling team provides initial consultation and assessment, information and referral, workshops, crisis support, safety planning, and individual and group counselling to address various concerns. Counselling services are provided by Registered Clinical Counsellors, Registered Psychologists, and their professional student-trainees. There are also specialized counselling options available.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.9070042904707079
+

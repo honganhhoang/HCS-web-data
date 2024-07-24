@@ -1,0 +1,274 @@
+User>>hi
+
+Bot>> Hello! How can I assist you today?
+
+User>>I want to book an appointment with a counselor. but i don't know how.
+
+Bot>> Based on the information provided, to book an appointment with a counselor at Health & Counselling, you can either book appointments online or call the front desk. You can find more information by visiting the Health & Counselling Services webpage on the SFU website: [Health & Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>are counselling sessions free?
+
+Bot>> Based on the information provided, there are options for accessing free counselling support as an SFU student. You can access free, confidential counselling support through the My SSP app, contact the front desk during operating hours, call the Crisis Centre in BC or Canada, call the crisis line at 1-800-784-2433 (1-800-SUICIDE), or contact the Crisis Centre at the Burnaby, Vancouver, or Surrey campuses. You can find more details on accessing free counselling support on the SFU Health & Counselling Services webpage: [SFU Health & Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>hello
+
+Bot>> Hello! How can I assist you today?
+
+User>>i want to know how to book an appointment
+
+Bot>> To book an appointment online with some care providers, you can use the online booking system set up by Health & Counselling at SFU. You can find more information on how to access this online booking system on the SFU Health & Counselling website: [Accessibility Services at SFU](https://www.sfu.ca/students/health/contact-us/accessibility.html).
+
+User>>hi.
+
+Bot>> Hello! How can I assist you today?
+
+User>>do you know the weather today?
+
+Bot>> Hello! How can I assist you today?
+
+User>>tell me the weather
+
+Bot>> Hello! How can I help you today?
+
+User>>how should i book an apppointment for counselling
+
+Bot>> To book an appointment for counselling support at Health & Counselling, you can either book appointments online or call the front desk. Unfortunately, Health & Counselling is not taking appointments for consultations at this time. For more information, you can visit the SFU Health & Counselling Services website at: [SFU Health & Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>are you alive?
+
+Bot>> Based on the context provided, the answer to your question "Are you alive?" is not explicitly stated. However, the context mentions that breathing is essential for daily life as it is a constant reminder that we are alive. If you would like more information on the importance of breathing in daily life, you can visit the SFU Health & Counselling Services website at: [SFU Health & Counselling Services](https://olc.sfu.ca/program/sfu-health-and-counselling-services). Is there anything else you would like to know or inquire about?
+
+User>>how should i go there?
+
+Bot>> Based on the retrieved context, the information provided does not directly address the query "how should I go there?" If you are referring to how to access a specific service or location mentioned in the context, please provide more details or clarify your question so I can assist you more effectively. Additionally, if you are looking for information on a specific topic, you can visit the respective URLs for further details:
+
+1. Here2Talk: [Here2Talk](https://here2talk.ca/main)
+2. SFU Academic Advising: [SFU Academic Advising Contact](https://www.sfu.ca/students/academicadvising/contact.html)
+3. SFU Student Services Academic Advisors: [SFU Student Services Academic Advisors](https://www.sfu.ca/students/academicadvising/contact/departmental-advisors.html)
+4. SFSS Clubs and Student Unions: [SFSS Clubs and Student Unions](https://sfss.ca/)
+5. SFU Health & Counselling Services: [SFU Health & Counselling Services - Disabled and Neurodivergent](https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html)
+6. Vancouver Coastal Health Emergency Care: [VCH Emergency Care](https://www.vch.ca/en/health-topics/emergency-care)
+7. 2SLGBTQIA Support Groups at SFU: [2SLGBTQIA Support Groups](http://www.sfu.ca/students/health/get-support/support-groups/groups/2SLGBTQIA.html)
+
+Feel free to provide more details or ask any specific questions you may have.
+
+User>>hi
+
+Bot>> Hello! How can I assist you today?
+
+User>>what services are available for indigenious people at sfu counselling?
+
+Bot>> At SFU's Indigenous Student Centre and SFU, the following support services are available for Indigenous students:
+- Wholistic wellness programs
+- Wellness Program
+- Indigenous Clinical Counsellors
+- Elders Program Drop-in
+- Cultural Connections workshop
+- Black Counsellor (Tricia Kay Williams)
+- Online Resilience Course
+- Group counselling
+- Online self-help resources
+- MindShift Application
+- Additional support options and counselling services from SFU Health and Counselling Services
+
+For more information, you can visit the SFU Indigenous Wellness page at: [SFU Indigenous Wellness](https://www.sfu.ca/students/indigenous/wellness.html)
+
+User>>how can i contact them?
+
+Bot>> To contact the group and inquire about joining, you can email cprac_240@sfu.ca. Additionally, for more information about the group, you can contact the following numbers based on your campus location:
+- Burnaby campus: 778.782.4615
+- Vancouver campus: 778.782.5200
+- Surrey campus: 778.782.5200
+
+For further details, you can visit the SFU 2SLGBTQIA+ Support Group page at: [SFU 2SLGBTQIA+ Support Group](http://www.sfu.ca/students/health/get-support/support-groups/groups/2SLGBTQIA.html)
+
+User>>What are the contact details for accessing the support services available for Indigenous students at SFU's Indigenous Student Centre and SFU Health and Counselling Services?
+
+Bot>> To access the support services available for Indigenous students at SFU's Indigenous Student Centre and SFU Health and Counselling Services, you can use the following contact details:
+
+For the Indigenous Student Centre:
+- Hours: Monday to Friday from 8:30am to 4:30pm
+
+For Health & Counselling Services at SFU:
+- Phone: 778-782-4615
+- Website: [SFU Health & Counselling Services](https://www.sfu.ca/students/health/faculty-staff/response-guide.html)
+
+For more information, you can visit the SFU Indigenous Student Centre page at: [SFU Indigenous Student Centre](https://www.sfu.ca/students/indigenous.html)
+
+User>>hello
+
+Bot>> Hello! How can I help you today?
+
+User>>can i ask questions
+
+Bot>> Based on the retrieved context, it seems that the information you are looking for is about how to find answers to your questions and how to contact Sex Sense to ask questions about sexual health. You can contact Sex Sense by visiting the Clinic Finder on their website, emailing info@optbc.org, or calling 1-800-739-7367. For finding answers to your questions, advisors can help you out. If you need more information, you can refer to the following URLs: [Options for Sexual Health](https://www.optionsforsexualhealth.org/) and [SFU Departmental Advisors](https://www.sfu.ca/students/academicadvising/contact/departmental-advisors.html).
+
+User>>hello
+
+Bot>> Hello! How can I assist you today?
+
+User>>can i ask questions
+
+Bot>> Based on the provided context, it seems that the information about asking questions and finding answers is related to academic advising and sexual health. If you have any specific questions or need further clarification regarding these topics, feel free to ask. You can find more information about academic advising at SFU on their website: [SFU Academic Advising Contact](https://www.sfu.ca/students/academicadvising/contact/departmental-advisors.html) and for questions about sexual health, you can visit the Sex Sense website: [Sex Sense - Options for Sexual Health](https://www.optionsforsexualhealth.org/). Let me know if you need more details or assistance with anything else!
+
+User>>hi
+
+Bot>> Hello! How can I assist you today?
+
+User>>can i ask a question
+
+Bot>> Hello! How can I assist you today?
+
+User>>what services are available for international students?
+
+Bot>> Support services available for international students at the Global Student Centre (GSC) include social events and support services tailored for international students. For more information, you can visit the Global Student Centre's website at: [Global Student Centre Events](https://www.sfu.ca/students/isap/gsc/gscevents.html)
+
+User>>what services are available for international students?
+
+Bot>> International students at the Global Student Centre (GSC) have access to various support services such as social events and specific support services tailored for their needs. Additionally, post-graduation resources are available for international students. For more information on the services offered, you can visit the following URLs:
+1. [International Services for Students at SFU](https://www.sfu.ca/students/isap/contact.html)
+2. [Global Student Centre at SFU](https://www.sfu.ca/students/isap.html)
+3. [Global Student Centre Events](https://www.sfu.ca/students/isap/gsc/gscevents.html)
+
+User>>hi
+
+Bot>> Hello! How can I assist you today?
+
+User>>how can i contact them?
+
+Bot>> Based on the information provided, you can contact the group by emailing cprac_240@sfu.ca if you are interested in joining. For more information about the group, you can also email the same address. Additionally, you can contact the group at the following phone numbers based on the campus location:
+
+- Burnaby campus: 778.782.4615
+- Vancouver campus: 778.782.5200
+- Surrey campus: 778.782.5200
+
+If you need to contact the managers at SFU for support, you can email pei_reception@sfu.ca or call 778 782 3237. For more details, you can visit the SFU counselling website at [SFU Counselling Website](http://www.sfu.ca/students/health/get-support/support-groups/groups/2SLGBTQIA.html).
+
+User>>hi
+
+Bot>> SFU Health & Counselling Services provide a range of resources and support services to students, including health and well-being outreach events/programs, qualitative evaluations to understand student experiences, and support services in partnership with other university departments. To get more information about the counselling services offered at SFU, you can contact your CAL disability advisor. For further details, you can visit the SFU Health & Counselling Services website: [SFU Health & Counselling Services](https://www.sfu.ca/healthycampuscommunity/about/wellbeing-framework.html).
+
+User>>hi
+
+Bot>> Hello! How can I help you today?
+
+User>>i want to book an appointment with HCS
+
+Bot>> Hello! How can I assist you today?
+
+User>>i want to book an appointment
+
+Bot>> The process for booking an appointment with HCS (Health & Counselling Services) involves submitting an appointment request form. After you submit the form, a medical office assistant will contact you by email within 2-3 business days to confirm the appointment. For more information, you can visit the HCS website at: [HCS Accessibility](https://www.sfu.ca/students/health/contact-us/accessibility.html).
+
+User>>i want to book an appointment with HCS
+
+Bot>> To book an appointment with Health & Counselling Services (HCS) at SFU, you have the option to book appointments online or call the front desk. Additionally, you can call ahead to book an appointment with a service provider at HCS. However, please note that Health & Counselling is not taking appointments for consultations at this time. For more information on counselling services and booking appointments, you can visit the following URLs:
+
+1. [Counselling Services at SFU](https://www.sfu.ca/students/health/support-resources/counselling-services.html)
+2. [Grad Student Support Document](https://www.sfu.ca/content/dam/sfu/students/health/pdf/Grad%20Student%20Support%20Doc.pdf)
+3. [Vaccines and Travel Health Services at SFU](https://www.sfu.ca/students/health/see-a-doctor/vaccines-and-travel-health.html)
+
+User>>hi
+
+Bot>> To book an appointment with Health and Counselling Services (HCS) at SFU, you can call ahead to schedule an appointment with a service provider. Additionally, appointments can be scheduled in-person, virtually, or online for SFU students. If you need to book an appointment with a case manager at SFU, you can do so by calling 778-782-5699 or emailing ssrr@sfu.ca.
+
+For more information on contacting Health and Counselling Services or scheduling appointments, you can visit the following URLs:
+
+1. [SFU Student Support Contact Information](https://www.sfu.ca/students/studentsupport/contact-us.html)
+2. [SFU Health and Counselling Contact Information](https://www.sfu.ca/students/health/contact-us.html)
+3. [Grad Student Support Document](https://www.sfu.ca/content/dam/sfu/students/health/pdf/Grad%20Student%20Support%20Doc.pdf)
+
+User>>hi
+
+Bot>> Hello! How can I assist you today?
+
+User>>i want to know about HCS
+
+Bot>> Hello! How can I assist you today?
+
+User>>i want to know about HCS
+
+Bot>> Hello! How can I assist you today?
+
+User>>i want to know about Health & Counseling Services
+
+Bot>> Hello! How can I assist you today?
+
+User>>i want to know about Health & Counseling Services
+
+Bot>> Hello! How can I assist you today?
+
+User>>i want to know about Health & Counseling Services
+
+Bot>> Based on the information provided, Health and Counselling Services at SFU offer various workshops, outreach opportunities, and support services to promote student well-being. You can access available on-demand workshops and outreach opportunities, and even request one for your faculty, department, unit, or team. To refer a student to Health & Counselling Services, you can inform them about the services available, such as My SSP, and provide referrals to other mental health resources listed at sfu.ca/mental-health. Additionally, you can call Health & Counselling Services to speak with a Mental Health Nurse or Counsellor for information and referral support.
+
+For more details about the resources and support services provided by SFU Health & Counselling Services, you can visit the following URL: [SFU Health & Counselling Services](https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html).
+
+User>>what is MY SSP
+
+Bot>> My SSP is a service contracted by the university to provide support to SFU students. Students can access this service by calling or chatting using the app, or they can arrange for short-term counseling with a My SSP counselor by appointment.
+
+For more information about accessing My SSP and other counseling services available to SFU students, you can visit the following URL: [SFU Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>what is my SSP
+
+Bot>> My SSP provides various services to SFU students, including mental health support, real-time 24/7 access to professional counsellors, scheduled short-term counseling support, access to virtual fitness sessions, self-administered assessments, and a library of digital emotional health and well-being content.
+
+For more information about the services provided by My SSP and how SFU students can access this support, you can visit the following URL: [My SSP - SFU Counselling Services](https://www.sfu.ca/students/health/get-support/my-ssp.html).
+
+User>>hello
+
+Bot>> Hello! How can I assist you today?
+
+User>>hello
+
+Bot>> Hello! How can I assist you today?
+
+User>>i want to know about services at HCS
+
+Bot>> At Health & Counselling Services (HCS), a variety of services are offered to support students' well-being. These services include medical care, counseling, mental health support, disability services, and more. You can learn more about the specific services offered at HCS by visiting the following URL: [Health & Counselling Services at SFU](https://www.sfu.ca/students/health/see-a-doctor.html). If you have any specific questions or need more information, feel free to ask!
+
+User>>I want to know how I can use group therapy
+
+Bot>> At Health & Counselling Services (HCS), students can access group-based therapy programs as part of their specialized counseling support options. These group-based programs are one of the services offered along with single session counseling follow-up, short-term counseling, My SSP service, and access to community resources. If you are interested in participating in group therapy or learning more about the available options, you can visit the following URL for more information: [Health & Counselling Services - Counseling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html). Feel free to ask if you have any further questions or need additional details!
+
+User>>what groups are available?
+
+Bot>> At Health & Counselling Services (HCS), students can access various group therapy programs by browsing the available groups and asking questions during a consultation appointment or at a doctor's visit. These group therapy programs are designed to provide additional support and resources for students. To learn more about the specific group therapy programs available at HCS, you can visit the following URL: [Health & Counselling Services - Counseling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html). If you have any more questions or need further assistance, feel free to ask!
+
+User>>what group therapies are available?
+
+Bot>> At Health & Counselling Services (HCS), students can access a variety of group therapy programs by browsing the available groups and asking questions during a consultation appointment or at a doctor's visit. These group therapy programs are designed to provide additional support and resources for students. To find out more about the specific group therapy programs offered at HCS, you can visit the following URL: [Health & Counselling Services - Counseling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html). If you have any further inquiries or require more information, please feel free to ask!
+
+User>>name some of the group programs
+
+Bot>> At Health & Counselling Services (HCS), students can access group therapy programs by browsing the available groups and asking questions during a consultation appointment or at a doctor's visit. These group therapy programs are part of the services offered to support students' mental health and well-being. To learn more about the specific group therapy programs available at HCS and how to access them, you can visit the following URL: [Health & Counselling Services - Counseling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html). If you have any additional questions or need further assistance, please let me know!
+
+User>>is there a group for black people?
+
+Bot>> At Health & Counselling Services (HCS), there are group therapy programs available for students that are specifically tailored for Black individuals. To access these programs, students can browse the available groups and ask questions during a consultation appointment or at a doctor's visit. Additionally, Black SFU students can access no-cost one-to-one counseling by booking a Rapid Access Appointment directly with Tricia-Kay Williams, the Black Counsellor at HCS. Appointments can be made for in-person, virtually, or by phone.
+
+For more information on accessing group therapy programs tailored for Black individuals and other available services, you can visit the following URL: [Health & Counselling Services - Counseling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html). If you have any further questions or need additional assistance, feel free to ask!
+
+User>>hi
+
+Bot>> Hello! How can I assist you today?
+
+User>>i want to know about my ssp.
+
+Bot>> My SSP is a service contracted by the university that provides support for SFU students on various topics such as mental health concerns, stress management, academic pressures, relationship issues, homesickness, cultural adjustment, financial stress, anxiety, and depression. The information shared with My SSP is not shared with SFU. SFU students can access this service by calling or chatting using the app or arranging for short-term counseling with a My SSP counselor by appointment.
+
+For more information about My SSP and how SFU students can access this service, you can visit the following URL: [My SSP at SFU](https://www.sfu.ca/students/health/get-support/my-ssp.html)
+
+User>>how can i book appointment for counselling
+
+Bot>> SFU students can access counseling services through My SSP by calling or chatting using the app, or arranging for short-term counseling with a My SSP counselor by appointment. To book an appointment for counseling through My SSP, students can contact the service provider directly through the app or by phone.
+
+For more information on accessing counseling services through My SSP and other health and counseling services available to SFU students, you can visit the following URL: [SFU Health and Counseling Services](https://www.sfu.ca/students/health/)
+
+User>>not through my ssp. but with the SFU counsellers 
+
+Bot>> SFU students can book an appointment for counseling with SFU counselors (not through My SSP) by calling ahead to book an appointment with a service provider at Health and Counselling Services at SFU. Appointments can be made for in-person, virtually, or by phone. Students can also book appointments with specific counselors, such as Tricia-Kay Williams, by booking a Rapid Access Appointment or online with any counselor who can then refer them to Tricia-Kay during the intake appointment.
+
+For more information on booking appointments for counseling with SFU counselors and accessing health and counseling services on campus, you can visit the following URL: [SFU Health and Counseling Services](https://www.sfu.ca/students/health/)
+

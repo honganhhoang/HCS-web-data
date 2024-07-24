@@ -1,0 +1,9 @@
+Query: i want to know how to book an appointment
+
+Index: 0
+Question: How can I book an appointment online with some care providers?
+Answer: You can book an appointment online with some care providers through the online booking system being set up by Health & Counselling.
+File: 0_6
+URL: https://www.sfu.ca/students/health/contact-us/accessibility.html
+Similarity: 0.9035549536382878
+

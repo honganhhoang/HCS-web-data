@@ -1,0 +1,67 @@
+User: rewrite the query based on the provided conversation history in the form of a clear and concise question.
+    Conversation history: [ A: hello 
+    B: Hello! How can I assist you today?
+    ]
+    Query: [i want to know about services at HCS] 
+Rewrite: What services are offered at HCS?
+
+User: rewrite the query based on the provided conversation history in the form of a clear and concise question.
+    Conversation history: [ A: i want to know about services at HCS 
+    B: At Health & Counselling Services (HCS), a variety of services are offered to support students' well-being. These services include medical care, counseling, mental health support, disability services, and more. You can learn more about the specific services offered at HCS by visiting the following URL: [Health & Counselling Services at SFU](https://www.sfu.ca/students/health/see-a-doctor.html). If you have any specific questions or need more information, feel free to ask!
+    ]
+    Query: [I want to know how I can use group therapy] 
+Rewrite: What services related to group therapy are offered at Health & Counselling Services (HCS)?
+
+User: rewrite the query based on the provided conversation history in the form of a clear and concise question.
+    Conversation history: [ A: I want to know how I can use group therapy 
+    B: At Health & Counselling Services (HCS), students can access group-based therapy programs as part of their specialized counseling support options. These group-based programs are one of the services offered along with single session counseling follow-up, short-term counseling, My SSP service, and access to community resources. If you are interested in participating in group therapy or learning more about the available options, you can visit the following URL for more information: [Health & Counselling Services - Counseling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html). Feel free to ask if you have any further questions or need additional details!
+    ]
+    Query: [what groups are available?] 
+Rewrite: What group therapy programs are available at Health & Counselling Services (HCS) for students?
+
+User: rewrite the query based on the provided conversation history in the form of a clear and concise question.
+    Conversation history: [ A: what groups are available? 
+    B: At Health & Counselling Services (HCS), students can access various group therapy programs by browsing the available groups and asking questions during a consultation appointment or at a doctor's visit. These group therapy programs are designed to provide additional support and resources for students. To learn more about the specific group therapy programs available at HCS, you can visit the following URL: [Health & Counselling Services - Counseling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html). If you have any more questions or need further assistance, feel free to ask!
+    ]
+    Query: [what group therapies are available?] 
+Rewrite: What group therapy programs are available at Health & Counselling Services (HCS)?
+
+User: rewrite the query based on the provided conversation history in the form of a clear and concise question.
+    Conversation history: [ A: what group therapies are available? 
+    B: At Health & Counselling Services (HCS), students can access a variety of group therapy programs by browsing the available groups and asking questions during a consultation appointment or at a doctor's visit. These group therapy programs are designed to provide additional support and resources for students. To find out more about the specific group therapy programs offered at HCS, you can visit the following URL: [Health & Counselling Services - Counseling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html). If you have any further inquiries or require more information, please feel free to ask!
+    ]
+    Query: [name some of the group programs] 
+Rewrite: What group therapy programs are available at Health & Counselling Services (HCS) and how can students access them?
+
+User: rewrite the query based on the provided conversation history in the form of a clear and concise question.
+    Conversation history: [ A: name some of the group programs 
+    B: At Health & Counselling Services (HCS), students can access group therapy programs by browsing the available groups and asking questions during a consultation appointment or at a doctor's visit. These group therapy programs are part of the services offered to support students' mental health and well-being. To learn more about the specific group therapy programs available at HCS and how to access them, you can visit the following URL: [Health & Counselling Services - Counseling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html). If you have any additional questions or need further assistance, please let me know!
+    ]
+    Query: [is there a group for black people?] 
+Rewrite: Can I access group therapy programs specifically tailored for Black individuals at Health & Counselling Services (HCS)?
+
+User: rewrite the query in the form of a CLEAR and CONCISE question. Use the provided conversation history for clearification.
+    Conversation history: [ A: hi 
+    B: Hello! How can I assist you today?
+    ]
+    Query: [i want to know about my ssp.] 
+Rewrite: What information can you provide about my ssp?
+
+User: rewrite the query in the form of a CLEAR and CONCISE question. Use the provided conversation history for clearification.
+    Conversation history: [ A: i want to know about my ssp. 
+    B: My SSP is a service contracted by the university that provides support for SFU students on various topics such as mental health concerns, stress management, academic pressures, relationship issues, homesickness, cultural adjustment, financial stress, anxiety, and depression. The information shared with My SSP is not shared with SFU. SFU students can access this service by calling or chatting using the app or arranging for short-term counseling with a My SSP counselor by appointment.
+
+For more information about My SSP and how SFU students can access this service, you can visit the following URL: [My SSP at SFU](https://www.sfu.ca/students/health/get-support/my-ssp.html)
+    ]
+    Query: [how can i book appointment for counselling] 
+Rewrite: How can SFU students book an appointment for counseling through My SSP?
+
+User: rewrite the query in the form of a CLEAR and CONCISE question. Use the provided conversation history for clearification.
+    Conversation history: [ A: how can i book appointment for counselling 
+    B: SFU students can access counseling services through My SSP by calling or chatting using the app, or arranging for short-term counseling with a My SSP counselor by appointment. To book an appointment for counseling through My SSP, students can contact the service provider directly through the app or by phone.
+
+For more information on accessing counseling services through My SSP and other health and counseling services available to SFU students, you can visit the following URL: [SFU Health and Counseling Services](https://www.sfu.ca/students/health/)
+    ]
+    Query: [not through my ssp. but with the SFU counsellers ] 
+Rewrite: How can SFU students book an appointment for counseling with SFU counselors, not through My SSP?
+

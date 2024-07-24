@@ -1,12 +1,14 @@
 from retrieve_context import retrieve_context
+from rewrite_user_query import rewrite_users_query
 
 def get_intent(query):
     # NLU task : user looking for info?
     return 'info'
 
-def manage_query(query):
+def manage_query(history, u_query):
     aug_query = ''
-    if get_intent(query) == "info":
+    if get_intent(u_query) == "info":
+        query = rewrite_users_query(history, u_query)
         context, success = retrieve_context(query)
 
         if success == 0 :
@@ -22,17 +24,17 @@ def manage_query(query):
     return aug_query
     
 def gen_prompt_for_confident_response(context, query):
-    augmented_prompt = f""" Answer to the user's question based on this retrieved context. Refer your response to the given URL.
+    augmented_prompt = f""" Answer to the user's question based on this retrieved context. Refer your response to the given URLs.
     Context:{context["Text"]}
     Query: {query}
-    URL: {context["URL"]} """
+    URLs: {context["URL"]} """
     return augmented_prompt
  
 def gen_prompt_for_probable_response(context, query):
-    augmented_prompt = f""" The answer to the user's question might be on this retrieved context. Check with the user if this is the data that they are looking for. Refer your response to the given URL.
+    augmented_prompt = f""" respond to the user. use the retrieved context if needed and Check with the user if this is the data that they are looking for. Refer your response to the given URLs.
     Context:{context["Text"]}
     Query: {query}
-    URL: {context["URL"]} """
+    URLs: {context["URL"]} """
     return augmented_prompt
 
 def gen_prompt_for_no_retrieval(query):

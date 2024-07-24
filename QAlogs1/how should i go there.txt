@@ -1,0 +1,77 @@
+Query: how should i go there?
+
+Index: 0
+Question: How can I find answers to my questions?
+Answer: Advisors can help you find answers.
+File: 0_3_9_3
+URL: https://www.sfu.ca/students/academicadvising/contact/departmental-advisors.html
+Similarity: 0.824930539819619
+
+Index: 1
+Question: How can I find a hospital near me?
+Answer: - Call HealthLink BC at 8-1-1
+- Use the find a location search feature on the website.
+File: 0_4_2
+URL: https://www.vch.ca/en/health-topics/emergency-care
+Similarity: 0.819636715405724
+
+Index: 2
+Question: How can I have a more productive Clubs Days experience and plan my visit ahead?
+Answer: See HERE for the list of participating clubs, student unions, and other student groups.
+File: 0_3_9_9
+URL: https://sfss.ca/
+Similarity: 0.808828517814857
+
+Index: 3
+Question: When should I call 9-1-1 or go to the nearest hospital Emergency Department?
+Answer: - If you or someone requires immediate medical attention for illness, injury, or overdose
+- For crisis or suicide
+File: 0_4_2
+URL: https://www.vch.ca/en/health-topics/emergency-care
+Similarity: 0.8038350549767431
+
+Index: 4
+Question: What should I do in case of a crisis or suicide situation?
+Answer: - Call 1 (800) 784-2433 for crisis or suicide situations
+- Call 9-1-1 or go to the nearest hospital Emergency Department for immediate medical attention
+File: 0_4_2
+URL: https://www.vch.ca/en/health-topics/emergency-care
+Similarity: 0.8034129044988035
+
+Index: 5
+Question: How can I access Here2Talk?
+Answer: - Use one of the recommended browsers
+- Download the Here2Talk App
+File: 0_3_2_2
+URL: https://here2talk.ca/main
+Similarity: 0.803017560927785
+
+Index: 6
+Question: What should I do to prepare for my advising appointment with Student Services Academic Advisors?
+Answer: Prepare for your advising appointment.
+File: 0_3_9_1
+URL: https://www.sfu.ca/students/academicadvising/contact.html
+Similarity: 0.8028750145201982
+
+Index: 7
+Question: How can I contact the group if I am interested in joining?
+Answer: Please email cprac_240@sfu.ca.
+File: 0_3_7_5
+URL: http://www.sfu.ca/students/health/get-support/support-groups/groups/2SLGBTQIA.html
+Similarity: 0.8016667159357062
+
+Index: 8
+Question: How can I see a doctor or nurse at Health & Counselling clinics?
+Answer: You can book with your own General Practitioner, Psychologist, or Psychiatrist
+You can book with a doctor at Health & Counselling clinic.
+File: 0_1_4
+URL: https://www.sfu.ca/students/health/resources/identity/disabled-neurodivergent.html
+Similarity: 0.8010514445367235
+
+Index: 9
+Question: What is required to access the page mentioned in the text?
+Answer: SFU Computing ID
+File: 0_9_6_2
+URL: https://canvas.sfu.ca/enroll/WA6L8N?_gl=1*9n0vcv*_ga*MTA0NzkyNjA5OS4xNzA3NzY3NjMz*_ga_R4BCVYL1QF*MTcxNjMyNzQ0My4zMi4xLjE3MTYzMjk0ODkuMTguMC4w
+Similarity: 0.8003987474019508
+

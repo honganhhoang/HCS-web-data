@@ -1,0 +1,87 @@
+Query: What services related to group therapy are offered at Health & Counselling Services (HCS)?
+
+Index: 0
+Question: How can students access group-based programs at Health & Counselling?
+Answer: Students can access group-based programs at Health & Counselling by browsing groups and asking questions during a consultation appointment or at a doctor's visit.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8946584391064657
+
+Index: 1
+Question: What workshops and outreach opportunities are available through Health and Counselling Services?
+Answer: - View available on-demand workshops and outreach opportunities
+- Request one for your faculty, department, unit or team
+File: 0_1_1_11_2
+URL: https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+Similarity: 0.8933138556848574
+
+Index: 2
+Question: What specialized counselling support options are available at Health & Counselling?
+Answer: - Single Session Counselling Follow-up
+- Short-Term Counselling
+- Group-based programs
+- My SSP service
+- Community resources
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8900916906809981
+
+Index: 3
+Question: How is confidentiality maintained at Health & Counselling Services (HCS)?
+Answer: - Health & Counselling shares one unit of confidentiality
+- All records within HCS are confidential
+- Personal information can only be released outside the centre with written consent
+- Exceptions are made in the case of life-threatening emergencies or as required by law and/or public health regulations
+File: 0_2
+URL: https://www.sfu.ca/students/health/see-a-doctor.html
+Similarity: 0.8840555061775025
+
+Index: 4
+Question: What resources and support services are provided by SFU Health & Counselling Services?
+Answer: - Health and well-being outreach events and/or programs (such as health peers, HI-FIVE, online training)
+- Qualitative and program specific evaluation to understand the experiences of students in programs and their impacts
+- Support services provided in partnership with others across Student Services and the university to provide coordinated, accessible and culturally appropriate support to students
+File: 0_3_3
+URL: https://www.sfu.ca/healthycampuscommunity/about/wellbeing-framework.html
+Similarity: 0.8762968435118377
+
+Index: 5
+Question: How can I book an appointment for counselling support at Health & Counselling?
+Answer: You can book appointments online or call the front desk.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8672431929327702
+
+Index: 6
+Question: How does the team act as a liaison with other Health and Counselling providers?
+Answer: The team acts as a liaison with other Health and Counselling providers by working collaboratively and sharing information to ensure a holistic approach to student well-being.
+File: 0_8_1
+URL: https://www.sfu.ca/healthycampuscommunity/about/contact-us.html
+Similarity: 0.8668213452780476
+
+Index: 7
+Question: What types of concerns are well suited for short-term counselling at Health & Counselling?
+Answer: various kinds of anxiety (worry, social, test), stress, mild to moderate depression, adjustment and transition to university, acculturation, family and relationship concerns, loneliness, identity concerns.
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.8649358977125532
+
+Index: 8
+Question: What type of counsellors are available through Homewood Health?
+Answer: - Registered licensed counsellors
+- Counsellors with extensive experience in counselling clients within the Indigenous community
+- Counsellors identifying as experts in Inuit, Metis, First Nations, and Residential Schools
+- Counsellors identifying as experts in LGBTQ2+ and BIPOC communities
+File: 0_1_1_11_4_6
+URL: https://www.sfu.ca/human-resources/efap.html
+Similarity: 0.8645342541160556
+
+Index: 9
+Question: How can I register for group counselling sessions?
+Answer: - Browse our list of options and register
+- Self-refer
+- Drop in to get connected
+File: 0_3_8
+URL: https://www.sfu.ca/students/health/get-support/support-groups/virtual-programs-tags/all-groups.html
+Similarity: 0.8636095212064573
+
