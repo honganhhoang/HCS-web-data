@@ -11,7 +11,7 @@ def generate_answers(question, text):
     prompt = f"Answer the question based on the provided context.\n\nQuestion: {question}\n\nContext: {text}"
     client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo", 
+        model="gpt-4.1-nano", 
         messages=[
             {
                 "role": "user",

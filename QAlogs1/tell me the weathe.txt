@@ -1,3 +1,0 @@
-Query: tell me the weather
-
-No Context or too much was retrieved.

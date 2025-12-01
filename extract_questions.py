@@ -56,6 +56,6 @@ empty_files = ['0_9_2_1.txt', '0_4_5.txt', '0_3_2_6_1.txt',
 traced_manually = ['0_9_2_1.txt', '0_1_4_2.txt']'''
 
 start = 0
-for i, filename in enumerate(all_data_files[start:len(all_data_files)//2]):
+for i, filename in enumerate(all_data_files[start:]):
     print(f"{i+start}", end=' ')
     process_files(input_directory, output_directory)

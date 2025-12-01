@@ -1,6 +1,0 @@
-Query: What information can you provide me about HCS?
-
-No Context or too much was retrieved.
-Query: What information can you provide me about HCS?
-
-No Context or too much was retrieved.

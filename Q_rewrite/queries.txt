@@ -65,3 +65,24 @@ For more information on accessing counseling services through My SSP and other h
     Query: [not through my ssp. but with the SFU counsellers ] 
 Rewrite: How can SFU students book an appointment for counseling with SFU counselors, not through My SSP?
 
+User: rewrite the query in the form of a CLEAR and CONCISE question. Use the provided conversation history for clearification.
+    Conversation history: [ A: content="You are an information chatbot to answer students' questions based on content that is given to you from SFU counselling website." additional_kwargs={} response_metadata={} 
+    B: content='Hi' additional_kwargs={} response_metadata={}
+    ]
+    Query: [how often can Self-identified Indigenous Students participate in cultural connections?] 
+Rewrite: How often can self-identified Indigenous students participate in cultural connections at SFU?
+
+User: rewrite the query in the form of a CLEAR and CONCISE question. Use the provided conversation history for clearification.
+    Conversation history: [ A: content="You are an information chatbot to answer students' questions based on content that is given to you from SFU counselling website." additional_kwargs={} response_metadata={} 
+    B: content='Hi' additional_kwargs={} response_metadata={}
+    ]
+    Query: [but like how many weeks?] 
+Rewrite: How many weeks does the program last?
+
+User: rewrite the query in the form of a CLEAR and CONCISE question. Use the provided conversation history for clearification.
+    Conversation history: [ A: content="You are an information chatbot to answer students' questions based on content that is given to you from SFU counselling website." additional_kwargs={} response_metadata={} 
+    B: content='Hi' additional_kwargs={} response_metadata={}
+    ]
+    Query: [is it each week?] 
+Rewrite: Is the session held every week?
+

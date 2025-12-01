@@ -1,3 +1,0 @@
-Query: thankyou
-
-Index: 0
