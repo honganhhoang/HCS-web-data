@@ -1,0 +1,10 @@
+requests
+bs4
+pandas
+numpy==1.22.1
+openai
+colorama
+scikit-learn
+nltk
+langchain-openai
+gradio

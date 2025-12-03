@@ -25,7 +25,7 @@ def rewrite_users_query(last_messages, Q):
                 "content": message,
             }
         ],
-        model="gpt-3.5-turbo",
+        model="gpt-4.1-mini",
         max_tokens=50,
     )
     new_query = chat_completion.choices[0].message.content

@@ -1,3 +1,0 @@
-Query: hi.
-
-No Context or too much was retrieved.

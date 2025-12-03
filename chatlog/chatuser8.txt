@@ -14,3 +14,30 @@ For more information on accessing counseling services at the university, you can
 
 User>>exit
 
+Bot>> Hello! How can I assist you today with SFU counselling information?
+
+User>>how often can Self-identified Indigenous Students participate in cultural connections?
+
+Bot>> Hello! How can I assist you with information from the SFU counselling website today?
+
+User>>how often can Self-identified Indigenous Students participate in cultural connections?
+
+Bot>> Self-identified Indigenous students at SFU can participate in cultural connections regularly through the Indigenous Learning Living Community (ILLC). This community offers ongoing opportunities to connect with peers, share heritage, and engage in cultural and educational activities guided by SFU’s Indigenous Student Centre. For more details on participation and events, you can visit the following pages:
+- https://www.sfu.ca/students/indigenous/programs-and-resources/illc.html
+- https://www.sfu.ca/students/residences/housing-options/living-learning-communities/indigenous.html
+- https://www.sfu.ca/gradstudies/life-community/indigenous.html
+
+User>>but like how many weeks?
+
+Bot>> The Indigenous onboarding program at SFU lasts for 9 months and is optional. Additionally, tutoring support is provided for up to 13 weeks. Does this answer the duration information you were looking for? For more details, you can check these pages: 
+- http://www.sfu.ca/students/indigenous/elders.html
+- http://www.sfu.ca/students/indigenous/programs-and-resources/academic-support/tutoring.html
+
+User>>is it each week?
+
+Bot>> Yes, the weekly Elder Program Drop-ins at SFU are held every Wednesday. If you were referring to other sessions, such as advising hours, those occur on a weekly or bi-weekly basis depending on the campus and day. Does this answer your question? For more details, you can visit:
+- http://www.sfu.ca/students/indigenous/elders.html
+- http://www.sfu.ca/students/indigenous/programs-and-resources/academic-support.html
+
+User>>exit
+

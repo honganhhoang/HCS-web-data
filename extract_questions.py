@@ -10,19 +10,16 @@ def read_text_file(file_path):
 def generate_questions(text):
     prompt = f"Generate a list of questions by a user that can be answered using this extracted text from a website.\n\n{text}"
     client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-    response = client.chat.completions.create(
-        model="gpt-3.5-turbo", 
-        messages=[
+    response = client.responses.create(
+        model="gpt-4.1-nano", 
+        input=[
             {
                 "role": "user",
                 "content": prompt + " only write the questions.",
             }
         ],
-        n=1,
-        stop=None,
-        temperature=0.7
     )
-    questions = response.choices[0].message.content
+    questions = response.output_text
     return questions
     
 
@@ -58,7 +55,7 @@ empty_files = ['0_9_2_1.txt', '0_4_5.txt', '0_3_2_6_1.txt',
 # others not traced : link to youtube, pdf, not informative business websites
 traced_manually = ['0_9_2_1.txt', '0_1_4_2.txt']'''
 
-start = 78
+start = 0
 for i, filename in enumerate(all_data_files[start:]):
     print(f"{i+start}", end=' ')
     process_files(input_directory, output_directory)

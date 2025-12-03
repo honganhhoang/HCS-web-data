@@ -1,7 +1,7 @@
 import gradio as gr
 
-from langchain.chat_models import ChatOpenAI
-from langchain.schema import HumanMessage, SystemMessage
+from langchain_openai import ChatOpenAI
+from langchain_core.messages import HumanMessage, SystemMessage
 import os
 from bot import Bot
 from question_answering_bot import manage_query

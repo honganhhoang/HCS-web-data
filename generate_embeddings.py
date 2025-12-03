@@ -9,7 +9,7 @@ def get_embedding(text, model="text-embedding-ada-002"):
     return client.embeddings.create(input=[text], model=model).data[0].embedding
 
 
-'''set_api_key_from_file()
+set_api_key_from_file()
 df = pd.read_csv('StructuredQA.csv')
 #df.to_csv('ToyStructuredQA.csv', index=False)
 
@@ -22,4 +22,4 @@ for embedding in embeddings:
         row[i] = embedding[i]
     embedding_df = pd.concat([embedding_df, pd.DataFrame([row])], ignore_index=True)
 
-embedding_df.to_csv('Embeddings.csv', index=False)'''
+embedding_df.to_csv('Embeddings.csv', index=False)

@@ -19,7 +19,7 @@ def read_col_values_from_file(question_directory, answer_directory, filename):
     answers = re.split(r'\n(?=\d+\.\n)', content_of_answer_file)
     answers = [a.strip().split('.\n')[1] for a in answers]
 
-    website_data = pd.read_csv('HCS website.csv')
+    website_data = pd.read_csv('sfu_indigenous.csv')
     filtered_df = website_data[website_data['name'] == filename]
 
     data = []
